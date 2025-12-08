@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .TEAM one-word domains still available to buy.
 
-This dataset contains 3,941 .TEAM one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,215 .TEAM one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.TEAM one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=team-oneword-domains&utm_content=description.top) (3,943) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.TEAM one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/team-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/team-oneword-domains/blob/main/team.csv"><b>⬇️ CSV (3.94K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/team-oneword-domains/blob/main/team.json"><b>⬇️ JSON (3.94K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/team-oneword-domains/blob/main/team.csv"><b>⬇️ CSV (4.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/team-oneword-domains/blob/main/team.json"><b>⬇️ JSON (4.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=team-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.94K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status    | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
-| --------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
-| aaron.team      | resell    | 88       | 32%    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 18/12/2024 14:41 | 18/12/2025 14:41 |
-| abactinal.team  | available | 50       | 1%     | 9      |                                                                    |                  |                  |
-| abaft.team      | available | 43       | 2%     | 5      |                                                                    |                  |                  |
-| abandoned.team  | available | 58       | 7%     | 9      |                                                                    |                  |                  |
-| abashed.team    | available | 60       | 2%     | 7      |                                                                    |                  |                  |
-| abasic.team     | available | 54       | 2%     | 6      |                                                                    |                  |                  |
-| abatable.team   | available | 54       | 1%     | 8      |                                                                    |                  |                  |
-| abatic.team     | available | 54       | 2%     | 6      |                                                                    |                  |                  |
-| abaxial.team    | available | 54       | 2%     | 7      |                                                                    |                  |                  |
-| abbatial.team   | available | 50       | 1%     | 8      |                                                                    |                  |                  |
-| abc.team        | resell    | 102      | 41%    | 3      | Spaceship, Inc.                                                    | 19/03/2022 13:15 | 19/03/2026 13:15 |
-| abdicable.team  | available | 50       | 1%     | 9      |                                                                    |                  |                  |
-| abdominal.team  | available | 82       | 5%     | 9      |                                                                    |                  |                  |
-| abdominous.team | available | 56       | 1%     | 10     |                                                                    |                  |                  |
-| abducens.team   | available | 54       | 1%     | 8      |                                                                    |                  |                  |
-| abducent.team   | available | 68       | 1%     | 8      |                                                                    |                  |                  |
-| abducting.team  | available | 50       | 1%     | 9      |                                                                    |                  |                  |
-| abenaki.team    | available | 82       | 3%     | 7      |                                                                    |                  |                  |
-| aberdonian.team | available | 68       | 1%     | 10     |                                                                    |                  |                  |
-| aberrant.team   | available | 74       | 7%     | 8      |                                                                    |                  |                  |
-| abeyant.team    | available | 56       | 2%     | 7      |                                                                    |                  |                  |
-| abhorrent.team  | available | 54       | 3%     | 9      |                                                                    |                  |                  |
-| abiding.team    | available | 106      | 5%     | 7      |                                                                    |                  |                  |
-| abient.team     | available | 54       | 1%     | 6      |                                                                    |                  |                  |
-| ability.team    | resell    | 92       | 18%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd.                | 20/05/2020 17:29 | 20/05/2026 17:29 |
-| abit.team       | available | 66       | 16%    | 5      |                                                                    |                  |                  |
-| abject.team     | available | 94       | 8%     | 6      |                                                                    |                  |                  |
-| abkhas.team     | available | 68       | 1%     | 6      |                                                                    |                  |                  |
-| abkhasian.team  | available | 78       | 1%     | 9      |                                                                    |                  |                  |
-| abkhaz.team     | available | 82       | 2%     | 6      |                                                                    |                  |                  |
+| Domain          | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
+| --------------- | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| abactinal.team  | available | 50       | 1%     | 9      |                                                     |                  |                  |
+| abaft.team      | available | 43       | 2%     | 5      |                                                     |                  |                  |
+| abandoned.team  | available | 58       | 7%     | 9      |                                                     |                  |                  |
+| abashed.team    | available | 60       | 2%     | 7      |                                                     |                  |                  |
+| abasic.team     | available | 54       | 2%     | 6      |                                                     |                  |                  |
+| abatable.team   | available | 54       | 1%     | 8      |                                                     |                  |                  |
+| abatic.team     | available | 54       | 2%     | 6      |                                                     |                  |                  |
+| abaxial.team    | available | 54       | 2%     | 7      |                                                     |                  |                  |
+| abbatial.team   | available | 50       | 1%     | 8      |                                                     |                  |                  |
+| abc.team        | resell    | 102      | 39%    | 3      | Spaceship, Inc.                                     | 19/03/2022 13:15 | 19/03/2026 13:15 |
+| abdicable.team  | available | 50       | 1%     | 9      |                                                     |                  |                  |
+| abdominal.team  | available | 82       | 5%     | 9      |                                                     |                  |                  |
+| abdominous.team | available | 56       | 1%     | 10     |                                                     |                  |                  |
+| abducens.team   | available | 54       | 1%     | 8      |                                                     |                  |                  |
+| abducent.team   | available | 68       | 1%     | 8      |                                                     |                  |                  |
+| abducting.team  | available | 50       | 1%     | 9      |                                                     |                  |                  |
+| abenaki.team    | available | 82       | 3%     | 7      |                                                     |                  |                  |
+| aberdonian.team | available | 68       | 1%     | 10     |                                                     |                  |                  |
+| aberrant.team   | available | 74       | 7%     | 8      |                                                     |                  |                  |
+| abeyant.team    | available | 56       | 2%     | 7      |                                                     |                  |                  |
+| abhorrent.team  | available | 54       | 3%     | 9      |                                                     |                  |                  |
+| abide.team      | available | 94       | 15%    | 5      |                                                     |                  |                  |
+| abiding.team    | available | 106      | 5%     | 7      |                                                     |                  |                  |
+| abient.team     | available | 54       | 1%     | 6      |                                                     |                  |                  |
+| ability.team    | resell    | 92       | 16%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. | 20/05/2020 17:29 | 20/05/2026 17:29 |
+| abit.team       | available | 66       | 12%    | 5      |                                                     |                  |                  |
+| abject.team     | available | 94       | 8%     | 6      |                                                     |                  |                  |
+| abkhas.team     | available | 68       | 1%     | 6      |                                                     |                  |                  |
+| abkhasian.team  | available | 78       | 1%     | 9      |                                                     |                  |                  |
+| abkhaz.team     | available | 82       | 2%     | 6      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/team-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/team-oneword-domains/blob/main/team.csv"><b>⬇️ CSV (3.94K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/team-oneword-domains/blob/main/team.json"><b>⬇️ JSON (3.94K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/team-oneword-domains/blob/main/team.csv"><b>⬇️ CSV (4.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/team-oneword-domains/blob/main/team.json"><b>⬇️ JSON (4.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=team-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.94K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.TEAM one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
