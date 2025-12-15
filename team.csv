@@ -23,8 +23,8 @@ de180058-49ca-48c1-bdc8-a37917e766fc,abc.team,resell,102,39,3,"Spaceship, Inc.",
 7281931d-9a56-4c2f-9c3a-0664dc5effdc,abide.team,available,94,15,5,,,
 68bd9fd4-0340-4845-a053-635bd7b1a639,abiding.team,available,106,5,7,,,
 234d949e-7803-4e41-a5fe-0e6387084d71,abient.team,available,54,1,6,,,
-5ff09bd8-21b0-406c-a2a5-5bb9bebf886c,ability.team,resell,92,16,7,"Chengdu West Dimension Digital Technology Co., Ltd.",20/05/2020 17:29,20/05/2026 17:29
-b4641b17-167a-41ac-bbab-69ee9fd29f09,abit.team,available,68,12,5,,,
+5ff09bd8-21b0-406c-a2a5-5bb9bebf886c,ability.team,resell,92,15,7,"Chengdu West Dimension Digital Technology Co., Ltd.",20/05/2020 17:29,20/05/2026 17:29
+b4641b17-167a-41ac-bbab-69ee9fd29f09,abit.team,available,66,12,5,,,
 9a672a2b-2cf3-4881-b63e-c08bffda21a3,abject.team,available,94,8,6,,,
 17c7de2b-ce41-440a-ba7d-e3b083bc050b,abkhas.team,available,68,1,6,,,
 c693d10a-be21-499d-8009-2f8942693143,abkhasian.team,available,78,1,9,,,
@@ -131,7 +131,7 @@ d89d3991-d041-4793-a565-240b72b0f064,accrued.team,available,62,3,7,,,
 86c8a111-3dd1-49f2-9643-050a9a46ddfa,accurately.team,available,72,2,10,,,
 aeeecbbe-056d-4833-9adb-d7e15d627f7f,accursed.team,available,54,3,8,,,
 607904d2-7e22-43a1-8046-b5781bb82072,accurst.team,available,40,1,7,,,
-b6339c7d-dfbc-4d83-8521-6e8f4db2bc6d,accusation.team,available,66,1,10,,,
+b6339c7d-dfbc-4d83-8521-6e8f4db2bc6d,accusation.team,available,66,2,10,,,
 41b0f1e9-341e-4937-a066-c6c5f2d3a85d,accusative.team,available,72,1,10,,,
 0fde0a25-e238-4f29-8e89-3b0e1cac02be,accusatory.team,available,44,1,10,,,
 709dc2d5-4195-4b1c-80d9-91f61a04475d,accused.team,available,82,3,7,,,
@@ -316,13 +316,15 @@ ffd7b0d1-aa9a-4aa5-8742-452129d7cebe,advancing.team,available,72,6,9,,,
 b1fc51e1-de04-42ac-aa73-a65c3506c60d,adventive.team,available,68,3,9,,,
 cfa3a941-176d-4012-a408-1399875cf478,adverbial.team,available,66,1,9,,,
 cd341d80-fa94-4b19-b746-2364efd91203,adverse.team,available,54,7,7,,,
-05dc0af0-8711-4ee9-bc21-84bebffb9be8,advert.team,resell,90,12,6,"Sav.com, LLC - 48",08/04/2025 15:15,08/04/2026 15:15
+05dc0af0-8711-4ee9-bc21-84bebffb9be8,advert.team,resell,90,11,6,"Sav.com, LLC - 48",08/04/2025 15:15,08/04/2026 15:15
 043f8e50-292d-4e33-afa4-d6284e9cff8d,advertent.team,available,56,1,9,,,
 8147745e-d03b-44a0-9709-23b566a9efe1,advertised.team,available,54,3,10,,,
 ccf2c40d-a739-456a-843c-42249329697d,advertisement.team,available,76,12,13,,,
 0692b0fd-3289-4e5c-a6a0-abcbbe0ccb5f,advisable.team,available,62,3,9,,,
 145adfc3-dbce-4f02-b793-20cb3e2cb9bc,adviseable.team,available,66,1,10,,,
 ea5d6cc3-9f2f-43bc-ab4a-d78d7a0dbb5a,advised.team,available,66,4,7,,,
+96a5ddcd-1312-4044-bc3b-5fa1ddcfc6fe,adviser.team,resell,80,12,7,Dynadot Inc,15/03/2025 14:22,15/03/2026 14:22
+c1136814-40f1-486d-bd1d-63d08d36d863,advisor.team,resell,81,24,7,"DNSPod, Inc.",12/12/2020 23:46,12/12/2026 23:46
 e0c0b5cb-f0a2-42f2-87df-6c5c7303db9e,advocate.team,resell,90,15,8,"Sav.com, LLC - 10",26/03/2025 15:15,26/03/2026 15:15
 3f2c43bb-9df1-46db-a71e-da44ebead853,adynamic.team,available,50,1,8,,,
 ed14211f-cb69-4963-a274-0ba77bd76cdd,aecial.team,available,54,1,6,,,
@@ -430,13 +432,12 @@ f7bf2265-5bbb-4a0a-8dfe-40931aace71a,aguish.team,available,56,1,6,,,
 8f79500a-d96c-41b6-9dde-48e4d05ea099,ahorse.team,available,46,2,6,,,
 dc08e41d-db45-4d70-b82c-b72a064fcf3f,ahorseback.team,available,52,1,10,,,
 13e2dcf0-1435-40b5-99e5-d487bedab8ce,ahuh.team,available,78,2,4,,,
-c5ac1736-aa35-4261-8ab9-785d14af58bd,aid.team,resell,66,19,3,"Sav.com, LLC - 17",25/10/2025 15:15,25/10/2026 15:15
+c5ac1736-aa35-4261-8ab9-785d14af58bd,aid.team,resell,66,18,3,"Sav.com, LLC - 17",25/10/2025 15:15,25/10/2026 15:15
 3ac29a2b-d91e-491c-9263-eb07245d20ea,aide.team,resell,80,14,4,"Sav.com, LLC - 24",20/07/2025 15:15,20/07/2026 15:15
 eb63a3ee-c8a1-42bd-b98d-ef6db4f5195c,aided.team,available,72,4,5,,,
 afdc791a-72b8-49ef-b4d9-431130fba3f2,aids.team,available,66,9,4,,,
 5808d8a5-7e1f-4d13-b0af-e285efa3fe99,ailing.team,available,82,3,6,,,
 feef0d7b-e8c7-4a70-9111-d195939ad21c,aimless.team,available,54,9,7,,,
-875eb79e-262c-49ff-9bfb-4471d14d66fd,air.team,resell,84,38,3,"Global Domains International, Inc. DBA DomainCostClub.com",08/01/2021 00:12,08/01/2026 00:12
 36965cd7-44e5-4d5b-810d-eccaa49fbf61,airdried.team,available,58,1,9,,,
 d70711a7-3abb-4236-9094-e3ba5fcb4e7a,airdry.team,available,64,5,7,,,
 b4d9964c-ec42-491a-807b-76dff5169eff,airfilled.team,available,58,1,10,,,
@@ -446,7 +447,7 @@ a0072d94-ebe2-4688-a7e0-14c4c6c44501,airfreshener.team,available,76,3,13,,,
 290ec4ed-81da-4f2b-8403-c2487afc44cf,airlike.team,available,68,4,7,,,
 6677543d-d177-4ab5-96b4-afdf075e43ef,airmarshal.team,available,72,2,11,,,
 95ee5b4d-c29b-427c-b5de-f9c605110f9e,airphoto.team,available,70,3,9,,,
-a3cbf7cf-d6fa-4578-b62d-b0e1f4f00fd8,airport.team,resell,65,25,7,"Chengdu West Dimension Digital Technology Co., Ltd.",22/05/2024 15:15,22/05/2026 15:15
+a3cbf7cf-d6fa-4578-b62d-b0e1f4f00fd8,airport.team,resell,65,24,7,"Chengdu West Dimension Digital Technology Co., Ltd.",22/05/2024 15:15,22/05/2026 15:15
 eb6efc40-3570-4c80-a09d-0e08c064733c,airportnovel.team,available,73,1,13,,,
 7e029849-7b38-47b0-b681-64406416cb7c,airsick.team,available,52,1,7,,,
 cc0b6fa1-f509-45f9-bcbf-000be20289a2,airtight.team,available,64,8,8,,,
@@ -505,7 +506,7 @@ d59eca37-a1b0-4f28-a8a2-04276f6d5f97,algometric.team,available,48,1,10,,,
 4f2e2f8b-fd7d-45fd-ba0e-1fcce2bd2327,algonquian.team,available,70,1,10,,,
 e2262856-c3a7-486e-91e6-a542318d8d65,algonquin.team,available,66,7,9,,,
 08729b91-ae48-4888-b7a0-ac2a5229c900,algophobic.team,available,46,1,10,,,
-535fb443-31dd-4415-ad28-77080562b4fd,algore.team,available,70,4,7,,,
+535fb443-31dd-4415-ad28-77080562b4fd,algore.team,available,70,3,7,,,
 96d863ce-c6c1-4de3-9c7b-29261645e302,aliehasnolegs.team,available,54,1,17,,,
 830cd37b-d883-40ce-8841-93198c856dba,alien.team,resell,56,35,5,"Chengdu West Dimension Digital Technology Co., Ltd.",20/12/2018 08:46,20/12/2025 08:46
 064e04ef-149f-4af5-85dd-3fd259f8764a,alienable.team,available,52,1,9,,,
@@ -544,7 +545,7 @@ fad00587-df5a-43fd-9123-60fcb403d760,allegretto.team,available,76,3,10,,,
 5c871fd4-e5cb-4cd5-8ac2-7e9918de899d,allelic.team,available,50,1,7,,,
 481cf5de-6978-49af-b7a1-dbaa2c386ad3,allergenic.team,available,54,1,10,,,
 dcabf638-ff4c-42fb-ab4e-134eea40b512,allergic.team,available,84,3,8,,,
-50114e4a-2b20-4913-aee1-273e18b9e443,allergist.team,available,64,3,9,,,
+50114e4a-2b20-4913-aee1-273e18b9e443,allergist.team,available,64,2,9,,,
 a43122c2-0894-4e03-8ac3-5a778d69ff5f,allergy.team,available,72,14,7,,,
 3a0e255a-224a-4d9c-8680-423508bc349e,alleviated.team,available,66,1,10,,,
 1569a15a-8360-4a9c-ac46-52f268fa9971,alley.team,available,58,8,5,,,
@@ -587,7 +588,7 @@ da2be066-afb2-4420-8769-69250ca8eefc,allusive.team,available,60,2,8,,,
 448c9f05-d6e7-4801-ac60-9acc6989ccbf,along.team,available,66,7,5,,,
 2bf3f1a1-39ac-4bb9-91fb-b5bb21372f7e,aloof.team,available,66,5,5,,,
 33ece84b-25d4-4c17-8241-618e103f5952,alopecic.team,available,42,1,8,,,
-d4a8639b-6847-44c5-b58b-16a7f19182df,alot.team,available,68,9,5,,,
+d4a8639b-6847-44c5-b58b-16a7f19182df,alot.team,available,88,9,5,,,
 faca5602-d2f1-4016-8b51-0a671b80b7a7,aloud.team,available,72,6,5,,,
 503c184a-ccc8-47c4-8e44-129fe1fe0e0c,alpestrine.team,available,46,1,10,,,
 c2b3c04f-0ed7-4c3e-a18f-0d1ddf513faf,alpha.team,resell,90,42,5,"DNSPod, Inc.",13/10/2024 15:15,13/10/2026 15:15
@@ -676,7 +677,7 @@ ba35752d-1bd6-4f5f-bdcc-5ff130a89e1e,amoristic.team,available,46,1,9,,,
 e455284f-0eda-4e9c-95b8-ae06e1a4103e,amorous.team,available,72,5,7,,,
 9a774d59-2a03-4bef-a300-3a876f80b04b,amorphous.team,available,50,6,9,,,
 6bd8ab0b-ff3c-46d0-96d3-d7486753a3fb,amort.team,available,48,4,5,,,
-e715813f-e4c5-48be-84a9-abc23ec7dfd9,amount.team,available,102,5,6,,,
+e715813f-e4c5-48be-84a9-abc23ec7dfd9,amount.team,available,102,6,6,,,
 16ff0937-ab74-483c-a78b-29d0e3a02452,amphibious.team,available,50,4,10,,,
 8fed0adc-75d9-46d8-8252-4097c111ba5c,amphoric.team,available,46,2,8,,,
 61f36e8c-09e1-4057-813c-6e88e1d72edd,amphoteric.team,available,46,1,10,,,
@@ -755,9 +756,9 @@ f32704d0-3ee0-40b1-b963-6572bb976b02,anechoic.team,available,50,2,8,,,
 15b50b31-485e-4d55-8f64-c2e62b9a4f1d,aneuploid.team,available,59,1,9,,,
 6defdfcf-227c-4c65-be49-5735dd23b7bb,aneurismal.team,available,50,6,10,,,
 6fbef8a8-36ea-4e8d-bd1a-a5bd3eb9c9b6,aneurysmal.team,available,50,2,10,,,
-3ddd3e5f-026a-44b6-b0a1-3b0049ebc78c,angel.team,resell,98,32,5,"Chengdu West Dimension Digital Technology Co., Ltd.",07/06/2017 14:32,07/06/2026 14:32
+3ddd3e5f-026a-44b6-b0a1-3b0049ebc78c,angel.team,resell,98,31,5,"Chengdu West Dimension Digital Technology Co., Ltd.",07/06/2017 14:32,07/06/2026 14:32
 5e7feb72-68c0-4bf7-b262-0972fb93f065,angelical.team,available,68,1,9,,,
-92138e5e-9161-4882-89cf-0d2070cf8274,anger.team,available,80,11,5,,,
+92138e5e-9161-4882-89cf-0d2070cf8274,anger.team,available,80,10,5,,,
 f0fe5c64-3c31-4bf8-b5ac-5063ac309136,angered.team,available,52,4,7,,,
 4a6d6387-fbd6-4a94-a09b-3b426c9020fa,anginal.team,available,54,1,7,,,
 f3b9d98a-2e0d-4a80-8425-8c93b07322da,anginose.team,available,50,2,8,,,
@@ -788,7 +789,7 @@ cb847486-32e1-44ee-a72a-8886c0d2bebd,Ann.team,available,74,14,3,,,
 070d483c-e2a3-4c87-b34b-0307e28d8583,annalistic.team,available,47,1,10,,,
 f6573772-64b2-432c-be72-5a4edc77d8cd,annelid.team,available,63,2,7,,,
 5a2003ab-79a3-4ad0-9386-5612c0b80f87,annelidan.team,available,59,1,9,,,
-fe2f3746-e350-4cf0-b0ba-323babd4ff3d,annex.team,available,60,11,5,,,
+fe2f3746-e350-4cf0-b0ba-323babd4ff3d,annex.team,available,60,12,5,,,
 bb74dcb8-e8ae-4996-9065-8dbddf8c4c96,annexal.team,available,60,2,7,,,
 f137d142-d37b-44cc-856a-f44f1e72a5d8,anniversary.team,available,74,10,11,,,
 31de1ee5-c6ed-42ba-a27e-fbbee7b9ca72,annotated.team,available,64,3,9,,,
@@ -1033,7 +1034,7 @@ bb02f584-351f-47ab-9fa8-f09e093bc462,arciform.team,available,46,1,8,,,
 dace38d8-49c5-4f81-9587-d56308075513,arco.team,available,45,19,4,,,
 62b74d23-1f28-4164-8c3b-cc74e75f0d93,arcuate.team,available,50,2,7,,,
 5f152d53-ee4a-4b43-8970-48f0d9a2aacf,arduous.team,available,60,3,7,,,
-63b9569f-14b9-4568-a0db-b66c2261d28d,area.team,resell,78,25,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/09/2023 15:15,03/09/2026 15:15
+63b9569f-14b9-4568-a0db-b66c2261d28d,area.team,resell,78,24,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/09/2023 15:15,03/09/2026 15:15
 5b990855-fdec-447b-aa3f-d7ed2660b1e6,arenaceous.team,available,46,1,10,,,
 90849ca6-65dd-4cdf-ac85-7fb615e6b6dc,areolar.team,available,50,1,7,,,
 08d23f19-37fd-4f04-81a0-c7e32c7bb5bd,areolate.team,available,46,1,8,,,
@@ -1090,7 +1091,7 @@ d027c1ec-7eb9-416f-9479-d32330238d90,artist.team,resell,81,28,6,"DNSPod, Inc.",2
 f0b01ead-04d8-49de-ae46-eca967d9cf81,artless.team,available,62,7,7,,,
 a37405c9-7194-49dd-ac49-b377f5efeefb,artmusic.team,available,70,5,9,,,
 0648f75c-50e3-4774-8be3-c865eb5fdf16,artofwar.team,available,65,7,10,,,
-4f90d87d-a9d2-4f8c-bd52-91f03f9f3ee2,arts.team,resell,76,30,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/04/2019 17:01,03/04/2026 17:01
+4f90d87d-a9d2-4f8c-bd52-91f03f9f3ee2,arts.team,resell,76,23,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/04/2019 17:01,03/04/2026 17:01
 b3d170c6-a55a-40cc-acd7-166b1a6af7ee,arty.team,available,56,15,4,,,
 7fa74947-22d8-4a0a-b1b8-93c338457855,arum.team,available,53,6,4,,,
 0beab504-caab-4747-95fd-5691c5b0cf5d,aryan.team,available,82,14,5,,,
@@ -1116,7 +1117,7 @@ a6e6fe8d-2edb-49d8-89f2-841073559156,aseptic.team,available,72,3,7,,,
 39d0aa38-1419-47b1-8c1e-b0e9367f521c,ashgray.team,available,60,2,8,,,
 ac67410e-f74f-4faf-93b2-981ce648e501,ashgrey.team,available,60,2,8,,,
 5f18245d-5a97-4014-be91-422f9ab9c316,ashy.team,available,60,10,4,,,
-5eeffff9-323f-4764-bc39-8bfe74d7e367,asia.team,available,72,25,4,,,
+5eeffff9-323f-4764-bc39-8bfe74d7e367,asia.team,available,72,24,4,,,
 be3f8ba8-6bbb-4baf-a601-f0ef5efdeec2,asian.team,available,82,19,5,,,
 78aef5a6-0072-4721-bd69-541010172902,asiatic.team,available,66,4,7,,,
 580efb96-cbeb-4a2b-bcb0-677ebe7865f6,aside.team,available,102,9,5,,,
@@ -1125,7 +1126,7 @@ b1942a79-e43e-425b-aafd-3a946ea047aa,askance.team,available,76,3,7,,,
 5aabecc4-1b7a-4dcd-b136-72fd889e7e5a,askant.team,available,76,3,6,,,
 c115e021-ff5b-48db-90dc-30f8135b416d,asked.team,available,76,5,5,,,
 bf8ee6c8-5c04-4a81-a1a2-022b6f94fccc,askew.team,available,44,8,5,,,
-a926d72c-c602-4670-84e3-95f48276fb51,asking.team,available,86,7,6,,,
+a926d72c-c602-4670-84e3-95f48276fb51,asking.team,available,86,8,6,,,
 f306f442-44a0-4457-b579-dc0f6c5b9ddc,aslant.team,available,58,2,6,,,
 f37ba4ba-73dd-491c-a1c9-51bb1f3519c5,asleep.team,available,74,6,6,,,
 9865aa41-4bac-47ee-9cb4-c5811cd055a3,aslongas.team,available,52,1,10,,,
@@ -1201,14 +1202,14 @@ a94d2c7c-b696-419b-b4b0-0f306b636b33,astrocytic.team,available,34,1,10,,,
 e018e13d-7445-470a-bde6-c300ab8eff5f,astute.team,available,70,13,6,,,
 f5a7f1ba-fcd4-4c5a-bf28-04e83bb061f8,astylar.team,available,49,1,7,,,
 61863767-bdb9-48bb-b80e-be9b3a93ed40,asunder.team,available,48,2,7,,,
-c1abae46-d06c-498b-bc90-04ce6392a29b,aswell.team,available,58,4,7,,,
+c1abae46-d06c-498b-bc90-04ce6392a29b,aswell.team,available,72,4,7,,,
 c53102d6-bcb6-4205-84ee-5cab242eca15,asymptotic.team,available,38,4,10,,,
 701b32e1-c9a6-4d79-8095-af0e98c554e5,asyndetic.team,available,45,1,9,,,
 a317d6ff-9e60-42eb-875d-e3d51785f1b5,asynergic.team,available,34,1,9,,,
 9aa7e011-c5be-4ca1-bda8-dd381f95290c,asyoulike.team,available,92,2,11,,,
 aa799620-60a7-4135-b76b-291a4fd329cf,asyouwish.team,available,76,6,11,,,
 bb33088c-645a-4fc6-a365-195aab08cc9d,atactic.team,available,38,2,7,,,
-cf3f1554-6ce2-46cc-be31-0466e90f5e7e,atall.team,available,66,5,6,,,
+cf3f1554-6ce2-46cc-be31-0466e90f5e7e,atall.team,available,66,4,6,,,
 51c01b8a-a3c7-4e2f-825e-6b51321f6468,ataloss.team,available,32,1,9,,,
 247290f5-432a-4bed-9857-94d0e6fe3b0f,ataractic.team,available,52,1,9,,,
 bac0a109-39c2-4430-a9bd-d8e13eb57298,ataraxic.team,available,52,3,8,,,
@@ -1217,7 +1218,7 @@ ebb6a9b0-7a72-4237-96a0-0471c2d0d4bc,atavistic.team,available,36,3,9,,,
 02d709be-d056-4b40-b5ec-4934bd2012bb,ataxic.team,available,42,1,6,,,
 b2285219-6627-458c-9899-be58f4386041,atbest.team,available,67,2,7,,,
 4958ebd7-f3f6-4dc5-ad98-64d07bc27bbd,atbottom.team,available,56,1,9,,,
-b231a729-3c78-426f-b5f0-18e6fb73b5c6,ate.team,available,78,14,3,,,
+b231a729-3c78-426f-b5f0-18e6fb73b5c6,ate.team,available,78,13,3,,,
 aff304e4-460b-41b9-b430-c9a07cbf1e87,ateleiotic.team,available,34,1,10,,,
 5106571e-1014-4d80-a3cf-040025e54a2e,atfault.team,available,36,1,8,,,
 b2ca55de-309f-4071-98e3-eabfae7784ed,atheart.team,available,64,6,8,,,
@@ -1286,7 +1287,7 @@ a34b1efb-2700-4b2b-9906-a6b558b9246c,atthesightof.team,available,50,1,15,,,
 290ef30d-b9c4-42c7-93bc-a621f061cd0f,attimes.team,available,60,1,8,,,
 7f4e81aa-3b9b-4ab1-9030-1039ecc1fbba,attired.team,available,52,2,7,,,
 9cb8323e-dae4-4955-a2b7-d8d24b02b6b7,attitude.team,available,94,19,8,,,
-b0a8a390-ca90-4ab2-8cbc-73d9ef9df07b,attorney.team,resell,88,24,8,Dynadot Inc,10/02/2018 17:33,10/02/2027 17:33
+b0a8a390-ca90-4ab2-8cbc-73d9ef9df07b,attorney.team,resell,88,23,8,Dynadot Inc,10/02/2018 17:33,10/02/2027 17:33
 ec8f9aab-77c2-4a92-90f1-dbd33dfde8c5,attorneygeneral.team,available,64,3,16,,,
 55a3e381-7335-42b3-8728-331284a05931,attract.team,available,82,12,7,,,
 72b78969-95f7-48d2-97d0-394119a2b691,attraction.team,available,76,11,10,,,
@@ -1303,7 +1304,7 @@ fa2059b8-be16-488b-b61d-f1f74004161f,audacious.team,available,72,10,9,,,
 57199011-c2d4-4a31-9f54-674e2340c1ee,audenesque.team,available,45,1,10,,,
 5ea4d1fc-c519-4c48-b91a-866d4d35d8e2,audible.team,available,112,29,7,,,
 7f93cfad-f1ad-40b0-84ca-355807e99d47,audile.team,available,82,3,6,,,
-82b6901e-c274-445b-8152-60db275bd01c,audio.team,resell,90,32,5,"DNSPod, Inc.",03/04/2018 23:21,03/04/2026 23:21
+82b6901e-c274-445b-8152-60db275bd01c,audio.team,resell,90,31,5,"DNSPod, Inc.",03/04/2018 23:21,03/04/2026 23:21
 e2a315c0-2476-49e7-aeef-21b17031013a,auditive.team,available,60,4,8,,,
 4a0301eb-ba23-4b20-8109-31f6afb21631,auditory.team,available,88,5,8,,,
 1b418fb9-4a76-4b94-9a3b-1f205083a89f,aufait.team,available,62,4,7,,,
@@ -1329,7 +1330,7 @@ e415e934-a36c-4720-8416-2d4dfb9ce891,auric.team,available,60,10,5,,,
 280925c1-e6a4-4c69-a679-ea5afef2acfb,austenitic.team,available,60,1,10,,,
 ec6c6f8b-3e9f-45bd-a237-1d5fe26de597,austere.team,available,60,6,7,,,
 fa79aa54-63d4-4008-bba0-3702d1a26644,austral.team,available,54,9,7,,,
-10f36454-a922-44fe-9193-59dcbc999a8d,australia.team,available,66,5,9,,,
+10f36454-a922-44fe-9193-59dcbc999a8d,australia.team,available,66,6,9,,,
 2b106618-4a2c-4cfe-bf78-7a872cc2c7a8,australian.team,available,92,17,10,,,
 042eb0e2-51ca-4e44-9f8e-61e77d8e4ce4,austrian.team,available,82,10,8,,,
 b0b3397f-83a1-463a-af63-452faabd8cd3,autacoidal.team,available,48,1,10,,,
@@ -1354,7 +1355,7 @@ f3484b39-6174-46fe-9bff-f5dd66e82338,autoimmune.team,available,48,5,10,,,
 0f5bc110-1802-4e16-bb01-13fe1a394aaf,autologous.team,available,48,2,10,,,
 60847eeb-9de8-4345-af55-3b172f4ade74,autolytic.team,available,48,2,9,,,
 afd312ca-94c1-448a-8d44-e0228878d3a8,automatic.team,resell,92,20,9,Dynadot Inc,06/06/2025 17:00,06/06/2026 17:00
-9f117e09-ebb7-4e74-89d0-c579893ea836,automobile.team,resell,106,15,10,Dynadot Inc,31/05/2025 17:00,31/05/2026 17:00
+9f117e09-ebb7-4e74-89d0-c579893ea836,automobile.team,resell,106,14,10,Dynadot Inc,31/05/2025 17:00,31/05/2026 17:00
 22661fa0-9b92-4d78-8106-2a2fb49129e7,automotive.team,resell,96,18,10,"DNSPod, Inc.",29/07/2022 13:15,29/07/2026 13:15
 a63cdb64-1891-42e5-a985-845f6ce467ff,autonomous.team,resell,76,29,10,"NameCheap, Inc.",06/05/2020 12:55,06/05/2032 12:55
 156e0964-95d2-41d7-9379-1e368abca933,autophytic.team,available,48,1,10,,,
@@ -1428,7 +1429,7 @@ c73dae5e-7169-455f-a478-8d07d9146831,azotic.team,available,56,2,6,,,
 f92025fd-563f-4d86-83ab-bca6009e30c3,azure.team,available,70,22,5,,,
 604bb359-d4a3-4b9d-adf8-48e96c204b5c,azygos.team,available,50,3,6,,,
 e821127a-7332-43f5-afd9-779e7ef77db4,azygous.team,available,46,1,7,,,
-aa938344-a40f-4a15-9612-6c7de28b7887,babe.team,available,81,14,4,,,
+aa938344-a40f-4a15-9612-6c7de28b7887,babe.team,available,81,13,4,,,
 369b4a39-3805-43f4-9c59-dcefbc5ea57e,babelike.team,available,45,1,8,,,
 19493c78-ef14-4001-a795-80e1f5b5e7ce,baboonish.team,available,40,1,9,,,
 a864ebc0-4457-451c-be09-f614e90752df,babybottle.team,available,70,2,11,,,
@@ -1440,7 +1441,7 @@ d4ed4f14-ef5a-458c-abfd-5de91558371e,babyish.team,available,49,2,7,,,
 b585f229-5773-469b-a92d-34e18182cc9b,bacchant.team,available,64,1,8,,,
 0a95dce6-846c-4e60-bb07-d3cc7267fda6,bacchantic.team,available,46,1,10,,,
 626eadd5-2e06-4bf1-9043-16338a72202d,bacchic.team,available,68,1,7,,,
-c829c015-ec1c-4a05-ad56-36ce3b1cb5c5,bachelor.team,available,78,9,8,,,
+c829c015-ec1c-4a05-ad56-36ce3b1cb5c5,bachelor.team,available,78,8,8,,,
 f9e84c08-eaad-4f40-8c05-b4460503f56b,bacillar.team,available,42,1,8,,,
 19bdf071-cf9a-4450-a4fd-e840924791c8,bacillary.team,available,42,1,9,,,
 7a62e1e9-92d2-408e-a782-6ed131f4370b,back.team,resell,76,18,4,"Chengdu West Dimension Digital Technology Co., Ltd.",29/01/2019 19:05,29/01/2026 19:05
@@ -1472,24 +1473,24 @@ b19d5481-f16f-48a3-b553-1785b887045d,badness.team,available,43,2,7,,,
 ba930943-823c-4d47-ac8d-a5ec5f23577e,baffled.team,available,45,3,7,,,
 100c3565-9e53-4a57-b2f5-d2b2097f91ed,baffling.team,available,59,3,8,,,
 2c626785-17e7-4dc2-9c58-e686669677ce,bagdad.team,available,56,3,6,,,
-567236e6-3d8c-4f92-86ae-8d548398bbfb,baggage.team,available,74,8,7,,,
+567236e6-3d8c-4f92-86ae-8d548398bbfb,baggage.team,available,74,7,7,,,
 b80825cc-22f5-4421-9bbc-95a6673d230c,baggagecarousel.team,available,68,1,16,,,
 b6e26671-4882-4652-adb5-78c11bb0d0b6,baggagecheck.team,available,70,1,13,,,
 bc607d2d-bde5-4045-8f42-e439989a11f6,baggy.team,available,80,5,5,,,
 514759f6-077a-4e83-a8b2-5be5284db6dd,baghdad.team,available,60,8,7,,,
 8c27824e-ff1e-4a9a-8f43-a68a66d6ef35,bags.team,resell,62,17,4,"Sav.com, LLC - 44",08/09/2025 15:15,08/09/2026 15:15
 2667b1c6-2e12-49ab-8683-00a49172c912,bagshaped.team,available,43,1,10,,,
-977302b3-6ae3-4162-8982-16890c364e3c,baguette.team,available,72,11,8,,,
+977302b3-6ae3-4162-8982-16890c364e3c,baguette.team,available,72,10,8,,,
 303d3301-9759-404c-8134-cf56a14a10c5,bahai.team,available,64,25,5,,,
 82bec42a-94f4-4b95-949e-7b4e48aa6128,bahamas.team,available,70,4,7,,,
 a15c0dfb-0184-4775-9387-29bbf9b7744e,bahamian.team,available,62,3,8,,,
-9bc9e08a-8a44-4770-a705-4e07f587e901,bahrain.team,available,64,4,7,,,
+9bc9e08a-8a44-4770-a705-4e07f587e901,bahrain.team,available,64,5,7,,,
 71e46bd9-3b88-4bac-b9de-3c91885ad48f,bahraini.team,available,62,3,8,,,
 639c9c20-7346-44bb-a14b-a781fe5a5c2b,bahreini.team,available,46,2,8,,,
 6f4cc6b5-deea-4c9a-83ac-64d0cccd7437,bailable.team,available,44,1,8,,,
 c1b8e036-4ee9-44a6-bf32-4bd1b29fb002,bake.team,available,96,20,4,,,
 84d7efcf-3c74-440d-9638-e4bf80930496,baked.team,available,54,14,5,,,
-755850a7-b9c9-4774-ae73-f122caa26693,bakery.team,resell,76,20,6,"Sav.com, LLC - 46",17/11/2024 17:00,17/11/2026 17:00
+755850a7-b9c9-4774-ae73-f122caa26693,bakery.team,resell,76,19,6,"DNSPod, Inc.",17/11/2024 17:00,17/11/2026 17:00
 5516f92f-4aca-46c5-bd40-3cf6462e77d2,bakinghot.team,available,44,1,10,,,
 3fc74a84-78e9-4f39-af6d-2c73e4f0d174,balance.team,resell,100,26,7,"DNSPod, Inc.",03/10/2018 02:47,03/10/2026 02:47
 b0ac8c33-cea3-4eb7-a739-778f40fd588c,balconied.team,available,45,1,9,,,
@@ -1502,7 +1503,7 @@ b0ac8c33-cea3-4eb7-a739-778f40fd588c,balconied.team,available,45,1,9,,,
 1865e958-c6a3-4019-bf8c-679e571a5ac1,ball.team,resell,66,22,4,"DNSPod, Inc.",29/03/2020 08:50,29/03/2026 08:50
 5f6f5016-5e68-4f16-9436-c810436e93fc,balletic.team,available,60,3,8,,,
 4fc986cf-6a48-4f34-86e4-e39d721dd697,ballistic.team,available,48,11,9,,,
-3ca4e8db-9ab1-4efb-95eb-fc59316baebf,ballroom.team,available,96,11,8,,,
+3ca4e8db-9ab1-4efb-95eb-fc59316baebf,ballroom.team,available,96,10,8,,,
 55a4ad05-264e-45f5-b138-f1e3b1f99dfc,balls.team,resell,70,20,5,"GoDaddy.com, LLC",08/03/2023 17:17,08/03/2026 17:17
 b45eed36-c5c2-4986-b09e-725b862ef432,balmy.team,available,72,5,5,,,
 a5771fe0-fb39-4287-a71b-c09b740a3265,balsamic.team,available,90,3,8,,,
@@ -1519,10 +1520,10 @@ d248d101-f71c-45d0-b06e-b96c5722481f,banded.team,available,52,4,6,,,
 409614a3-0972-43b8-85ba-6a04da59ebce,baneful.team,available,42,1,7,,,
 89b3aa44-5baf-4f4d-bb26-a87625a3d433,banging.team,available,60,3,7,,,
 dc0ddeeb-fd40-4bc7-aab1-4cd8fd15c34d,bangup.team,available,58,2,7,,,
-0a5fae32-dd39-4174-adba-03ff9e6276f8,bank.team,resell,70,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",18/10/2017 08:17,18/10/2026 08:17
+0a5fae32-dd39-4174-adba-03ff9e6276f8,bank.team,resell,70,34,4,"Chengdu West Dimension Digital Technology Co., Ltd.",18/10/2017 08:17,18/10/2026 08:17
 7e16404f-0d53-458c-9e40-cf031f2f8544,bankable.team,available,64,8,8,,,
 c93daaf7-ce90-4d57-9cd1-fb52a3885cf4,bankholiday.team,available,72,2,12,,,
-64f805cf-b325-4738-9715-8e25ad2da454,banking.team,resell,76,20,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/10/2017 17:48,16/10/2026 17:48
+64f805cf-b325-4738-9715-8e25ad2da454,banking.team,resell,76,19,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/10/2017 17:48,16/10/2026 17:48
 0821ff93-d774-4336-84c2-f237153c8144,bankmachine.team,available,68,1,12,,,
 5310025f-1bae-4251-b2cf-93193895ea51,bankrupt.team,available,82,7,8,,,
 c9985740-f7a9-477f-98ad-61b0f8f1f6f5,banned.team,available,48,14,6,,,
@@ -1544,8 +1545,8 @@ bbaa5d0d-778f-47ee-9077-7f31f8356e4f,barbate.team,available,52,1,7,,,
 a1592e28-2733-4131-8f97-cb8a79afbaed,barbecued.team,available,56,2,9,,,
 56231cbe-739e-47ff-8acf-e7d08406c834,barbed.team,available,52,3,6,,,
 1ed9e8b3-c14f-4f3d-b333-b15f2f6d0ffe,barbellate.team,available,44,1,10,,,
-b02c9d1b-3bbd-49d1-a23f-431644b42633,barbeque.team,available,100,7,8,,,
-3b5bdeae-50ea-40d1-a980-7ab3af16c011,barber.team,resell,68,23,6,"Chengdu West Dimension Digital Technology Co., Ltd.",25/01/2024 15:15,25/01/2026 15:15
+b02c9d1b-3bbd-49d1-a23f-431644b42633,barbeque.team,available,100,6,8,,,
+3b5bdeae-50ea-40d1-a980-7ab3af16c011,barber.team,resell,68,22,6,"Chengdu West Dimension Digital Technology Co., Ltd.",25/01/2024 15:15,25/01/2026 15:15
 9b95cc14-db8f-421c-972d-91586f6ac42d,bardic.team,available,64,5,6,,,
 3941f21c-9a6d-4575-89c3-134b8bcf5ea9,bare.team,available,66,16,4,,,
 1854941a-38a9-4f87-9021-9fb2505fef2e,bareass.team,available,60,1,8,,,
@@ -1558,7 +1559,7 @@ b1beceee-6ff4-4c9f-9652-f593a575a21b,barefooted.team,available,50,1,10,,,
 a824f949-9ea7-4950-9bbb-d5bbd3fb4a51,barehanded.team,available,50,1,10,,,
 0fe0fd13-20ec-4692-aed9-63efe4a3a167,bareheaded.team,available,54,1,10,,,
 74378517-f451-4057-833b-eb1e5c275d7a,barelegged.team,available,50,1,10,,,
-e9e4fe06-a014-418c-85f3-3226f2322687,bargain.team,available,98,13,7,,,
+e9e4fe06-a014-418c-85f3-3226f2322687,bargain.team,available,98,12,7,,,
 dce166ff-10bf-44f8-a631-1a43c3248c70,baric.team,available,42,3,5,,,
 d09aed83-1aef-4d9c-8637-b14a15fc0f62,baritone.team,available,54,3,8,,,
 5ab66468-86e7-4e0c-bfa2-591d6c44e196,barky.team,available,48,5,5,,,
@@ -1585,7 +1586,7 @@ a7f27db3-aff6-4525-ae64-b02f44054cd4,bash.team,available,88,21,4,,,
 87a34105-7b9a-4c25-9e60-59cd940b1ee8,bashful.team,available,68,4,7,,,
 c1ff8780-f207-4fbf-83fc-2e073f57322b,basic.team,resell,60,27,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/05/2019 21:22,29/05/2026 21:22
 87eaf607-c399-4ba9-88ba-b992ef4a03ac,basically.team,available,63,6,9,,,
-d7596d4d-6ddb-4535-91ea-d7d5dc0c9083,basics.team,available,74,14,6,,,
+d7596d4d-6ddb-4535-91ea-d7d5dc0c9083,basics.team,available,74,13,6,,,
 1a5ba071-e22b-41b8-943f-98b4b8df9fb5,basidial.team,available,42,1,8,,,
 408d1771-4a48-4407-9447-848f6f83d98d,basifixed.team,available,42,1,9,,,
 9373c83a-2d68-4e24-8523-55f057e92960,basilar.team,available,46,3,7,,,
@@ -1595,7 +1596,7 @@ da761b84-2267-4a77-8a7f-ebc8622a2386,basilary.team,available,42,1,8,,,
 420a6917-e3ef-48d4-8852-f12c537def45,basined.team,available,46,1,7,,,
 b8f0fc3b-1b16-4c8d-a48e-05248fabdd7c,basipetal.team,available,42,1,9,,,
 210d9c00-024a-4f9c-8947-7927e9efe415,basiscopic.team,available,42,1,10,,,
-f75087b0-e91e-4139-b009-cdc0f8409563,basket.team,resell,94,18,6,"Sav.com, LLC - 49",02/06/2025 15:15,02/06/2026 15:15
+f75087b0-e91e-4139-b009-cdc0f8409563,basket.team,resell,94,17,6,"Sav.com, LLC - 49",02/06/2025 15:15,02/06/2026 15:15
 6127b480-8d93-4d93-9dec-fcf2f75879a2,basketball.team,available,102,23,10,,,
 26ead40c-4cc7-4c14-bdf0-75a652c83203,basophilic.team,available,42,1,10,,,
 ec952e3b-7d9f-441e-98df-651934da7ad4,bass.team,resell,64,20,4,"DNSPod, Inc.",04/03/2023 15:15,04/03/2026 15:15
@@ -1633,7 +1634,7 @@ cce1f1b8-782b-4503-aeb6-c4bd55aac3cd,beadyeyed.team,available,46,1,10,,,
 19db46cf-f87a-46b3-b5be-731b92f16f10,beakless.team,available,36,1,8,,,
 6d674c10-c394-4f54-9025-4a58d01751a1,beaklike.team,available,36,1,8,,,
 8927c3d2-0b63-4998-85ee-4254683e9387,beall.team,available,66,9,6,,,
-63068d3a-f46a-4081-ab78-aa92b54f7092,beam.team,resell,66,38,4,"Sav.com, LLC",02/07/2017 17:36,02/07/2026 17:36
+63068d3a-f46a-4081-ab78-aa92b54f7092,beam.team,resell,66,37,4,"Sav.com, LLC",02/07/2017 17:36,02/07/2026 17:36
 d3b119e0-6ee6-4204-ad9c-91f65b7c79a6,beaming.team,available,74,9,7,,,
 47736cd2-8c54-4309-b2d7-c5d92b44d886,beamish.team,available,48,3,7,,,
 e149cc13-0fe9-4c0a-b65d-9aea95ea1799,beamy.team,available,52,5,5,,,
@@ -1658,7 +1659,7 @@ eb45edd9-eec4-4f09-8c11-fa9c0c829283,beautifully.team,available,68,5,11,,,
 109c82d7-6f81-44df-b2b0-5e1c0d941aac,beborn.team,available,,3,7,,,
 eda539c3-2d7f-4989-9c05-88aa927c8c82,becalmed.team,available,42,1,8,,,
 cab4418b-87f8-47e0-b41c-6cce8df496a0,becauseof.team,available,58,4,10,,,
-afee0da2-dbf4-49bf-921c-a40874c3660d,bed.team,available,82,17,3,,,
+afee0da2-dbf4-49bf-921c-a40874c3660d,bed.team,available,82,16,3,,,
 0c4cc256-6316-47a5-836e-206276801e1f,bedandbreakfast.team,available,74,11,17,,,
 c7dcce55-0a94-4ab8-bd59-3e59a36442e5,bedaubed.team,available,34,1,8,,,
 80e81c2e-a3a9-4d38-9ff5-710718475794,bedded.team,available,48,1,6,,,
@@ -1714,7 +1715,7 @@ e0689986-c502-457e-865f-f42dc034fedf,below.team,available,66,7,5,,,
 a1c97982-235c-4211-afce-00dfedf5230f,bemused.team,available,48,4,7,,,
 a5cbaa3e-2c8f-4fdf-8d37-5c3a744a4d8f,bendystraw.team,available,76,2,11,,,
 2d03c91e-63a0-4554-8a85-7f0a119e7be4,beneath.team,available,58,3,7,,,
-fca47f97-6513-43b3-bc8f-3e4d6c7cd543,berlin.team,resell,78,30,6,"DNSPod, Inc.",04/10/2022 13:15,04/10/2026 13:15
+fca47f97-6513-43b3-bc8f-3e4d6c7cd543,berlin.team,resell,78,29,6,"DNSPod, Inc.",04/10/2022 13:15,04/10/2026 13:15
 3d376eb7-d137-4ff8-96c6-aea4db34d639,bern.team,available,74,17,4,,,
 48123b22-6d76-49ce-bd6d-1d2b69785c76,berried.team,available,52,1,7,,,
 e2e6cce8-9774-42b6-accc-c05982190384,berrylike.team,available,48,1,9,,,
@@ -1728,7 +1729,7 @@ eb87ae3c-aa86-4cf5-96c2-4f6c5ba13c84,bestknown.team,available,70,1,10,,,
 f6a3c912-0a03-4cf2-8112-ac5e8c45597e,bewildered.team,available,44,4,10,,,
 37b33721-00ad-4034-9fdf-f7034b93beee,beyond.team,resell,87,41,6,"DNSPod, Inc.",29/10/2023 15:15,29/10/2026 15:15
 95afc763-2a1a-4e52-a2d6-aab00616bd93,Bflat.team,available,68,4,6,,,
-fba10609-ec3b-412c-8565-f57b9b7d1fea,bid.team,available,94,29,3,,,
+fba10609-ec3b-412c-8565-f57b9b7d1fea,bid.team,available,94,28,3,,,
 8c409a0d-5bb9-4d79-a82f-9c69dc1a1225,biddable.team,available,54,3,8,,,
 ffe14524-6809-4475-8c59-683ca6f8b351,bidens.team,available,66,2,6,,,
 c10006f0-4653-4a8f-b24d-1cfe656084d0,big.team,resell,88,34,3,1API GmbH,01/03/2016 20:23,01/03/2026 20:23
@@ -1742,12 +1743,13 @@ d6e5bd32-2930-4e8f-9a6b-9fa3ea285203,bigmoney.team,available,88,8,9,,,
 e74899da-ef25-486b-8129-1b9aa69db5ac,bilious.team,available,40,2,7,,,
 70dd15b0-d39c-4af1-ba23-786f988c2e9d,bill.team,resell,70,25,4,"Sav.com, LLC - 43",14/01/2025 15:15,14/01/2026 15:15
 0ac7207d-104a-449c-98c2-038c87608b1d,billbird.team,available,64,2,9,,,
-e073c2ac-f52c-4074-99de-bf5cc2e75f3b,billgates.team,available,72,9,10,,,
+e073c2ac-f52c-4074-99de-bf5cc2e75f3b,billgates.team,available,72,8,10,,,
 523fa628-7c54-43a7-89ec-bb6405bcb4fc,billion.team,resell,82,16,7,"DNSPod, Inc.",13/06/2024 15:15,13/06/2026 15:15
 09d30dd5-8126-470a-9019-5651b66049e0,binding.team,available,92,5,7,,,
 b24a8dcf-867a-4579-a54a-4f23c3b9a5d1,bio.team,resell,78,40,3,"Spaceship, Inc.",06/08/2023 15:15,06/08/2026 15:15
 ea904d07-3b66-4d06-adc4-7f9f6b505d62,biological.team,available,92,5,10,,,
 9b5aa420-03ce-4b4c-82e7-fc56395180f9,birthcertificate.team,available,66,4,17,,,
+ab25eaf5-49c8-4426-acb0-e7405ee05887,bite.team,resell,74,20,4,"Sav.com, LLC - 33",08/12/2024 17:00,08/12/2026 17:00
 8777d9ad-24af-462f-9289-8df502636f8d,biteme.team,available,62,11,7,,,
 5229d600-368f-4e55-8d05-dc93097a0378,biting.team,available,72,2,6,,,
 46e52994-5372-4b2d-ad49-b304f1403a10,bizarre.team,available,74,9,7,,,
@@ -1766,7 +1768,7 @@ c043bbde-63c4-43b2-b659-d9d65fa96ef9,bleak.team,available,62,8,5,,,
 213dcf96-dfb2-4a51-96a1-c49aff32a5f5,blind.team,available,68,19,5,,,
 daeeaadd-40ec-4c16-855d-f64934e21993,blinking.team,available,86,4,8,,,
 faeb067a-3753-4604-8119-351045fd1675,blistering.team,available,63,4,10,,,
-0505f468-9c24-40b0-8baa-0dea7e2f4f71,block.team,resell,68,35,5,"Xiamen ChinaSource Internet Service Co., Ltd",12/04/2021 18:40,12/04/2026 18:40
+0505f468-9c24-40b0-8baa-0dea7e2f4f71,block.team,resell,68,34,5,"Xiamen ChinaSource Internet Service Co., Ltd",12/04/2021 18:40,12/04/2026 18:40
 f7d37c8d-3542-495c-b05c-d6c86de74bec,blockade.team,available,76,5,8,,,
 2eb137bb-6356-4839-8321-1fa1fd8a674f,blockaded.team,available,37,1,9,,,
 ee9b8354-7cf1-490c-a91f-6707e1cf1981,blocked.team,available,62,10,7,,,
@@ -1794,7 +1796,7 @@ c8e212df-c1b7-4fb2-b68f-25c20676319a,bodycavity.team,available,62,1,11,,,
 a161bcd9-f779-45e5-9501-10f91a4dfb2a,bogus.team,available,39,11,5,,,
 b7d3b18f-06ac-458a-8d57-348806cbce12,bomb.team,resell,66,19,4,"Sav.com, LLC",27/01/2025 15:05,27/01/2026 15:05
 4cbbe0a7-81ee-487e-aadf-2c5cb2096fad,bones.team,available,52,12,5,,,
-ea380b3c-e04b-49da-80d2-8eff24b5a9ad,bonus.team,resell,78,32,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),07/02/2021 07:16,07/02/2026 07:16
+ea380b3c-e04b-49da-80d2-8eff24b5a9ad,bonus.team,resell,78,30,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),07/02/2021 07:16,07/02/2026 07:16
 1c8d9178-9a94-4018-9dbc-d3d610b2503c,booklist.team,available,70,5,8,,,
 9c4b7690-a614-421a-badb-ed0cc5f52e3c,boom.team,resell,71,36,4,"Xiamen ChinaSource Internet Service Co., Ltd",06/09/2019 09:07,06/09/2026 09:07
 2c60d2bd-cff4-4903-b6ad-82a64f8ae181,boot.team,available,72,21,4,,,
@@ -1811,7 +1813,7 @@ faf66ca7-9c9c-4e88-87a7-57ba0db078d1,bootleg.team,available,100,10,7,,,
 e06034f3-ce9b-4a1b-be0e-88a5689213ce,borrow.team,available,66,11,6,,,
 5bdbc025-3973-4e13-a19c-40aa861d1011,boss.team,resell,76,32,4,"DNSPod, Inc.",09/03/2022 13:15,09/03/2026 13:15
 626706d0-09b6-418e-ad5f-e4505ecede9f,bossy.team,available,70,11,5,,,
-862e50d1-5b46-4d20-9c1d-da8722b23250,boston.team,resell,80,30,6,"Xiamen ChinaSource Internet Service Co., Ltd",21/11/2023 15:15,21/11/2026 15:15
+862e50d1-5b46-4d20-9c1d-da8722b23250,boston.team,resell,80,29,6,"Xiamen ChinaSource Internet Service Co., Ltd",21/11/2023 15:15,21/11/2026 15:15
 708b686c-39f2-4b59-9312-c2a488f36c65,both.team,available,80,11,4,,,
 0831d2f2-a6f6-41e3-8438-cd124b667f84,bothered.team,available,64,1,8,,,
 100aee37-7d0d-42c2-ad52-e6c9bb2dc707,bothersome.team,available,39,1,10,,,
@@ -1833,11 +1835,12 @@ d90f2970-94a8-406b-8073-59b647278440,brainwash.team,available,80,6,9,,,
 87cae5f0-f447-4f33-a120-a1be0b209a49,braless.team,available,36,4,7,,,
 62795700-786c-4a87-b6bb-04525aa7955e,branch.team,resell,62,24,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/03/2020 06:31,09/03/2026 06:31
 e36fa71f-44cf-4c33-9dcd-f8e34e36ed84,brass.team,available,108,16,5,,,
-844d20e0-f7c7-44a8-81ff-c91adb8b4f04,bravo.team,available,66,15,5,,,
-ffd02062-0f92-473f-91ea-c3f968d749a6,bread.team,resell,102,31,5,"Chengdu West Dimension Digital Technology Co., Ltd.",12/02/2019 05:30,12/02/2026 05:30
+f9fa0f8d-99ec-40ed-8b33-36814824f1b7,bravery.team,available,80,10,7,,,
+844d20e0-f7c7-44a8-81ff-c91adb8b4f04,bravo.team,available,66,14,5,,,
+ffd02062-0f92-473f-91ea-c3f968d749a6,bread.team,resell,102,30,5,"Chengdu West Dimension Digital Technology Co., Ltd.",12/02/2019 05:30,12/02/2026 05:30
 41da343b-403a-4c04-88fb-e7d1c582e469,break.team,resell,82,15,5,"Sav.com, LLC - 12",22/06/2025 15:15,22/06/2026 15:15
 54e77660-f9dd-41b6-ad04-f0e9cde68f54,breakeven.team,available,82,5,10,,,
-c064107b-f108-47d6-82d8-1b7bba37081d,breakfast.team,available,96,17,9,,,
+c064107b-f108-47d6-82d8-1b7bba37081d,breakfast.team,available,96,16,9,,,
 3d28ecb0-2ead-4563-9daa-c18b5c848635,breakinto.team,available,68,2,10,,,
 e306e7ac-1d7c-4abd-9810-2c69de00ee5b,breakoutroom.team,available,66,2,13,,,
 abfc2e73-1d51-467b-9660-defda89cacdc,breakroom.team,available,66,6,10,,,
@@ -1846,18 +1849,18 @@ c4209663-d8ae-4f2d-b6d7-60de5aebb895,breathalizer.team,available,63,1,12,,,
 35823403-aa8b-43f7-8872-000adc1868d0,breathtaking.team,available,70,7,12,,,
 dbee3323-f3fb-4c1a-83c5-5611cd68fc35,breezy.team,premium,76,16,6,,,
 3b5071f2-f90b-46bc-9528-88e3c65b0138,briary.team,available,48,2,6,,,
-b9d11b74-ebb9-4967-9dd5-4ddb80aa91c1,bridget.team,available,86,9,7,,,
-d3050c13-82e3-46ab-beed-473abb162f53,brie.team,available,70,9,4,,,
+b9d11b74-ebb9-4967-9dd5-4ddb80aa91c1,bridget.team,available,86,8,7,,,
+d3050c13-82e3-46ab-beed-473abb162f53,brie.team,available,70,8,4,,,
 7cdf9633-54f6-442e-bdbe-81b45034fdfc,briefing.team,available,66,8,8,,,
 360d3747-a44a-413c-942d-5977a76389e0,briefingnote.team,available,70,1,13,,,
-123ca3d8-ccfb-44d2-b345-b18d93f4d329,briefs.team,available,74,8,6,,,
+123ca3d8-ccfb-44d2-b345-b18d93f4d329,briefs.team,available,74,7,6,,,
 b57269e6-7ae6-4090-b432-565b6605fda3,briery.team,available,66,1,6,,,
-65680115-c535-4965-b698-2041aca6b207,brightness.team,available,72,6,10,,,
+65680115-c535-4965-b698-2041aca6b207,brightness.team,available,72,5,10,,,
 323aedf7-9313-4d0d-886b-e15b195cb43d,brilliant.team,resell,96,28,9,"DNSPod, Inc.",01/12/2023 15:15,01/12/2026 15:15
 1d3b111e-9548-425a-8ce7-b09fe5dfa57a,bringback.team,available,66,3,10,,,
 116468ab-b8e1-4e2e-a585-1f025c99fa9e,bringhome.team,available,72,5,10,,,
 c03a7bf1-bd37-4fb6-9c48-d83119b764d1,bringin.team,available,74,3,8,,,
-2309e40e-4033-43ac-abfe-23f948dd2260,bringing.team,available,66,1,8,,,
+2309e40e-4033-43ac-abfe-23f948dd2260,bringing.team,available,66,2,8,,,
 d46a1e96-a48f-4b40-9828-98445599c63c,bringit.team,available,98,8,8,,,
 e72618ce-2331-4724-a153-f7ddb3e7618e,bringon.team,available,70,2,8,,,
 aab7e45d-92b3-4863-8a6b-5ebdf3d921e4,bringto.team,available,70,2,8,,,
@@ -1874,24 +1877,24 @@ c2130fcc-30ae-4765-8db3-12964ffd6ceb,bronze.team,available,68,12,6,,,
 f06a2503-634a-4b65-b4bb-581126598cb0,brow.team,available,66,8,4,,,
 1b76b423-f1f6-4660-8336-a903debfd54f,brown.team,resell,98,26,5,"Sav.com, LLC - 35",27/11/2024 15:15,27/11/2026 15:15
 07491cae-c864-4c38-b1e9-3cbb88d33a43,brownie.team,available,90,14,7,,,
-8ac3ba85-dacf-4a1c-9d5c-8282ba60f67e,browse.team,available,94,31,6,,,
+8ac3ba85-dacf-4a1c-9d5c-8282ba60f67e,browse.team,available,94,30,6,,,
 5079a8d8-b81d-452c-a8d0-c5c3b8a8e9dd,bruise.team,available,84,4,6,,,
 8952cc7c-2b60-4708-92ec-98120586a7d3,brush.team,available,62,15,5,,,
 b5a38788-07dc-42fa-bf4b-11e407584e54,brushing.team,available,80,2,8,,,
 0a8f7886-ab02-4bce-b181-2614e5b9aaee,brutal.team,available,48,16,6,,,
 1eb617bb-0e7e-4f11-841e-4a44ec1125d8,bryan.team,available,60,21,5,,,
-622f5c40-7297-44d4-a741-ee344fbe43b1,bubble.team,resell,94,34,6,"Sav.com, LLC - 37",11/01/2024 15:15,11/01/2026 15:15
 277bf1c6-9919-490f-aca1-528f55342246,bucolic.team,available,80,3,7,,,
-64793731-4a2d-47bc-8da7-d0aea0019bcf,budget.team,resell,104,27,6,"Sav.com, LLC - 18",30/03/2025 15:15,30/03/2026 15:15
+64793731-4a2d-47bc-8da7-d0aea0019bcf,budget.team,resell,104,26,6,"Sav.com, LLC - 18",30/03/2025 15:15,30/03/2026 15:15
 4b84861e-9b96-414b-8f02-184c19c2c3ca,buffer.team,available,98,14,6,,,
 3a3f50da-8737-4ab4-bd71-a99fc4b18e8a,buffet.team,available,103,9,6,,,
 2f296b7b-3634-4cb1-a833-0f9be15407da,bug.team,available,76,28,3,,,
 71c6075e-24bc-4db0-8ab3-71c02275b8d0,bugged.team,available,56,3,6,,,
 756ec6aa-7878-4f26-9d52-496659d07ad6,buggy.team,available,84,16,5,,,
+5465cc89-6039-45ed-8b2a-5fc58e07cc34,builder.team,resell,76,29,7,"DNSPod, Inc.",12/12/2020 23:46,12/12/2026 23:46
 31f7e6ad-8c9c-42c1-aeaa-69483b414fd3,builtin.team,available,91,7,8,,,
 0d228215-67b9-4142-b105-ccfff03eeeec,buirdly.team,available,46,1,7,,,
 d79ba476-bf9f-45f4-a704-b802a24b6525,bulky.team,available,59,3,5,,,
-9e17bb4a-766a-4a4b-975f-97ef7388bb33,bull.team,resell,62,24,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/02/2019 22:29,13/02/2026 22:29
+9e17bb4a-766a-4a4b-975f-97ef7388bb33,bull.team,resell,62,23,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/02/2019 22:29,13/02/2026 22:29
 29948e39-55df-4a20-94be-20732c7e98d9,bullet.team,available,92,19,6,,,
 29953cd5-8175-4967-bb68-535b9b3dd113,bulletinboard.team,available,66,5,14,,,
 065c6638-7d11-4d05-b7c6-60ef40d42718,bullish.team,premium,73,13,7,,,
@@ -1899,7 +1902,7 @@ b6689904-5c3d-4d03-b545-2523da403924,bully.team,resell,118,12,5,"Sav.com, LLC - 
 1bb9d051-87f9-4abc-9981-f6481cb9ae1b,bullying.team,available,52,5,8,,,
 6726df3d-94c5-4789-95f3-868c7b06a1cd,bum.team,available,100,16,3,,,
 e7331c29-4488-4616-9e78-0637ea699ab3,bumpinto.team,available,68,1,9,,,
-bf834e35-7da2-4929-8286-ffd793de6737,bundle.team,resell,94,23,6,"Xiamen ChinaSource Internet Service Co., Ltd",21/02/2024 15:15,21/02/2026 15:15
+bf834e35-7da2-4929-8286-ffd793de6737,bundle.team,resell,94,22,6,"Xiamen ChinaSource Internet Service Co., Ltd",21/02/2024 15:15,21/02/2026 15:15
 dfba3e73-aa64-4ca8-9307-93426fe79b00,buns.team,available,46,7,4,,,
 bc9b814f-ac1c-4911-b2a9-a7426ff2ded3,burden.team,available,52,8,6,,,
 bb80cf31-a354-41a0-b495-ac9b1dbca727,burgerbun.team,available,82,1,10,,,
@@ -1917,7 +1920,7 @@ dc27a21b-6a6e-41dc-8f37-e1e2101baafd,businesslunch.team,available,74,3,14,,,
 09a67996-e328-4499-a6b2-8a9e2fb368a8,bust.team,available,102,7,4,,,
 6db1689e-f316-46dc-bf15-04897802c97e,busted.team,available,56,9,6,,,
 a994c3e5-821e-4afe-b2f6-89ea49244128,butif.team,available,44,1,6,,,
-7a5df1aa-510c-4aa0-9cc6-5edd73f30a73,butterfly.team,resell,96,34,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/07/2019 07:45,14/07/2026 07:45
+7a5df1aa-510c-4aa0-9cc6-5edd73f30a73,butterfly.team,resell,96,31,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/07/2019 07:45,14/07/2026 07:45
 d9492ef4-909f-476c-ba2f-027e783763e7,butterflykeyboard.team,available,76,1,18,,,
 1b98d75d-731f-433c-866d-1b9f034cf79c,butthen.team,available,56,1,8,,,
 a8e728b2-e580-4e39-a4bd-02773c3bd4ce,butthenagain.team,available,42,1,14,,,
@@ -1928,7 +1931,7 @@ f273959e-7161-49fe-8f31-69c44358cc6e,buttons.team,available,78,11,7,,,
 b4d0f4ea-54e4-4eb9-873f-12bf18629455,buttony.team,available,68,2,7,,,
 348502c6-92ad-465c-a5b8-4b21a2a8d312,buyer.team,resell,74,18,5,"DNSPod, Inc.",25/10/2023 15:15,25/10/2026 15:15
 704b93bb-65c5-4b64-97eb-11cf1fa087e4,buyfood.team,available,72,2,8,,,
-c95bd198-f6a4-4a8a-b44b-14a7e1bc6001,buying.team,resell,74,16,6,"Sav.com, LLC - 14",19/08/2025 15:15,19/08/2026 15:15
+c95bd198-f6a4-4a8a-b44b-14a7e1bc6001,buying.team,resell,74,15,6,"Sav.com, LLC - 14",19/08/2025 15:15,19/08/2026 15:15
 2d6c9dfe-c494-4f71-9441-6a0738d7fd3e,buzzed.team,available,72,12,6,,,
 52532064-1169-4660-b272-2019ef07d517,buzzing.team,available,66,7,7,,,
 766267e6-7863-4700-8aa5-cae48532a604,bychance.team,available,56,5,9,,,
@@ -1999,7 +2002,7 @@ c700043e-9438-4a25-81b8-77516bc86797,carpet.team,resell,92,14,6,"Sav.com, LLC - 
 c3a9ac5b-c28f-4b49-becd-f06ffaf79e37,carriage.team,available,68,6,8,,,
 af4a6d64-fc43-463c-ba7a-70355ccd0e09,Carribean.team,available,76,3,9,,,
 bae3e75a-0d96-4cd3-9a9b-b2dd94e8102e,carrie.team,available,82,9,6,,,
-92ad3e0e-e216-4944-b6b4-0e5a3079801d,carrier.team,resell,64,16,7,"DNSPod, Inc.",09/08/2024 17:00,09/08/2026 17:00
+92ad3e0e-e216-4944-b6b4-0e5a3079801d,carrier.team,resell,64,15,7,"DNSPod, Inc.",09/08/2024 17:00,09/08/2026 17:00
 bdf76974-0de2-44dc-8813-dd55882d20b9,carrying.team,available,70,2,8,,,
 9f366961-6499-4f58-b1d7-9dca849de041,carryoff.team,available,66,1,9,,,
 8240124c-f0bb-44a7-9efe-9b88135ce5e4,carryon.team,available,93,9,8,,,
@@ -2009,7 +2012,7 @@ bdf76974-0de2-44dc-8813-dd55882d20b9,carrying.team,available,70,2,8,,,
 bdd2873a-c52a-4976-a022-4c82cf1e23df,cashmachine.team,available,68,5,12,,,
 a0d94c73-e295-403b-a0b4-dd6a2b47efb4,casket.team,available,84,7,6,,,
 4bc15664-050e-4edc-8989-201a951e65e2,cassette.team,available,66,11,8,,,
-973fe3f0-ed44-4a51-b80b-50856e7063b4,cast.team,resell,62,24,4,"Xiamen ChinaSource Internet Service Co., Ltd",22/01/2024 15:15,22/01/2026 15:15
+973fe3f0-ed44-4a51-b80b-50856e7063b4,cast.team,resell,62,23,4,"Xiamen ChinaSource Internet Service Co., Ltd",22/01/2024 15:15,22/01/2026 15:15
 66c8a285-ef93-4fef-9a14-73d9e043adeb,castellano.team,available,56,7,10,,,
 75d227da-a9b9-4534-9376-c27c67b751ed,categorical.team,available,78,3,11,,,
 c443346d-3444-4b91-8e54-1b66c7b7cb9e,categorically.team,available,54,2,13,,,
@@ -2065,7 +2068,7 @@ e6f993a5-f3a2-4d5f-90f7-bfe0364c8718,cheeses.team,available,94,5,7,,,
 598c55c4-b36b-4e6c-908a-a271bcbd0c14,chemically.team,available,68,1,10,,,
 454b2f00-7de0-48e4-87fa-7561cab17190,chemicaltoilet.team,available,56,1,15,,,
 ac479552-5728-4540-ad8d-f25d61abe76c,chemicalweapon.team,available,52,1,15,,,
-b5fda51a-490c-47d7-afc4-c3cc3621cc69,chemistry.team,resell,74,19,9,"Chengdu West Dimension Digital Technology Co., Ltd.",02/12/2023 04:40,02/12/2025 04:40
+b5fda51a-490c-47d7-afc4-c3cc3621cc69,chemistry.team,resell,74,18,9,"Chengdu West Dimension Digital Technology Co., Ltd.",02/12/2023 04:40,02/12/2025 04:40
 6aef9a22-1af6-4040-a7fb-3508b88de187,cherry.team,resell,86,26,6,"DNSPod, Inc.",26/11/2018 08:04,26/11/2026 08:04
 2d751d0b-93ac-4ac9-80e4-9b0b8cdc55e5,chestnut.team,available,60,9,8,,,
 033f4cd3-9d7a-4564-afe9-564acdda305e,chesty.team,available,52,3,6,,,
@@ -2113,7 +2116,7 @@ fdfbeb79-f6c3-41b3-bce9-991be44ce62d,claim.team,resell,96,28,5,"Sav.com, LLC - 3
 eb8ddde5-a6e8-4f4c-b512-8b4679a371c1,claimform.team,available,66,3,10,,,
 2ebe4c7d-9817-437c-90f8-04c0bccbe848,clam.team,available,70,11,4,,,
 a16c3d2b-28b0-4202-be55-a7133cae496f,clarity.team,resell,76,44,7,"Xiamen ChinaSource Internet Service Co., Ltd",08/12/2020 00:24,08/12/2026 00:24
-e690327d-1fd4-409f-ab4b-ad1c99b94c4a,class.team,resell,114,26,5,"DNSPod, Inc.",14/08/2020 08:14,14/08/2026 08:14
+e690327d-1fd4-409f-ab4b-ad1c99b94c4a,class.team,resell,114,24,5,"DNSPod, Inc.",14/08/2020 08:14,14/08/2026 08:14
 74981840-6c78-4653-b2de-690b8d84731c,classicalguitar.team,available,80,6,16,,,
 0db635ea-605b-4ed7-9004-1021b535df48,clayey.team,available,50,1,6,,,
 2cb8b7de-8edf-4c92-bb3f-e59c60b5aa9a,clean.team,resell,130,28,5,"Go China Domains, LLC",29/07/2015 16:00,29/07/2026 16:00
@@ -2151,7 +2154,7 @@ f313eeee-4428-493c-943f-9ed030f10688,clown.team,resell,98,22,5,Alibaba Cloud Com
 7cea77c0-c07e-4ad0-aaf8-d52c5fde1eb3,coalesced.team,available,54,2,9,,,
 8f0aa6e9-7bc0-40c4-9de3-196db40cdbbb,coast.team,resell,94,22,5,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2023 15:15,14/10/2026 15:15
 6470c5c0-b02e-4694-8c1f-ab2566b17e00,coat.team,available,100,7,4,,,
-b46e434b-021f-4f4f-a5de-838b8e568932,cock.team,available,58,18,4,,,
+b46e434b-021f-4f4f-a5de-838b8e568932,cock.team,available,58,17,4,,,
 d8c6a5c1-8cce-45c1-9f2f-e665ace3c95d,cockeyed.team,available,44,1,8,,,
 eb2e5449-8d3c-4b0b-bdcd-b4c0053b9c14,cockmaster.team,available,52,1,10,,,
 cca0f12b-75ee-4950-83a8-e6fd4ced7720,coconut.team,resell,78,25,7,"Xiamen ChinaSource Internet Service Co., Ltd",27/05/2024 17:00,27/05/2026 17:00
@@ -2298,14 +2301,13 @@ cf51a26b-6dc0-4514-bfbf-39265e23c6d2,consistently.team,available,60,4,12,,,
 ddd351cc-358a-4238-bd4f-e2d3ad1e8236,conspiracy.team,available,82,18,10,,,
 511b49a1-69c2-4f3f-9390-6a9acc8dd284,constantly.team,available,64,3,10,,,
 0ee5373e-dc46-4b64-abaf-9eb7cd3b656d,consult.team,resell,101,26,7,"Xiamen ChinaSource Internet Service Co., Ltd",08/02/2025 15:15,08/02/2026 15:15
-554b77c1-bb3b-4e08-9b84-fdfeb2f8bf98,consultant.team,resell,73,20,10,"DNSPod, Inc.",14/01/2019 09:21,14/01/2026 09:21
 3339a106-0ff8-4537-8b72-7680bb386f48,consulting.team,resell,72,28,10,"Go France Domains, LLC",29/07/2015 16:00,29/07/2026 16:00
 26cb9695-48e6-495c-bcbe-ff24ac83ce20,consultive.team,available,62,3,10,,,
 caa3787a-98d4-4744-b1fb-d3808fd3bc04,consumer.team,resell,72,18,8,"Sav.com, LLC - 49",13/11/2024 17:00,13/11/2026 17:00
 f6a1891f-394b-4159-89b4-2ecd7f4f8420,consuming.team,available,82,2,9,,,
 7b0201cd-c21e-4a42-a91e-481a09e58b8f,consummate.team,available,88,2,10,,,
 6442438b-2137-4524-89ae-a5356db9703e,consumption.team,available,68,5,11,,,
-e053077d-0778-4ec2-84a0-79fce70d8c90,contact.team,resell,102,35,7,"DNSPod, Inc.",18/09/2019 23:33,18/09/2026 23:33
+e053077d-0778-4ec2-84a0-79fce70d8c90,contact.team,resell,102,34,7,"DNSPod, Inc.",18/09/2019 23:33,18/09/2026 23:33
 a560775c-43e4-4647-a113-499a9e9de5e2,contained.team,available,64,5,9,,,
 fbba0c0b-dd10-47a0-a787-77d2bef5972a,contaminated.team,available,54,2,12,,,
 a03adf15-dfaf-45db-8914-a0f02a602367,contempt.team,available,54,2,8,,,
@@ -2346,7 +2348,7 @@ e2130438-37e9-4367-8eee-97a2543aa879,copypronoun.team,available,72,1,12,,,
 1b128ff8-030a-4e8e-ac02-3be062e3a4c2,cord.team,available,90,16,4,,,
 d501d756-ba31-4c76-83d5-4d2ffc543664,cordial.team,available,98,9,7,,,
 bbb22e0b-35de-4a5b-b7ec-5feff5642e60,cordlesstelephone.team,available,76,1,18,,,
-9de1bfd1-1fa8-4068-acd1-e3589fbb990f,core.team,resell,68,42,4,"Wild West Domains, LLC",29/07/2015 16:00,29/07/2026 16:00
+9de1bfd1-1fa8-4068-acd1-e3589fbb990f,core.team,resell,68,40,4,"Wild West Domains, LLC",29/07/2015 16:00,29/07/2026 16:00
 b45ff03c-4c38-4c67-9dd9-9b33d075b38b,corking.team,available,76,4,7,,,
 ec802223-fa18-48ff-b710-510050629e0f,corn.team,resell,62,20,4,"Sav.com, LLC - 28",15/08/2025 15:15,15/08/2026 15:15
 1822efd2-8590-4e88-99ac-d2b7974b563c,corner.team,resell,64,26,6,"DNSPod, Inc.",23/08/2019 06:53,23/08/2026 06:53
@@ -2354,7 +2356,7 @@ ec802223-fa18-48ff-b710-510050629e0f,corn.team,resell,62,20,4,"Sav.com, LLC - 28
 427f7acc-4d02-4761-a293-8d48b2f2fd67,cornering.team,available,60,1,9,,,
 2d0347cd-3854-4cfa-bd65-b96488bd39ca,corny.team,available,64,5,5,,,
 8310f6e8-a0db-4fbc-89fc-41d53b218caf,corona.team,available,80,14,6,,,
-9daef08f-006a-48ec-9205-9a4a1cbbe72e,corps.team,available,74,10,5,,,
+9daef08f-006a-48ec-9205-9a4a1cbbe72e,corps.team,available,74,9,5,,,
 543a5301-05a5-4f9b-8585-e37a78eb0fa0,corrected.team,available,70,3,9,,,
 6bb1ca03-a346-4d88-9437-4d9800e70b36,corrective.team,available,86,1,10,,,
 256203ad-cdef-42ae-95dc-c8aa7ee071bb,correlate.team,available,88,4,9,,,
@@ -2364,7 +2366,7 @@ eea6bfa4-e4c2-4487-8d23-168313682c7b,corrupted.team,available,52,7,9,,,
 c3efb6ae-a2c2-42fe-9dd9-7f213ba0bc2d,corruption.team,available,54,9,10,,,
 b30b752b-550f-4b4c-ae21-d16d4fd6662d,coruscant.team,available,56,6,9,,,
 e008f7be-1576-4633-a4fe-acda6b501f92,cosmetic.team,resell,86,15,8,"DNSPod, Inc.",24/08/2024 17:00,24/08/2026 17:00
-f5ebafc9-acd6-4998-91c1-bd0c2d2849bb,cosmos.team,resell,74,37,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),16/02/2019 22:00,16/02/2026 22:00
+f5ebafc9-acd6-4998-91c1-bd0c2d2849bb,cosmos.team,resell,74,36,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),16/02/2019 22:00,16/02/2026 22:00
 443adea2-33b1-4c30-a09c-3c32b4f08dde,CostaRica.team,available,70,6,10,,,
 db4a2d2b-33c0-463e-b9f9-3d9ee30fdc17,costly.team,available,66,4,6,,,
 4a151637-ee21-4dde-bfe1-83fa7da48712,costofliving.team,available,66,5,14,,,
@@ -2374,13 +2376,12 @@ db4a2d2b-33c0-463e-b9f9-3d9ee30fdc17,costly.team,available,66,4,6,,,
 dc3b7124-f7ee-4921-a981-239b01fc6cd2,cotyloidal.team,available,44,1,10,,,
 e67a7011-87a4-445d-9c7a-8037a0d03376,could.team,available,78,6,5,,,
 ac4f8c9b-8a4c-4db9-8e3a-f35bfb82868d,countless.team,available,70,4,9,,,
-7d506f7a-75cc-4176-b2e0-0f7969ad5411,country.team,resell,92,16,7,"DNSPod, Inc.",09/01/2019 23:33,09/01/2026 23:33
 75c0b049-6443-40ef-925c-7ed45e7fd105,countryoforigin.team,available,66,2,17,,,
 4264dc6c-55f1-4579-974e-29aeee496a32,countycourt.team,available,68,2,12,,,
 10725f26-dc2f-4e4e-b8d6-c5316891663a,couple.team,available,108,16,6,,,
-c5596c12-8384-4b94-b4d2-8747e0c0cc22,courage.team,resell,100,22,7,"Sav.com, LLC",10/07/2025 14:37,10/07/2026 14:37
+c5596c12-8384-4b94-b4d2-8747e0c0cc22,courage.team,resell,100,21,7,"Sav.com, LLC",10/07/2025 14:37,10/07/2026 14:37
 9adc663e-2f25-4865-8766-1513cbf99794,courageous.team,available,72,9,10,,,
-3c33058a-ad49-4cca-a229-fb58a7f2f436,course.team,resell,114,24,6,"Xiamen ChinaSource Internet Service Co., Ltd",01/10/2021 17:00,01/10/2026 17:00
+3c33058a-ad49-4cca-a229-fb58a7f2f436,course.team,resell,114,23,6,"Xiamen ChinaSource Internet Service Co., Ltd",01/10/2021 17:00,01/10/2026 17:00
 8771b79d-18fe-4d55-91e1-9ede2931cd35,courteous.team,available,70,2,9,,,
 9857584b-936b-4277-a9ba-52757e0685be,courtroom.team,available,66,6,9,,,
 ae3f6dc4-5794-4d25-9a3b-b608f0192668,courtyard.team,available,70,10,9,,,
@@ -2406,7 +2407,7 @@ e70fc02b-1492-469c-b58e-92863ca9e19f,crazy.team,resell,86,24,5,"Chengdu West Dim
 8554a58e-32f3-468e-af38-7e264c2084ee,creaky.team,available,54,3,6,,,
 1f376742-124e-41d0-a6fa-ab7570ae8b04,creation.team,resell,82,19,8,"Chengdu West Dimension Digital Technology Co., Ltd.",02/11/2018 11:07,02/11/2026 11:07
 512ef4fe-0aa6-481b-b8ff-2ceb808b91ae,creatively.team,available,66,5,10,,,
-a6187480-3fb5-4252-a67c-981ae8a22dae,creek.team,resell,100,16,5,"DNSPod, Inc.",23/10/2023 15:15,23/10/2026 15:15
+a6187480-3fb5-4252-a67c-981ae8a22dae,creek.team,resell,100,15,5,"DNSPod, Inc.",23/10/2023 15:15,23/10/2026 15:15
 698fb404-7ac5-4ae9-94cb-333d3b7b9948,creepy.team,available,60,11,6,,,
 d9001e07-e4fe-4e64-a5de-b56c399b0a2f,cricketscore.team,available,72,3,13,,,
 f4008619-e5b1-4ee1-bffd-00bae93ce4a0,crimes.team,available,64,10,6,,,
@@ -2464,7 +2465,7 @@ fe30ad62-0fde-4887-9a5c-c14985c58ab0,daily.team,resell,74,31,5,"DNSPod, Inc.",31
 d3a7794a-fcce-4b24-9b91-963db15b5c81,daminozide.team,available,52,1,10,,,
 47904389-ea44-4b0e-911b-a20b429c1373,damned.team,available,68,5,6,,,
 910b69d4-589f-4abe-bb6a-e1ac132315b8,dancehall.team,available,70,7,10,,,
-6a9240fd-06d2-45c5-b8f6-cc794e00f49c,daniel.team,resell,76,48,6,"Sav.com, LLC - 19",07/11/2025 15:16,07/11/2026 15:16
+6a9240fd-06d2-45c5-b8f6-cc794e00f49c,daniel.team,resell,76,47,6,"Sav.com, LLC - 19",07/11/2025 15:16,07/11/2026 15:16
 d622e938-15c1-45f0-8b00-252ebec73a92,daring.team,available,86,11,6,,,
 78ad2a50-8e8c-4c24-9567-7e1397efae13,dark.team,resell,52,33,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/05/2018 23:30,03/05/2026 23:30
 bbe3083e-60c5-4219-a348-e154f1030fdb,darken.team,available,72,7,6,,,
@@ -2509,7 +2510,6 @@ d5b46198-2411-4ef9-a3e5-4af6f2819619,definitely.team,available,66,8,10,,,
 72677174-5789-4513-a4f3-030f710c4700,delayed.team,available,56,6,7,,,
 119e106f-ea71-4ce7-b4d9-081a130d8e80,delicate.team,available,84,8,8,,,
 94db32b7-aee0-4195-a9d0-8f27cab4e4c8,delicious.team,available,74,16,9,,,
-8e89e4fc-17a8-4ace-b6c1-4536817533e1,delight.team,resell,104,21,7,"Sav.com, LLC - 27",13/01/2025 15:15,13/01/2026 15:15
 a034bbe1-6c76-4daa-b293-079a683d767e,delighted.team,available,56,13,9,,,
 168925db-6f9e-4d06-96fa-bdd108a8f373,delightful.team,available,68,13,10,,,
 ad88aee7-58d3-46b4-8ac6-4e9667f77fca,demand.team,available,100,16,6,,,
@@ -2706,7 +2706,7 @@ e9e5e307-55d5-40c0-ad8a-f430e6da957d,don.team,available,72,22,3,,,
 40f73481-a56d-4347-bbcd-7880454777d4,dormant.team,available,78,5,7,,,
 87d515f2-76b2-487a-936a-1cbc0bc620f3,dorsal.team,available,80,6,6,,,
 51a1c8dc-3dda-4804-972f-4ca54c70ac56,dorsum.team,available,57,3,6,,,
-5bf0b132-2023-4c27-9371-cd3e102fca9d,dot.team,resell,74,39,3,"Xiamen ChinaSource Internet Service Co., Ltd",21/01/2024 15:15,21/01/2026 15:15
+5bf0b132-2023-4c27-9371-cd3e102fca9d,dot.team,resell,74,37,3,"Xiamen ChinaSource Internet Service Co., Ltd",21/01/2024 15:15,21/01/2026 15:15
 012ec7a2-9b6f-4ccb-9f00-ac9fd57b409f,dotmatrixprinter.team,available,64,1,18,,,
 2746f280-21c1-4c69-a4ec-ef0139bd178e,double.team,resell,92,23,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2022 13:15,14/10/2026 13:15
 e587acd7-838b-48fb-b562-685a53c78354,doublecheck.team,available,74,9,12,,,
@@ -2728,7 +2728,7 @@ eca41c68-742d-401e-a8bb-191be2a19bd7,drawup.team,available,74,3,7,,,
 ba978717-bc43-439d-bb5a-46fbbd55fc36,dreamup.team,available,78,7,8,,,
 47b386ee-2703-4358-9d85-d15d0238b7fa,dressed.team,available,72,5,7,,,
 ed0ee16a-a65e-4bc3-8176-b3331519451a,drink.team,resell,100,21,5,"Chengdu West Dimension Digital Technology Co., Ltd.",20/11/2023 15:15,20/11/2026 15:15
-6afc56e4-3e3d-45b6-81bc-ad28b5c84f68,drinking.team,resell,66,9,8,"Go Montenegro Domains, LLC",29/07/2015 16:00,29/07/2026 16:00
+6afc56e4-3e3d-45b6-81bc-ad28b5c84f68,drinking.team,resell,66,8,8,"Go Montenegro Domains, LLC",29/07/2015 16:00,29/07/2026 16:00
 ba938ee4-fad0-4d52-85f3-9b2f2042f7db,drinkup.team,available,76,7,8,,,
 f4bb79bb-e856-4d83-a0a5-dafba27d93fa,drippy.team,available,42,10,6,,,
 5f4b4a10-c9b4-4a8e-86ef-f53f07109f65,drivehome.team,available,72,3,10,,,
@@ -2888,7 +2888,7 @@ a068cf26-b90b-4f9a-a276-8e238e076d52,eremitic.team,available,46,1,8,,,
 582f405e-6f82-4c7c-b388-dda0a95ac3b7,err.team,available,88,10,3,,,
 2891ffaf-4e0e-4d4a-97ed-bb08168cf35c,erupt.team,available,72,7,5,,,
 a7cc64a5-cfcd-47a7-8d73-90813d9195a5,escaped.team,available,44,4,7,,,
-2d83ef47-9a20-40fd-9651-6ef28f9b455e,especially.team,available,58,4,10,,,
+2d83ef47-9a20-40fd-9651-6ef28f9b455e,especially.team,available,58,3,10,,,
 ead704b5-4e96-4338-becf-a794bdb0f663,essayquestion.team,available,68,1,14,,,
 d8111804-9707-4fd7-a2ba-c95fc8df21d8,essence.team,resell,72,22,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/03/2021 18:46,27/03/2026 18:46
 d37c4a04-60bc-4aa0-8d89-6fd53b39d585,essential.team,resell,98,23,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/01/2019 08:27,25/01/2026 08:27
@@ -2988,7 +2988,7 @@ f25c5be7-e7bf-4720-80c6-1b041078fd0d,eyry.team,available,74,3,4,,,
 2820e309-d256-4a77-a4c6-aca298511138,facebook.team,available,112,47,8,,,
 98dc3554-7a6c-4c2d-b97f-d05501adf81d,facetious.team,available,48,3,9,,,
 3655fd77-7cb9-4238-a079-bee0e01524e8,facilitating.team,available,55,2,12,,,
-a60c3fa3-aadd-4cc6-a8f4-d1e4bdec7d54,facility.team,resell,76,13,8,"DNSPod, Inc.",01/09/2023 15:15,01/09/2026 15:15
+a60c3fa3-aadd-4cc6-a8f4-d1e4bdec7d54,facility.team,resell,76,12,8,"DNSPod, Inc.",01/09/2023 15:15,01/09/2026 15:15
 27a0217e-63c7-4b07-9df3-487268040f65,facing.team,available,82,7,6,,,
 b6168309-363d-4717-bf2c-4a50ace47707,factor.team,available,62,22,6,,,
 93e6d690-72c8-49f4-94aa-5481a61121ae,faded.team,available,64,8,5,,,
@@ -3026,7 +3026,7 @@ e3f669d0-2b4f-4b4c-aafd-8991a489fc61,farther.team,available,74,5,7,,,
 a8504f14-6809-4986-9aaf-ba6de15a0de7,fascinate.team,available,84,6,9,,,
 eb193776-8f09-49b9-aa2e-9f49f2618eab,fascinated.team,available,72,4,10,,,
 f5cf04ad-a1ab-4fd9-9b92-21e84ee9acd2,fascinating.team,available,76,6,11,,,
-be4f723f-d0c9-411d-a2d4-c7fc0e918bac,fashion.team,resell,98,32,7,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2016 08:26,14/10/2026 08:26
+be4f723f-d0c9-411d-a2d4-c7fc0e918bac,fashion.team,resell,98,31,7,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2016 08:26,14/10/2026 08:26
 d2e91553-793b-460d-a686-8a1e9dc6c509,fast.team,resell,82,37,4,Porkbun LLC,17/04/2017 07:11,17/04/2026 07:11
 f3e55f3b-b83f-4945-94e2-a931817d0f3e,fasten.team,available,76,9,6,,,
 faaeceb6-b111-48cb-a505-a4aad57acbd7,fat.team,available,68,20,3,,,
@@ -3131,7 +3131,7 @@ ce5e5b07-466a-47f5-9ede-4d42715b1a6d,flexing.team,available,80,4,7,,,
 1f34118a-11a9-4b9e-b0cf-5e04204add6b,flickering.team,available,80,2,10,,,
 89c600e7-18c7-41d6-8c25-cb647346b27a,flight.team,resell,112,24,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2017 16:00,14/10/2026 16:00
 9cdf7318-b094-4bd5-a5fe-3699d07aa201,flightpath.team,available,68,8,11,,,
-11915f5e-c4d7-4034-b48e-26e7966fdb8c,float.team,resell,92,25,5,"Xiamen ChinaSource Internet Service Co., Ltd",06/12/2022 15:15,06/12/2025 15:15
+11915f5e-c4d7-4034-b48e-26e7966fdb8c,float.team,resell,92,24,5,"Xiamen ChinaSource Internet Service Co., Ltd",06/12/2022 15:15,06/12/2025 15:15
 40da8874-243b-42cf-97b5-048c74c8f21f,flood.team,resell,60,19,5,"DNSPod, Inc.",26/08/2021 12:20,26/08/2026 12:20
 25fc6ab3-0972-499e-8a78-2be01106bdd1,flooded.team,available,60,3,7,,,
 d52306b6-47b5-4fa6-b645-684b95372327,floor.team,resell,98,23,5,"DNSPod, Inc.",31/01/2020 16:36,31/01/2026 16:36
@@ -3147,7 +3147,7 @@ ca206ebc-b05d-44c5-973c-336548586737,flying.team,resell,96,19,6,"DNSPod, Inc.",1
 539d2756-fa46-44cc-a518-309d6228c831,flyingsaucer.team,available,72,5,13,,,
 a04214d1-2a85-4422-91f6-b4a06bae34cb,flyspeck.team,available,68,1,8,,,
 4679949f-e4c5-4742-9d53-97981f1f1a31,fog.team,available,82,14,3,,,
-5d5c32be-eac7-460d-8a5a-2f4865d35631,folder.team,available,70,16,6,,,
+5d5c32be-eac7-460d-8a5a-2f4865d35631,folder.team,available,70,15,6,,,
 225e2bd2-91a8-4762-a869-187d432e354a,folding.team,available,86,5,7,,,
 eca50f05-b475-46f8-bb88-08ba9b9b49cc,folicacid.team,available,76,2,10,,,
 58bdb311-b0b1-41c5-9a8c-84faf0ccb111,followedby.team,available,56,1,11,,,
@@ -3170,7 +3170,7 @@ cfc0e0d4-7402-49e9-8519-e842ed52de92,forecloser.team,available,54,1,10,,,
 a7a3a041-9ee6-4470-a556-b22bd99cff22,foreman.team,available,62,9,7,,,
 497ca637-34f6-48f0-ac77-e5ecec8d33d0,forest.team,resell,68,36,6,"Chengdu West Dimension Digital Technology Co., Ltd.",24/11/2022 15:15,24/11/2026 15:15
 a05ee77f-6140-440c-a7fd-39b6abfbeca5,forestfire.team,available,58,5,11,,,
-0f9d2272-b631-4e38-9aed-d0cafea78c33,forever.team,resell,98,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",20/05/2023 15:15,20/05/2026 15:15
+0f9d2272-b631-4e38-9aed-d0cafea78c33,forever.team,resell,98,33,7,"Chengdu West Dimension Digital Technology Co., Ltd.",20/05/2023 15:15,20/05/2026 15:15
 3b26ac34-f0ff-4919-9f63-fcda1a735074,forget.team,available,54,8,6,,,
 08bd8037-4dad-4e49-82c1-dae0336292c9,forgetting.team,available,74,3,10,,,
 584f68d4-cada-460d-963c-67c9cb31459f,forgive.team,available,84,6,7,,,
@@ -3257,7 +3257,7 @@ efb43e93-e400-4630-a81b-bd1b49b36fea,future.team,resell,94,39,6,"Chengdu West Di
 8d86e597-4710-4dbe-b7bc-18c2e4559a14,gaffer.team,available,50,8,6,,,
 b1b8f519-f3cc-4a84-a345-4ca4761dfb64,Gail.team,available,66,9,4,,,
 a12969e5-0593-4965-b552-79629b36e518,gala.team,resell,86,28,4,"Xiamen ChinaSource Internet Service Co., Ltd",04/07/2025 15:15,04/07/2026 15:15
-30675d69-b9b5-41d7-a393-6cf99141ec7d,galaxy.team,resell,76,40,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/03/2020 23:00,04/03/2026 23:00
+30675d69-b9b5-41d7-a393-6cf99141ec7d,galaxy.team,resell,76,39,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/03/2020 23:00,04/03/2026 23:00
 a2b469e4-7b97-4bb7-909b-46657ad5ec83,galling.team,available,76,2,7,,,
 61ebf0c1-0035-4652-9c26-1f423f81ee98,gallon.team,available,66,5,6,,,
 68bbe0d7-b7cc-4229-a361-67aa94c085c0,game.team,resell,120,37,4,"DNSPod, Inc.",11/10/2023 15:15,11/10/2026 15:15
@@ -3285,13 +3285,13 @@ dd11bb04-0d97-4a42-9391-d46e37c87a83,geek.team,resell,90,29,4,"Chengdu West Dime
 63a44b6c-6230-4ad8-9cff-56c82e12a3e5,generalpopulation.team,available,68,2,18,,,
 fc45f185-41b4-47ad-a92c-b71a5779073b,generators.team,available,48,9,10,,,
 90a60ebc-37b4-4273-8367-116d9734df6c,generically.team,available,52,1,11,,,
-467cc556-7b5a-42f5-b85f-4b2b066a59c3,genesis.team,resell,68,39,7,"DNSPod, Inc.",04/04/2019 06:06,04/04/2026 06:06
+467cc556-7b5a-42f5-b85f-4b2b066a59c3,genesis.team,resell,68,37,7,"DNSPod, Inc.",04/04/2019 06:06,04/04/2026 06:06
 071d6ae8-5e50-41b7-9eb4-fd123fd35865,genial.team,available,80,15,6,,,
 84274c85-7bfe-4ced-a7ab-5cc2f0960928,genius.team,resell,98,38,6,"Chengdu West Dimension Digital Technology Co., Ltd.",19/01/2018 12:47,19/01/2026 12:47
 58047e95-2782-4c85-8655-6385640102f5,gentle.team,available,62,17,6,,,
 e32ee112-7417-4d44-a951-9643d785cfa1,gently.team,available,70,7,6,,,
 d8590f14-e975-474e-b227-c24021d9094c,genuine.team,resell,78,19,7,"Sav.com, LLC - 15",08/03/2025 15:15,08/03/2026 15:15
-fd73933a-c061-44ef-852c-7b334b0f231a,genuinely.team,available,64,4,9,,,
+fd73933a-c061-44ef-852c-7b334b0f231a,genuinely.team,available,64,3,9,,,
 5fcdb097-105f-4d79-b19b-38b9d734ca32,Germanchamomile.team,available,76,1,16,,,
 343e1213-6273-459e-8fcb-cf10614cf3e2,GermanEmpire.team,available,56,1,13,,,
 6ed132f6-35a1-4b05-9947-233b01d0795d,GermanReich.team,available,52,1,12,,,
@@ -3366,8 +3366,8 @@ e43985bb-5aa4-43e8-a686-23d6df64f13e,gointo.team,available,78,3,7,,,
 f43f1d92-5c3a-4108-bd06-60032205eb16,golfgame.team,available,76,3,9,,,
 9f34ebaf-9c49-4ed5-b2ed-58bb6fbddb8d,gone.team,available,80,13,4,,,
 c673ac41-809b-40c3-a927-d242bbb0801f,goodby.team,available,66,2,7,,,
-edfa0418-9a4c-4ee2-9831-2b0b9e9a033a,goodbye.team,available,90,11,8,,,
-a8999e39-92c3-4ac6-9966-88c4b3d5baf8,goodday.team,available,64,17,8,,,
+edfa0418-9a4c-4ee2-9831-2b0b9e9a033a,goodbye.team,available,90,9,8,,,
+a8999e39-92c3-4ac6-9966-88c4b3d5baf8,goodday.team,available,76,15,8,,,
 9ff18eeb-dd7b-4e94-9a73-bb331611455f,goodGod.team,available,78,6,8,,,
 3aa9e43b-6b38-42fd-b5db-7626634bfc1e,goodrun.team,available,72,3,8,,,
 9cd74dfb-fb98-4c32-868d-b38865756621,goods.team,resell,64,27,5,"Sav.com, LLC - 46",19/11/2024 17:00,19/11/2026 17:00
@@ -3523,7 +3523,7 @@ d2228d0e-f808-4bda-942a-48044a6a430e,havesex.team,available,70,3,8,,,
 7f5e6906-4361-4874-857d-99861d28cf83,havewords.team,available,64,1,10,,,
 c8cac01b-ce65-4d39-8e37-86f3c341c268,haveworkdone.team,available,66,1,14,,,
 28160359-9d6f-4626-851c-6af740e7d980,having.team,available,86,5,6,,,
-49e9cd7f-09a3-493a-b410-6099fb69304c,hawaii.team,resell,70,31,6,"Chengdu West Dimension Digital Technology Co., Ltd.",08/02/2020 08:47,08/02/2026 08:47
+49e9cd7f-09a3-493a-b410-6099fb69304c,hawaii.team,resell,70,29,6,"Chengdu West Dimension Digital Technology Co., Ltd.",08/02/2020 08:47,08/02/2026 08:47
 a763c317-96af-4b21-bdcf-4df231ed39eb,hawkeyed.team,available,46,2,9,,,
 c6c12888-6bd7-4579-b74b-07d258c84831,haywire.team,available,72,8,7,,,
 d95aeecc-a6b3-41d5-a82c-d53c6068de7f,HBO.team,available,76,12,3,,,
@@ -3603,7 +3603,7 @@ bd51fcbc-1c89-4ab0-a9e7-9c5c860c0634,home.team,resell,100,40,4,"GoDaddy.com, LLC
 1b6c4179-3d36-4720-90ad-701fcc3bbc40,honestly.team,available,78,9,8,,,
 416d10e8-7fe5-4d32-afad-9b5116e60370,hopedfor.team,available,51,1,9,,,
 a900bc57-26aa-4ee6-9043-7be46ee6c4b4,hopeful.team,available,84,8,7,,,
-bb161ee8-7169-49ce-bedd-407d603f7b56,hopefully.team,available,70,3,9,,,
+bb161ee8-7169-49ce-bedd-407d603f7b56,hopefully.team,available,70,4,9,,,
 3f927bf9-8411-429a-b58d-9cb915603ae7,horseback.team,available,80,2,9,,,
 16f7fa55-b320-43ec-bee0-f0adb0ab05ea,hospital.team,available,58,18,8,,,
 8c6a3632-3ddf-4397-b879-283dae5b4d2e,hostile.team,available,74,9,7,,,
@@ -3645,7 +3645,7 @@ d469be0d-ba0b-4306-a6a3-c8f261ad2361,hysterically.team,available,52,1,12,,,
 065f3f40-0af6-4fb3-86bb-c7113c57ad23,ice.team,resell,68,37,3,"Xiamen ChinaSource Internet Service Co., Ltd",12/04/2022 17:00,12/04/2026 17:00
 4f6db69a-466f-44c0-bca3-549de9cf96f8,iceblue.team,available,90,6,8,,,
 85750d6c-f480-49da-aaf5-65158e6bbabc,IDcard.team,available,72,7,7,,,
-a9266d53-e2d0-4dbc-bd7c-73f85b6df084,idea.team,available,88,6,4,,,
+a9266d53-e2d0-4dbc-bd7c-73f85b6df084,idea.team,available,88,7,4,,,
 a749a23d-76ce-4068-8bd6-db0305a25211,ideally.team,available,68,6,7,,,
 b807246c-f608-4492-b552-44d547ca828f,identical.team,available,82,3,9,,,
 d9b12415-db1d-4e25-9fd1-be7e1dd8d884,identified.team,available,62,5,10,,,
@@ -3674,7 +3674,7 @@ fd85dc8f-a126-4535-8c86-adf354735fbd,illustrated.team,available,68,5,11,,,
 14819b4d-b8fd-4f95-8486-bcb8dc2d9a97,imaginable.team,available,69,3,10,,,
 addcdabd-e7bb-46b0-83b0-4f0468212908,immediate.team,available,72,10,9,,,
 0fe28c9f-9987-4730-beba-fa5dec4f2f98,immense.team,available,90,7,7,,,
-503ca59f-accf-4d55-bfec-b809025588b3,impact.team,available,92,25,6,,,
+503ca59f-accf-4d55-bfec-b809025588b3,impact.team,available,92,24,6,,,
 e08779cd-af2b-42bb-b8ea-d2a06a54bc33,implausible.team,available,52,2,11,,,
 1fab57ea-ce43-4d37-9fae-d025beac3e41,implied.team,available,74,8,7,,,
 b91b399d-51aa-4148-871a-612cee72a380,implying.team,available,64,2,8,,,
@@ -3744,7 +3744,7 @@ b0f0fbf2-15c2-4a1e-8ce2-93a8acfafb46,infuriated.team,available,36,2,10,,,
 07f9f59a-5d02-4ded-aa47-5b71072d0af1,inhale.team,available,94,9,6,,,
 4e536795-ef3a-4011-9fbe-c764f3d7736d,inherent.team,available,68,8,8,,,
 0f44b107-4630-4d00-a60e-61d05a7804bc,inhibit.team,available,68,2,7,,,
-5930de1b-dadb-48a0-a2db-c54070c43f0d,initially.team,available,64,2,9,,,
+5930de1b-dadb-48a0-a2db-c54070c43f0d,initially.team,available,64,3,9,,,
 8453670d-1d32-423f-9add-07d64e6b9b62,initiative.team,resell,90,11,10,"Sav.com, LLC - 30",01/06/2025 15:15,01/06/2026 15:15
 515bfe9b-d69d-488e-86fd-9f7c90bb258a,injure.team,available,68,2,6,,,
 65a29997-062f-43e1-9f76-fd7f5b0a8401,inlaw.team,available,90,5,6,,,
@@ -3752,7 +3752,7 @@ eafb3c26-1cfd-4ae1-90c1-26e33747ef21,inlightof.team,available,52,2,11,,,
 fc002437-4583-4ba6-9f29-72179484b982,inlovewith.team,available,62,2,12,,,
 93f79b9a-296e-40ea-b84c-259c8dc802d3,innocence.team,available,78,7,9,,,
 e4c7a165-5188-4afc-9a59-0e86f102dbb3,inorderto.team,available,,1,11,,,
-de6f1fe9-5036-42ea-8754-52029d219424,inplace.team,available,,5,8,,,
+de6f1fe9-5036-42ea-8754-52029d219424,inplace.team,available,56,5,8,,,
 87a7dbc8-881f-4e74-bcea-470cfad41bc5,inplaceof.team,available,54,1,11,,,
 87e491a7-4ce2-48c2-8f2b-8fed652cce85,inpublic.team,available,58,4,9,,,
 2649564c-179a-4e00-993c-d8f616349955,inquestion.team,available,66,1,11,,,
@@ -3809,10 +3809,10 @@ f69b24df-37f4-4b07-9141-f5af7971b7fd,inthelightof.team,available,56,1,15,,,
 e282a198-93ec-4083-9c3a-50300883c313,intheraw.team,available,40,2,10,,,
 379fb912-111e-4f69-8556-78aa56306b68,inthethickof.team,available,54,1,15,,,
 09f09eb3-7b74-42b8-bf2e-ccc0c95fd386,inthewakeof.team,available,50,1,14,,,
-9b827aca-2f67-42bb-a2c5-361143a489af,inthis.team,available,60,4,7,,,
+9b827aca-2f67-42bb-a2c5-361143a489af,inthis.team,available,60,3,7,,,
 f49597db-bb12-429b-819a-387b1319136f,inthreedays.team,available,48,1,13,,,
 f35db980-ab04-4981-be51-cab953cd6f18,intimate.team,available,110,12,8,,,
-4831afa8-ed6a-4856-98da-4ce69728aebd,intime.team,available,68,11,7,,,
+4831afa8-ed6a-4856-98da-4ce69728aebd,intime.team,available,68,10,7,,,
 f9756a51-5deb-4b67-b55d-89337626c851,into.team,resell,62,24,4,"Sav.com, LLC - 45",04/09/2025 17:00,04/09/2026 17:00
 db717393-de88-4baa-8617-713d0f89bded,intricate.team,available,89,5,9,,,
 136281d5-7fcd-494a-a994-f2da814447e4,intrigue.team,available,94,10,8,,,
@@ -3916,7 +3916,7 @@ cfb1bdba-5221-4d4e-b0b6-d9a500af5b19,justabout.team,available,58,2,10,,,
 c99e0fe7-d2fa-4d0f-a0e6-0068c1b180d3,justified.team,available,66,7,9,,,
 1b998e46-01e7-40d8-9be1-36b7709603c2,justintime.team,available,64,16,12,,,
 b2f10ce0-11d8-484b-8984-949aded71d53,justkidding.team,available,76,3,12,,,
-bfd8c21c-845e-4fe7-a99b-c841afc15b44,justnow.team,available,62,8,8,,,
+bfd8c21c-845e-4fe7-a99b-c841afc15b44,justnow.team,available,56,7,8,,,
 fa12abe1-3537-4d92-abc1-602b7eeca01d,justsaying.team,available,53,6,11,,,
 b03159f9-301a-485e-8bce-e652dd68779a,kamikaze.team,available,86,11,8,,,
 80909cb3-5681-4d58-9f38-fe46b050ff9f,kangeroo.team,available,76,2,8,,,
@@ -3973,8 +3973,7 @@ f011f786-15e0-4794-99ac-4e0dd3c35f08,kooky.team,available,74,8,5,,,
 8b059605-5901-4f20-a0f7-a8ac771b4808,laborday.team,available,68,3,9,,,
 2edc8e13-dbc0-42d6-8631-8c95a3f0a88f,laborer.team,available,66,2,7,,,
 b8b33349-08a5-49c6-848f-678dc2942f8e,laborious.team,available,50,1,9,,,
-03e168e5-57b0-44f0-b738-3cd1f3e580e0,labour.team,resell,62,11,6,"Sav.com, LLC - 18",30/10/2025 15:16,30/10/2026 15:16
-994a1340-274a-4c0f-8fde-bb991ed6de94,lace.team,available,98,15,4,,,
+03e168e5-57b0-44f0-b738-3cd1f3e580e0,labour.team,resell,62,10,6,"Sav.com, LLC - 18",30/10/2025 15:16,30/10/2026 15:16
 3367816e-fa21-4b8a-9f84-6d3f7c18168f,lacking.team,available,82,5,7,,,
 ae991d87-7031-41a7-95c6-5c287054ce84,lady.team,resell,92,15,4,"DNSPod, Inc.",14/06/2019 17:04,14/06/2026 17:04
 cc73f19b-d3e6-48d7-9b5f-9da47fe44d7e,lag.team,available,64,11,3,,,
@@ -3993,7 +3992,7 @@ a08e0fba-fbb9-4210-a950-5ef0dd9e9774,lapse.team,available,88,7,5,,,
 481cfa6a-5086-4efe-8070-23a4b69efe4c,largely.team,available,60,1,7,,,
 0da28efe-95e3-427c-9c00-b89d10c96228,larger.team,available,76,4,6,,,
 8071ebd8-48f7-4b01-96a2-fcb029e8c13a,laserpointer.team,available,68,2,13,,,
-18091f9b-eee9-4aac-bd13-b5d25c80c747,lastly.team,available,60,4,6,,,
+18091f9b-eee9-4aac-bd13-b5d25c80c747,lastly.team,available,60,3,6,,,
 56d1632f-7650-45da-97db-01d0d0996ede,late.team,available,76,13,4,,,
 5671360e-3c72-4a0d-84ef-047c63d60cbf,lately.team,available,64,5,6,,,
 02ddd94f-a028-4758-9291-ded483daea5f,lateron.team,available,40,2,8,,,
@@ -4040,7 +4039,7 @@ b799d134-1b9d-4083-ace5-45e10c7e4b79,left.team,available,76,13,4,,,
 eba42488-6cd9-4b14-89ad-9700170291c0,length.team,available,92,4,6,,,
 ecbca8cb-40de-40c0-b7f1-891a8bb5285c,lenitive.team,available,84,1,8,,,
 c01a1f77-074c-47b5-bdd5-8dd82427c336,lesson.team,available,98,10,6,,,
-e65b4e1c-6b23-4b58-83e0-a6a4d797c4e1,let.team,available,106,18,3,,,
+e65b4e1c-6b23-4b58-83e0-a6a4d797c4e1,let.team,available,106,17,3,,,
 4c2f2f31-6263-44cf-9fd8-ed2b4f72c8d0,letalone.team,available,52,1,9,,,
 16022d9d-563d-4a4d-95cd-4b4651b887ca,letloose.team,available,82,3,9,,,
 05a7c6f6-e5d1-4f47-ada1-a43391d60910,letout.team,available,77,2,7,,,
@@ -4073,7 +4072,7 @@ bb993f46-3e92-4000-87ea-02e8c79546e9,LGBTQ.team,available,86,20,5,,,
 80585e0a-390f-41cb-8e37-8320e9c3baf2,liable.team,available,70,4,6,,,
 c6de9da4-d7bd-4f3c-ba3b-63fd132dd99f,licenced.team,available,68,2,8,,,
 82837351-d92d-4bff-9bc7-92121aa129dc,licensed.team,available,68,5,8,,,
-e5bdc617-6863-4505-b1fa-8fc885eb6a77,lick.team,available,62,9,4,,,
+e5bdc617-6863-4505-b1fa-8fc885eb6a77,lick.team,available,62,8,4,,,
 c8eb4adc-8259-4038-938e-1836da389fd8,life.team,resell,84,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",15/10/2016 23:54,15/10/2026 23:54
 adb83c01-db5d-4f44-b0e2-e56ff39d9d85,lifelesson.team,available,76,3,11,,,
 7f682157-83e0-4465-a3ec-9a487ff228b9,lifeprotip.team,available,78,1,12,,,
@@ -4100,7 +4099,7 @@ a103296a-6da1-4f18-8146-9f5c5922efad,linked.team,resell,64,25,6,"NameCheap, Inc.
 54ace74b-79ea-4208-a721-b02fdbb49540,links.team,resell,70,33,5,"DNSPod, Inc.",28/05/2018 11:56,28/05/2026 11:56
 b3442f8d-0724-4c2e-9e4a-ac8dadb8bfea,lion.team,resell,74,32,4,"Chengdu West Dimension Digital Technology Co., Ltd.",14/01/2018 19:16,14/01/2026 19:16
 db5881fc-15dd-4018-9401-aaba134ebce1,Lions.team,resell,72,17,5,"Chengdu West Dimension Digital Technology Co., Ltd.",24/01/2018 08:45,24/01/2026 08:45
-e6b7ff30-1dae-4473-b891-e224460f526b,lip.team,available,72,12,3,,,
+e6b7ff30-1dae-4473-b891-e224460f526b,lip.team,available,72,11,3,,,
 82a000d9-6dc6-4435-b52a-0bae6e2b0b01,liquor.team,available,92,18,6,,,
 0c86e0ea-2977-4803-b472-1c853dd7444e,lisboa.team,available,66,12,6,,,
 6a8e4219-cbbe-4871-8de6-0c644b6d354f,list.team,resell,70,30,4,"DNSPod, Inc.",09/10/2019 09:25,09/10/2026 09:25
@@ -4120,14 +4119,14 @@ e964a8e4-04d9-4573-9875-c77da397d7bc,livid.team,available,48,8,5,,,
 cffa0522-20e0-474b-8d96-3b737e82d778,load.team,resell,78,21,4,"Sav.com, LLC - 13",19/04/2025 15:15,19/04/2026 15:15
 4a413275-9850-44e3-a5eb-4544e3a07381,loaded.team,available,70,13,6,,,
 8027cd58-8ff0-4e93-842e-14eca92112c2,loads.team,available,72,8,5,,,
-9326a4ac-d464-4f59-af40-af1bcfc474e6,locally.team,available,62,12,7,,,
+9326a4ac-d464-4f59-af40-af1bcfc474e6,locally.team,available,62,11,7,,,
 8ef4641b-75fa-4684-a301-dfff5631209e,localtime.team,available,68,5,10,,,
 98b66db2-e37c-4cec-a43b-79bf28918429,located.team,available,62,4,7,,,
 6beaaa13-4709-450c-8b6b-9b44c4acb5e7,lock.team,resell,66,23,4,"Sav.com, LLC - 36",14/01/2025 15:15,14/01/2026 15:15
 e1cc5197-132e-4653-956f-fc6e0143b0d3,lockbox.team,available,68,12,7,,,
 050917d0-e320-48f1-8c78-dbcb6e4b1f5b,lockkey.team,available,76,3,8,,,
 da0fcafb-e65e-4827-a673-edcafd41adcf,loco.team,available,102,24,4,,,
-081a5307-bd28-49f1-983a-44646a6a6dde,lodge.team,available,64,16,5,,,
+081a5307-bd28-49f1-983a-44646a6a6dde,lodge.team,available,64,15,5,,,
 5c70fca4-eb30-489a-b8fb-03fffa8492d3,loft.team,resell,64,27,4,"GoDaddy.com, LLC",17/08/2021 15:12,17/08/2026 15:12
 eb740216-2a09-4957-a7d8-a9fe779ffd5a,logo.team,resell,64,32,4,"DNSPod, Inc.",28/09/2019 12:10,28/09/2026 12:10
 81aae090-1560-48cd-900f-8b01bb38c648,lol.team,available,76,33,3,,,
@@ -4181,7 +4180,7 @@ ff21af4b-a43f-499c-8cf2-90fc3f01be0a,luck.team,resell,78,31,4,"Sav.com, LLC - 28
 3fb9260f-619f-459f-82e6-0c7435a6b833,luckystreak.team,available,76,4,12,,,
 cf32e5e9-ad1b-4f6d-a344-a74875f56c43,lucrative.team,available,70,5,9,,,
 cefb1c8b-a19e-46c5-ad7f-358fdbce03a2,lucy.team,available,84,22,4,,,
-cd93ba17-639e-4bef-99e1-a01e9525bfb8,luggage.team,available,74,11,7,,,
+cd93ba17-639e-4bef-99e1-a01e9525bfb8,luggage.team,available,74,12,7,,,
 596ec847-8646-4a4a-bdd5-24c435058b9f,lunar.team,resell,86,34,5,"Xiamen ChinaSource Internet Service Co., Ltd",01/02/2024 15:15,01/02/2026 15:15
 1ff8ae72-8de5-4262-b986-d507af89d3e0,luncheon.team,available,96,3,8,,,
 e64afa90-45d0-4030-b797-ab97ca39301e,luncheonmeat.team,available,74,1,13,,,
@@ -4237,7 +4236,7 @@ a72339eb-6c27-42e4-b59c-ac23fd54de87,maid.team,available,70,21,4,,,
 d9724601-8c9f-4ba8-8b36-4b779f3a38c0,Maidens.team,available,80,3,7,,,
 71af238d-a53c-4d22-ba91-5633fd943b91,mail.team,resell,94,49,4,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2017 01:05,14/10/2026 01:05
 59ce0a40-1d69-436a-919d-cffce715f439,main.team,resell,94,30,4,"Chengdu West Dimension Digital Technology Co., Ltd.",06/04/2019 22:19,06/04/2026 22:19
-93ca0bf5-4b1f-41c2-98e9-fae984516522,mainly.team,available,70,6,6,,,
+93ca0bf5-4b1f-41c2-98e9-fae984516522,mainly.team,available,70,7,6,,,
 a7167d21-aaf3-420d-bbb1-8a8aa1905f7b,mainman.team,available,72,3,8,,,
 20733063-bdf9-4969-a704-a14b75a5fe1d,maintained.team,available,60,3,10,,,
 07688215-6a4a-43f3-a367-ca678c16e5f7,majority.team,available,76,11,8,,,
@@ -4330,7 +4329,7 @@ f9a2fb27-a852-4ed2-98bc-0e1e39d8dbb1,median.team,available,100,8,6,,,
 48ed4a6b-c8d9-44ad-8fc0-2151943c13dc,megeneration.team,available,64,1,13,,,
 fffc798d-43fe-4a9d-80e2-5ded9b3a4447,melancholy.team,available,76,5,10,,,
 5b60bbd0-81e4-4b68-907d-31bff9cedf0c,melt.team,available,72,18,4,,,
-80bdd720-a54a-4dce-a318-cfe621eb2b98,member.team,resell,94,24,6,"Chengdu West Dimension Digital Technology Co., Ltd.",13/10/2022 13:15,13/10/2026 13:15
+80bdd720-a54a-4dce-a318-cfe621eb2b98,member.team,resell,94,23,6,"Chengdu West Dimension Digital Technology Co., Ltd.",13/10/2022 13:15,13/10/2026 13:15
 c19f48c9-a452-49f0-ae46-da690355008e,memorable.team,available,92,11,9,,,
 e9ddd05a-cb43-44d3-b74f-b7e8d928af2d,memorise.team,available,80,4,8,,,
 e35f749a-c72d-406a-86f7-d0e308352c61,memorize.team,available,82,8,8,,,
@@ -4370,7 +4369,7 @@ b0e9ecde-06a0-44dc-b7d8-c54eef42f3e3,miffed.team,available,41,1,6,,,
 9fc5baa3-7231-419f-bb81-c0a504f02b25,might.team,available,112,11,5,,,
 07552226-d2a3-4f2c-9158-9d45fe928ecc,mike.team,resell,94,48,4,"DNSPod, Inc.",26/08/2024 17:00,26/08/2026 17:00
 e8e68c5a-5b98-409a-8f41-5e30d5aa4bc4,mild.team,available,92,8,4,,,
-15cf2bf1-4f7b-4c4b-b3cc-e7cafb2f6933,mile.team,resell,68,17,4,"Sav.com, LLC - 4",20/01/2025 15:15,20/01/2026 15:15
+15cf2bf1-4f7b-4c4b-b3cc-e7cafb2f6933,mile.team,resell,68,16,4,"Sav.com, LLC - 4",20/01/2025 15:15,20/01/2026 15:15
 7b9df454-9ad2-4008-9f53-1cfa7012c4f4,militant.team,available,72,4,8,,,
 9fb504bb-d24f-4da7-8a83-c8b3a22c555b,military.team,resell,74,23,8,"Sav.com, LLC - 38",05/10/2025 15:15,05/10/2026 15:15
 a3d28d68-5074-4fda-a578-b25f837677a7,mill.team,resell,80,19,4,"Sav.com, LLC - 46",14/01/2025 15:15,14/01/2026 15:15
@@ -4454,14 +4453,14 @@ bf1d5e6c-b1c7-42d2-b892-8b6ff4b4048f,motherfugga.team,available,62,1,11,,,
 0cf573ff-4f75-48d9-8020-2e713f1509ae,motherfukka.team,available,62,1,11,,,
 021e3f62-607a-4bb7-aac8-fe269579469e,motherfukkah.team,available,62,1,12,,,
 9015242f-bb12-4860-8318-188b649288ba,motherfukker.team,available,62,1,12,,,
-b7e76bf1-18f3-4644-ad5c-c4ee29474e1b,motion.team,resell,102,33,6,"Chengdu West Dimension Digital Technology Co., Ltd.",22/08/2020 08:15,22/08/2026 08:15
+b7e76bf1-18f3-4644-ad5c-c4ee29474e1b,motion.team,resell,102,32,6,"Chengdu West Dimension Digital Technology Co., Ltd.",22/08/2020 08:15,22/08/2026 08:15
 358dae63-0aaa-4238-8d71-3775020dfcab,motivate.team,resell,81,12,8,"Sav.com, LLC - 26",02/12/2024 17:00,02/12/2026 17:00
 85c47001-7315-4f0f-be83-e053bf356205,motive.team,available,112,12,6,,,
 91f67b77-87ed-4303-9b3e-1e7ae341cb35,motley.team,available,44,10,6,,,
 41901058-b31f-419b-bff7-933d7eb3ab39,motor.team,resell,72,22,5,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2019 09:04,14/10/2026 09:04
 ec6c16df-b18d-41a5-bd1e-02305a0d5eba,mount.team,resell,58,16,5,"Xiamen ChinaSource Internet Service Co., Ltd",25/09/2019 23:41,25/09/2026 23:41
 b440c2d8-1d86-4167-979f-8a1eab9065c8,mountain.team,resell,80,26,8,"DNSPod, Inc.",27/09/2019 04:53,27/09/2026 04:53
-7baefbbc-42ba-4e4c-98d2-3342c49e07bc,mouse.team,available,62,22,5,,,
+7baefbbc-42ba-4e4c-98d2-3342c49e07bc,mouse.team,available,62,21,5,,,
 2cd4ca57-5c0e-4bdb-9745-dc79e0c91c5d,mouthless.team,available,34,1,9,,,
 a629c43a-61a8-40d4-813b-d77c0e308ed3,move.team,resell,109,35,4,"DNSPod, Inc.",01/11/2023 15:15,01/11/2026 15:15
 a1eceb63-19e9-4e53-a2e0-64d60574968a,moveabout.team,available,,2,10,,,
@@ -4514,7 +4513,7 @@ e45957b5-d7e5-41ab-a61a-c5a113ea335c,nationaldebt.team,available,,3,13,,,
 3a6e7758-c0c6-48d4-8154-972ddc21b7a9,naturalgas.team,available,,7,11,,,
 c273d018-ba88-4d46-a0b2-d9b1107516ec,near.team,resell,66,31,4,"GoDaddy.com, LLC",18/05/2020 20:43,18/05/2026 20:43
 0897249a-58d5-418b-a85a-b9c18cd7f4f4,nearer.team,available,54,3,6,,,
-932cca07-2596-406e-8913-c043e0b24187,nearest.team,available,60,7,7,,,
+932cca07-2596-406e-8913-c043e0b24187,nearest.team,available,60,6,7,,,
 2e8b3d26-ca4e-44ea-82e5-076bf6de5f9c,nearpost.team,available,64,1,9,,,
 67e4a2ce-3a39-4f9e-96db-ccba5b486d52,nebraska.team,available,50,15,8,,,
 77d945df-0d9d-4551-9fed-eba75f02bf19,nebula.team,resell,80,37,6,"Xiamen ChinaSource Internet Service Co., Ltd",18/06/2022 17:00,18/06/2026 17:00
@@ -4525,7 +4524,7 @@ cf596400-e4f9-495a-993a-c13b7e4aaf48,necessity.team,available,72,5,9,,,
 715d40cd-74fb-4a41-98f2-a0193807570b,nectarous.team,available,62,2,9,,,
 9e9c5243-3ce6-42e3-a1dc-9f7d0e5750d8,need.team,resell,104,26,4,"Sav.com, LLC - 15",19/11/2024 17:00,19/11/2026 17:00
 2d723f63-4567-4546-99da-5a2c0ca0b434,needing.team,available,70,2,7,,,
-1d7106c0-2c04-4391-85c8-d46352451a09,needle.team,available,64,11,6,,,
+1d7106c0-2c04-4391-85c8-d46352451a09,needle.team,available,64,10,6,,,
 aaefd80a-976e-4c40-8f3d-a0cd6068e7d3,needlelike.team,available,50,1,10,,,
 0f78236e-2ccc-4290-921a-97b7f89292ed,needy.team,available,58,8,5,,,
 b076f3b3-ea1b-495b-9507-99f3576e9968,negative.team,available,112,9,8,,,
@@ -4602,7 +4601,7 @@ dd8424cc-ac5a-452f-9e6f-6b722ba259fd,NorthKorea.team,available,,7,11,,,
 5dcf7ed3-682b-4ee4-87af-d41b8512d3e1,nose.team,available,94,14,4,,,
 9e73d7ed-bfe6-42f5-af6f-b487b95e70bd,noseabout.team,available,,2,10,,,
 7cd5fb3c-c45c-4f31-9b8c-d632b06436c6,notatall.team,available,74,2,10,,,
-4c3458fd-dc3b-4de9-84ab-35b5a3472e35,note.team,resell,68,30,4,"DNSPod, Inc.",25/04/2019 18:06,25/04/2026 18:06
+4c3458fd-dc3b-4de9-84ab-35b5a3472e35,note.team,resell,68,29,4,"DNSPod, Inc.",25/04/2019 18:06,25/04/2026 18:06
 53d8f078-8655-4028-902d-6e1af489590d,notfor.team,available,45,5,7,,,
 a78db26e-6dac-4d6c-9f5a-c762a3ddb351,notguilty.team,available,48,5,10,,,
 a40ae66d-e7ef-4bbe-997c-298c70397155,nothanks.team,available,66,6,9,,,
@@ -4671,12 +4670,12 @@ d3b7edb9-ac3f-43ac-a868-1e50f27265e3,oddman.team,available,,2,7,,,
 f0da1259-edc6-4008-a5b7-ede11c6b4b1f,oddsandends.team,available,,3,13,,,
 0677ae25-0925-4e04-89cc-d020be78bf71,odious.team,available,52,3,6,,,
 3a9df4d2-4d3d-4b6f-afa6-661dc1532d8c,ofcolor.team,available,,2,8,,,
-13ba47f3-7581-4b5b-b935-809aa39b3167,ofcourse.team,available,66,8,9,,,
+13ba47f3-7581-4b5b-b935-809aa39b3167,ofcourse.team,available,66,7,9,,,
 d4e92498-5e8c-4cff-a1bc-987d53b6c3c9,offcolor.team,available,44,2,9,,,
 389a1d27-3176-4906-b848-a85af439e68b,offered.team,available,,4,7,,,
 6cbaa56d-7f5c-4870-a487-bfffadd0ae80,offhand.team,available,70,2,7,,,
 8ea8e632-6a13-4423-ad7f-9adfff531587,offhanded.team,available,58,1,9,,,
-1d2f9134-32c7-4606-ab1d-d837d3c6b418,office.team,available,100,24,6,,,
+1d2f9134-32c7-4606-ab1d-d837d3c6b418,office.team,available,100,23,6,,,
 12abffe7-090e-4664-9f57-36580a357ee2,officelandscape.team,available,72,1,16,,,
 ed4dc63b-4a28-4809-8043-50a7e7a5503b,offof.team,available,50,1,6,,,
 130b8559-8f1e-4866-9283-b704b34550eb,offspring.team,available,74,5,9,,,
@@ -4716,10 +4715,10 @@ e010222f-c336-4b9a-af43-186c852f3e9e,oneortwo.team,available,,2,10,,,
 138ac4f3-5262-47bf-855a-a6b9e69d159a,onequarter.team,available,,2,11,,,
 ace72f38-2b49-4cd8-979f-5091d0bd39c2,ones.team,available,82,15,4,,,
 2c5ecf20-cc63-4f6b-893f-cd367cc976e5,oneself.team,available,70,7,7,,,
-b90bb75e-936b-4941-8e12-15ace9c01bbd,onetime.team,available,62,11,8,,,
+b90bb75e-936b-4941-8e12-15ace9c01bbd,onetime.team,available,62,10,8,,,
 0dfc7e0d-2a9a-4324-943f-54b2819b6feb,oneyear.team,available,60,6,8,,,
 7aa80734-69d7-43e3-b047-da90ee1819f6,oneyearold.team,available,88,1,12,,,
-8bde522c-4c6d-43a5-b1e9-6766ea9e6de3,onion.team,resell,72,29,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),22/07/2019 17:02,22/07/2026 17:02
+8bde522c-4c6d-43a5-b1e9-6766ea9e6de3,onion.team,resell,72,30,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),22/07/2019 17:02,22/07/2026 17:02
 b2cd6a3f-c8da-48b8-9fcd-65a39ffa06fd,Onions.team,available,56,7,6,,,
 de48c89d-57d9-48cf-a639-b508f0ea9247,only.team,resell,110,34,4,"DNSPod, Inc.",14/03/2020 08:48,14/03/2027 08:48
 c14f9352-a12c-4c57-bac5-9283514b2f1e,onmain.team,available,64,2,7,,,
@@ -4877,7 +4876,7 @@ a66746f4-6769-4ee3-a298-6c004fbdaf82,pauliii.team,available,64,1,8,,,
 e16cb706-b694-4163-b292-501ca5a0b540,payfor.team,available,74,8,7,,,
 8a7649b9-9ed1-4009-8dfc-cf99a5a8778d,paying.team,available,76,6,6,,,
 713d856b-5137-4d08-8390-b5a5696e85a2,payment.team,resell,78,32,7,"DNSPod, Inc.",22/06/2023 15:15,22/06/2026 15:15
-7e08b12f-e22c-4f60-aa23-e52abe7a8838,peace.team,resell,102,31,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/10/2021 13:15,13/10/2026 13:15
+7e08b12f-e22c-4f60-aa23-e52abe7a8838,peace.team,resell,102,30,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/10/2021 13:15,13/10/2026 13:15
 d27a973a-078e-4c96-ae92-ac60b024edb2,PeaceCorps.team,available,,2,11,,,
 7e9f96ce-c072-4ea2-9f4d-6d7a3bf6b04a,peaceful.team,available,86,12,8,,,
 b3cc2ba5-91cd-498f-9e56-437d857881c9,peacock.team,resell,66,21,7,"Xiamen ChinaSource Internet Service Co., Ltd",04/06/2022 17:00,04/06/2026 17:00
@@ -4938,7 +4937,7 @@ cb169e50-74e7-4a76-860b-c7a321223b66,picked.team,available,76,6,6,,,
 f759a62c-cdfd-4a05-acaf-2475ea1b17d7,pickuptruck.team,available,58,3,13,,,
 d9c8925b-8ed2-423f-ae25-4929fef34ec0,pies.team,available,58,9,4,,,
 54e55340-8014-429b-861b-61619fa40885,pill.team,available,60,11,4,,,
-5cb8f0a5-40fa-42da-8128-5abd7c899c81,pilot.team,resell,114,30,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/07/2018 08:04,18/07/2026 08:04
+5cb8f0a5-40fa-42da-8128-5abd7c899c81,pilot.team,resell,114,29,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/07/2018 08:04,18/07/2026 08:04
 0d6b2c56-4620-486c-9a29-de4cd77e0a85,pimpled.team,available,41,1,7,,,
 e22d44be-6aa3-4281-873a-8598014ddb1c,pimply.team,available,41,1,6,,,
 ea85d888-1219-4d1d-ac3b-335ec8edd83f,pinging.team,available,70,2,7,,,
@@ -4976,7 +4975,7 @@ de88e86f-0b0f-47d1-90bf-d841d5350c43,plausive.team,available,46,1,8,,,
 9c611cd9-57a6-48dd-9ae8-cd0838a61949,playacting.team,available,62,1,10,,,
 1a469184-cf77-47f5-a20b-8d0efca8973a,playdate.team,available,,14,9,,,
 7cffa139-6050-4582-a268-ea03b7e78c64,played.team,available,70,5,6,,,
-9474dc5f-ace6-4c9f-b3b7-634fd39304ba,player.team,resell,68,23,6,"DNSPod, Inc.",30/03/2019 17:06,30/03/2026 17:06
+9474dc5f-ace6-4c9f-b3b7-634fd39304ba,player.team,resell,68,22,6,"DNSPod, Inc.",30/03/2019 17:06,30/03/2026 17:06
 d5302a10-4175-47a9-8843-f42bf0edf552,playing.team,available,74,10,7,,,
 0736d29e-443d-46b0-87ee-1abb152d2188,playoff.team,available,72,5,8,,,
 9fb36331-80cd-457f-b198-c7b41c3608c8,playonwords.team,available,,4,13,,,
@@ -4992,7 +4991,7 @@ de498c98-4b2f-4dad-afc0-790c6fedc9f1,plotted.team,available,72,3,7,,,
 8beca8de-5438-410e-8a33-226e119a45c9,plumpfor.team,available,54,1,9,,,
 f6504cd7-f4ee-4666-b539-7957e7f0aa4b,plunkfor.team,available,54,1,9,,,
 068d22e4-f978-418d-8acd-ca4cf51836c1,poignant.team,available,68,3,8,,,
-2185ea5b-ef2f-4321-abd2-5e41ebfe38d4,point.team,resell,78,30,5,"DNSPod, Inc.",01/04/2021 23:41,01/04/2026 23:41
+2185ea5b-ef2f-4321-abd2-5e41ebfe38d4,point.team,resell,78,29,5,"DNSPod, Inc.",01/04/2021 23:41,01/04/2026 23:41
 03de1ef9-bc67-4654-9a49-31d269a388f9,pointat.team,available,,2,8,,,
 1a14e706-140d-4e68-a260-d591b960f3b0,pointless.team,available,54,12,9,,,
 a300af20-19c2-47ef-84e5-5693bfe8801f,Points.team,resell,64,22,6,"Global Domains International, Inc. DBA DomainCostClub.com",27/04/2024 09:17,27/04/2026 09:17
@@ -5003,7 +5002,7 @@ a300af20-19c2-47ef-84e5-5693bfe8801f,Points.team,resell,64,22,6,"Global Domains 
 21386864-a190-4a75-be77-4fc698a7639d,police.team,resell,96,20,6,"Sav.com, LLC - 14",14/05/2025 15:16,14/05/2026 15:16
 d54583b4-16dc-4137-8dc7-f24014501acc,policeofficer.team,available,70,3,14,,,
 1341f7ce-c331-438d-a430-4455ae06d9e6,policymaker.team,available,76,2,12,,,
-08093897-4ff8-497c-83af-7c591b9cadf2,politely.team,available,64,3,8,,,
+08093897-4ff8-497c-83af-7c591b9cadf2,politely.team,available,64,2,8,,,
 e18ac933-7b0d-4f3c-84b8-45657c8036df,political.team,available,80,18,9,,,
 e9131667-8f0f-4d3e-a81b-8759a7c3357c,politicalparty.team,available,66,5,15,,,
 f3e73e14-89d9-4f18-9f13-390217d890e8,poll.team,available,80,20,4,,,
@@ -5030,7 +5029,7 @@ b2275d9a-951d-4f22-ae1a-200fc14ab37b,portofcall.team,available,,2,12,,,
 126a6f6c-5668-4d11-b8c8-b3eabcafcdb5,possess.team,available,78,2,7,,,
 dcaeaf4f-7e6d-4dd0-a73f-b25d74433808,possession.team,available,88,4,10,,,
 8cb4195d-dc61-4c3a-945d-bfcae3e26993,possibly.team,available,62,5,8,,,
-040570d0-9c24-4529-9487-d81d46959625,post.team,resell,72,35,4,Edomains LLC,06/02/2025 14:15,06/02/2026 14:15
+040570d0-9c24-4529-9487-d81d46959625,post.team,resell,72,34,4,Edomains LLC,06/02/2025 14:15,06/02/2026 14:15
 0e03f3fb-e766-4e8e-a578-c79a748fe506,postaladdress.team,available,66,2,14,,,
 4d5eb9d2-5e22-48aa-bc59-69353c885db7,posterior.team,available,56,2,9,,,
 241921f9-2245-4640-aeb3-603739053841,potatochip.team,available,70,3,11,,,
@@ -5040,7 +5039,7 @@ a916131f-5467-4e0f-85a4-e165096fc253,potterabout.team,available,,2,12,,,
 e5af2552-9a5b-4ffa-9790-ce1e281e143c,pound.team,available,64,12,5,,,
 46e17a6a-117e-4630-8658-e5de05538657,poundcake.team,available,,4,10,,,
 d7b82eda-0701-44ea-a1ff-1fe0266c1360,pour.team,available,96,11,4,,,
-803f3097-c924-4831-a5eb-df76ed77653f,power.team,premium,98,29,5,,,
+803f3097-c924-4831-a5eb-df76ed77653f,power.team,premium,98,28,5,,,
 4b17fe7a-cfe4-4622-bbb6-026b1bba0e0d,powered.team,available,72,13,7,,,
 a9386f00-f8ca-407f-90c3-c67053970250,Powers.team,resell,70,16,6,"DNSPod, Inc.",12/04/2024 15:16,12/04/2026 15:16
 53ffa763-848f-465f-a22c-bbdb6b476c73,powerstrip.team,available,74,2,11,,,
@@ -5050,7 +5049,7 @@ a8059186-5d57-44b5-afce-b9b86fe3f5d3,practicing.team,available,82,4,10,,,
 08f67363-b369-4b3a-9097-a036500b5ea9,prairie.team,available,62,14,7,,,
 2f3504d5-94e1-42a3-b1fe-1c97753ed92b,prat.team,available,56,6,4,,,
 a939e7fb-fcc8-49e4-9331-34372ee2c9d7,pratabout.team,available,,1,10,,,
-cac55faf-762a-4191-80bf-9145001519eb,prayer.team,resell,78,18,6,"DNSPod, Inc.",15/10/2018 10:12,15/10/2026 10:12
+cac55faf-762a-4191-80bf-9145001519eb,prayer.team,resell,78,17,6,"DNSPod, Inc.",15/10/2018 10:12,15/10/2026 10:12
 6523b3ba-9e49-47d2-921d-d478b37fdc83,pre.team,available,64,27,3,,,
 97acb814-9293-4e3d-93c1-15c8acbe8699,preceding.team,available,,3,9,,,
 a2ee99b4-7ee2-4b50-86d3-651aa5d90191,precipitous.team,available,,2,11,,,
@@ -5089,7 +5088,7 @@ d9a1dd6d-d5ff-452d-95c6-c7c7c9dcabba,prevention.team,resell,74,11,10,"Sav.com, L
 bc94b2f8-f4ad-40c9-88f3-25a60f9cf2fb,pricetag.team,available,68,5,9,,,
 77a11f19-84a1-4693-9ab0-af8ac442f717,prick.team,available,70,6,5,,,
 e98a050c-c6b7-4c12-b504-5aa367cbdeaa,prickly.team,available,80,5,7,,,
-2295367b-9b3a-46aa-b1c5-bef2de956147,primarily.team,available,67,4,9,,,
+2295367b-9b3a-46aa-b1c5-bef2de956147,primarily.team,available,67,3,9,,,
 b4874c6a-a871-493c-8cf0-fc7c0e77c4e2,primeminister.team,available,70,5,14,,,
 0608172f-480c-4fb4-baf9-ab7c1e734d22,primetime.team,available,70,20,10,,,
 e4a81d33-b17d-4ba6-b696-118cb7d1f548,primitive.team,available,82,12,9,,,
@@ -5216,7 +5215,7 @@ ee24eaa3-82a2-421a-864b-1486bf3155f4,quieter.team,available,70,2,7,,,
 cc57d30b-03e6-45f4-af23-a646e40ad2e5,quilting.team,available,76,6,8,,,
 3bbbae29-b29a-4218-966a-1d4827cda3da,quintet.team,available,58,8,7,,,
 a807cfcc-bb52-401e-b842-38a259c36e00,quintuplet.team,available,54,1,10,,,
-70b1bea0-079b-4944-938f-254116383c26,quite.team,available,106,8,5,,,
+70b1bea0-079b-4944-938f-254116383c26,quite.team,available,106,7,5,,,
 c3dcd364-c0ae-4212-9005-74a32b319240,quitea.team,available,68,1,7,,,
 9828a79f-4445-4042-9f0d-7deb79d27ad2,quiteafew.team,available,56,0,11,,,
 3d57e472-3f29-4c1b-85f2-5f56c0d9530a,quitean.team,available,64,1,8,,,
@@ -5260,7 +5259,7 @@ f255fcdb-e2c6-4151-87a6-ce36c4e2e96f,reasonably.team,available,58,2,10,,,
 85b2a55b-1ea4-4bd4-bed0-7a45c223e21e,receive.team,available,94,12,7,,,
 823eddd4-a961-4df7-9f56-910fe5cd8653,received.team,available,66,5,8,,,
 11081a69-278c-4396-8b85-666f3eaf05e8,recent.team,available,82,9,6,,,
-405615c2-7139-400e-8e17-ce4c6449df71,recently.team,available,62,5,8,,,
+405615c2-7139-400e-8e17-ce4c6449df71,recently.team,available,62,4,8,,,
 53dca5fc-35a3-4ffc-b3a4-3d496c36f893,receptionchair.team,available,68,1,15,,,
 12991850-a50c-4705-9771-988e04bbfaa2,recession.team,available,62,6,9,,,
 65a6d96f-b6d4-4d99-ad88-83ea9d0c6678,recipe.team,resell,82,25,6,"Sav.com, LLC - 45",16/08/2025 15:15,16/08/2026 15:15
@@ -5284,7 +5283,7 @@ c16ee3c4-7e1c-4ea4-80c0-b74708e3eb8e,rectangle.team,available,80,11,9,,,
 7c13463b-0cc6-4e4a-83a4-66c644d4b50a,redapple.team,available,76,10,9,,,
 21fa4535-13d1-42a5-bffa-0485381918d7,reddish.team,available,68,4,7,,,
 14aca8c7-51a2-44d6-9c87-24fd19c747a5,redmeat.team,available,,3,8,,,
-0ffe6b28-3541-41c5-9d39-67e559558264,redpanda.team,available,78,17,9,,,
+0ffe6b28-3541-41c5-9d39-67e559558264,redpanda.team,available,78,15,9,,,
 d2155ecb-5ceb-4d73-adad-402a70beaf61,reduce.team,available,78,9,6,,,
 b9483f17-c943-4993-bb7a-1cbe293ebe5d,reebok.team,available,89,10,6,,,
 e61f8db5-9861-4b9b-8a0c-c705b4f33cfc,referable.team,available,44,5,9,,,
@@ -5313,6 +5312,7 @@ fed39610-9250-418f-97fd-6215a5e2780f,relatively.team,available,62,2,10,,,
 4f52ca95-056f-484c-8dc7-bf8265db28ce,release.team,resell,98,20,7,"DNSPod, Inc.",16/03/2020 22:58,16/03/2026 22:58
 8de4adb8-2d64-417b-8cef-4d856503082c,releasecandidate.team,available,70,1,17,,,
 bb6087b4-d687-4ab4-af6b-cb325b6c97c1,releaseversion.team,available,74,1,15,,,
+c3288509-9e04-4c06-b0b4-2d64a329ab7c,relief.team,resell,98,15,6,"DNSPod, Inc.",17/12/2018 08:23,17/12/2026 08:23
 f40acdd4-4720-40b1-beb7-4b1b1ef503a8,relieved.team,available,66,3,8,,,
 403a397b-a4cb-4688-8785-f23ca815ae28,rely.team,available,76,15,4,,,
 7ea043ab-cf0a-4c4a-af4b-bcb3d4ca0fbb,remain.team,available,84,9,6,,,
@@ -5423,7 +5423,7 @@ f922b02f-b694-42cd-beb7-5cdc2bc83235,road.team,resell,94,26,4,"DNSPod, Inc.",15/
 81443242-e0ad-4ee9-8053-eafe97e29b62,roast.team,available,107,16,5,,,
 79a9b501-ca97-4482-a423-5dadad4a0d76,roasted.team,available,69,6,7,,,
 925d610e-c8fd-4d52-bc17-078a6cb2179e,robed.team,available,52,3,5,,,
-0af7936f-82dc-4a12-b418-95889e05b492,robin.team,resell,90,38,5,"Sav.com, LLC - 1",17/10/2025 15:15,17/10/2026 15:15
+0af7936f-82dc-4a12-b418-95889e05b492,robin.team,resell,90,37,5,"Sav.com, LLC - 1",17/10/2025 15:15,17/10/2026 15:15
 0664c5fe-a64f-4a17-a0c8-a782b813973d,robotlike.team,available,52,1,9,,,
 f62fcb3e-3588-42ea-9f5d-5b5ca378794b,rockbottom.team,available,80,8,11,,,
 46b060f2-d0d9-4594-bd4e-45f2846627fb,rockmusic.team,available,,7,10,,,
@@ -5473,7 +5473,7 @@ a9fd089b-8c3c-454f-a4d7-3a771f49ecde,saddle.team,available,96,8,6,,,
 9da76efe-fb01-48bb-ab3f-752ae2de29b6,sadness.team,available,64,6,7,,,
 450992ee-cda1-44ab-ac34-efb4f0948e60,safe.team,resell,84,37,4,"GoDaddy.com, LLC",30/07/2015 01:32,30/07/2026 01:32
 9de82f21-4cd4-4c4a-a845-6085a832eef9,safehaven.team,available,76,18,10,,,
-1d83af66-1bd0-4bdd-8dd7-b4901cd00fb3,safety.team,resell,100,32,6,"Global Domains International, Inc. DBA DomainCostClub.com",28/04/2025 15:15,28/04/2026 15:15
+1d83af66-1bd0-4bdd-8dd7-b4901cd00fb3,safety.team,resell,100,33,6,"Global Domains International, Inc. DBA DomainCostClub.com",28/04/2025 15:15,28/04/2026 15:15
 90ae0c4f-0882-4547-979e-79e5300471bc,sag.team,available,62,14,3,,,
 9d3666b5-4cd5-4626-a554-22603d874b44,sagittate.team,available,43,1,9,,,
 ad76106b-e3c3-4fbd-890b-60ffec7d7ed8,saint.team,available,80,21,5,,,
@@ -5501,7 +5501,7 @@ a54b30cd-bed7-4d52-9456-947b43e1c966,saucer.team,available,96,5,6,,,
 1fad16b3-929f-43e7-8ef0-3425bb37615d,sauna.team,available,94,28,5,,,
 bcc83844-a096-419d-b929-88be1ade8ffc,sausage.team,available,94,11,7,,,
 53fb8fec-d1ba-4225-abc5-1f2f36d2366d,savage.team,resell,50,36,6,"Sav.com, LLC",26/10/2024 21:57,26/10/2025 21:57
-6a3408c2-2954-4381-9ae3-8b1e97466679,save.team,resell,70,31,4,"DNSPod, Inc.",17/10/2022 13:15,17/10/2026 13:15
+6a3408c2-2954-4381-9ae3-8b1e97466679,save.team,resell,70,30,4,"DNSPod, Inc.",17/10/2022 13:15,17/10/2026 13:15
 8fcb2f59-ac66-41e8-a735-5e7cbc65e301,saved.team,available,76,11,5,,,
 8908ac08-3e40-4d82-8cbe-1bad5774307f,savingsaccount.team,available,72,2,15,,,
 d593b77a-738f-4d03-87f1-89cd9536b627,saytheword.team,available,,2,12,,,
@@ -5575,7 +5575,7 @@ ed9234f7-6ac4-45ae-82dd-6c3d1a92ab1a,selfish.team,available,56,10,7,,,
 02e17055-b96d-4b38-9188-13a71590fdd7,selfworth.team,available,78,4,10,,,
 9bfa830b-6f4f-462f-b39e-3ca2dcacdd36,sell.team,resell,70,34,4,"Chengdu West Dimension Digital Technology Co., Ltd.",02/06/2018 16:15,02/06/2026 16:15
 cf7d3cf7-b638-4c51-98f8-f6a86c89ce9d,sellbydate.team,available,64,2,12,,,
-4fcf3f5b-7e74-461e-90a4-292698b3f5de,send.team,resell,80,35,4,"Xiamen ChinaSource Internet Service Co., Ltd",16/08/2018 08:20,16/08/2026 08:20
+4fcf3f5b-7e74-461e-90a4-292698b3f5de,send.team,resell,80,34,4,"Xiamen ChinaSource Internet Service Co., Ltd",16/08/2018 08:20,16/08/2026 08:20
 d04bec3f-12c4-43e3-9857-201eee46efd2,senescent.team,available,52,3,9,,,
 0bd4d3b4-1409-4441-958a-2ab4e2aa5f64,senior.team,resell,70,22,6,"DNSPod, Inc.",01/10/2018 22:49,01/10/2026 22:49
 3c8140e1-9a02-4d05-9911-d8d2789ae4a9,sensation.team,available,74,6,9,,,
@@ -5600,7 +5600,7 @@ a0946560-7e35-464f-866a-b7c6efb856f5,sequel.team,available,78,15,6,,,
 c9889b43-e358-4e87-9f16-d50022387d89,sequent.team,available,80,7,7,,,
 421c24a8-199a-41b7-8772-bd13bf7eab04,serialkiller.team,available,56,3,13,,,
 552b99d8-d0ea-487a-81f3-a2f216e6a7fe,series.team,available,74,15,6,,,
-b3668263-c92c-4b61-a704-14241ccc5e3b,seriously.team,available,60,12,9,,,
+b3668263-c92c-4b61-a704-14241ccc5e3b,seriously.team,available,60,11,9,,,
 cfd1b624-fabc-423c-93aa-30d5e7a33c74,serveup.team,available,74,4,8,,,
 6e292322-b223-49de-abc4-712898a92f7d,sestet.team,available,53,1,6,,,
 49852c31-c542-4b60-8829-7d730cd95190,setabout.team,available,,1,9,,,
@@ -5665,7 +5665,7 @@ f13b0a90-99eb-467a-bc35-8988cf9d68ad,shootingstar.team,available,79,8,13,,,
 c628b5b5-e3f6-4afe-841f-3685bd7520d7,short.team,resell,76,27,5,Dynadot Inc,25/06/2025 17:00,25/06/2026 17:00
 6acc3176-ddcf-48bc-b467-e54eb43679ee,shortfall.team,available,66,2,9,,,
 f799a403-f146-45fb-b637-d6edbda69b3b,shortly.team,available,67,8,7,,,
-4fef3eba-c801-4837-ab00-4bdce1de6c13,shorts.team,available,74,20,6,,,
+4fef3eba-c801-4837-ab00-4bdce1de6c13,shorts.team,available,74,19,6,,,
 6688a3ca-2883-4ec5-84c0-1a8178fbffed,shot.team,resell,116,17,4,"Sav.com, LLC - 10",18/01/2025 15:16,18/01/2026 15:16
 3961f63f-0717-4f15-bdc2-6af9234334ce,should.team,available,98,9,6,,,
 59d92294-e3ff-489f-99dc-32151bcc6b43,shoulderblade.team,available,66,1,14,,,
@@ -5682,7 +5682,7 @@ d7dea69e-7f94-4034-b1f6-5932376fc62b,shrub.team,available,62,7,5,,,
 01e2ace5-1dba-4247-950f-ca2df98aff65,shush.team,available,60,9,5,,,
 6550aeff-4cf3-45aa-bdd4-78ae8b5116eb,shy.team,available,64,15,3,,,
 7f66e833-9327-4fe0-9fb4-17b2c51bef68,Siamesecat.team,available,70,1,11,,,
-998f2e6f-6117-4c60-82f7-fdf163dde669,siberian.team,available,74,8,8,,,
+998f2e6f-6117-4c60-82f7-fdf163dde669,siberian.team,available,74,7,8,,,
 75ac812b-987b-4c02-a01c-26f5427e150e,sick.team,available,62,20,4,,,
 d5e56146-2c4d-44c9-a2ba-dee473971741,sickabed.team,available,42,0,9,,,
 311783c5-39e8-4174-a7f4-5fda847460f3,sickandtired.team,available,58,3,14,,,
@@ -5691,7 +5691,7 @@ fc0aed9e-6293-4f0e-9a5a-fd74a81a8136,sidelong.team,available,52,2,8,,,
 c7ad62dd-5f78-4c59-ac40-479e2ef8cabd,sideways.team,available,70,8,8,,,
 48549cb6-f257-4d0b-a4d3-f754a54dd641,SierraLeone.team,available,,3,12,,,
 de7ca0d4-004e-4d17-86d3-68e6958c7637,sighted.team,available,66,3,7,,,
-05c0a3a3-e77b-413b-9f17-2ff8721c6bfd,signal.team,resell,112,32,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/07/2019 22:56,15/07/2026 22:56
+05c0a3a3-e77b-413b-9f17-2ff8721c6bfd,signal.team,resell,112,31,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/07/2019 22:56,15/07/2026 22:56
 3ba4f06a-de8b-4cb7-8596-af5c71cea20a,significant.team,available,96,9,11,,,
 00e748fe-b3ed-425e-a1ea-87f86d514f09,significantly.team,available,66,1,13,,,
 a0311380-31db-4d3b-94f4-14132105cdab,signin.team,available,74,15,7,,,
@@ -5730,7 +5730,6 @@ ad437ab9-3fb4-4e3b-8463-958bf1133878,sixtynine.team,available,78,8,10,,,
 f1f29dc3-dcb6-488f-ad57-c0b3da8a73b7,sixtyone.team,available,58,5,9,,,
 f3e9a8f1-aaa8-44af-893a-fa9efcc1c05e,sixtysix.team,available,52,5,9,,,
 912396cc-a356-45b7-9503-aaedc06ee3b7,sixtytwo.team,available,52,3,9,,,
-49747619-3c30-4937-9d01-f1a47f454851,size.team,available,96,17,4,,,
 9c4c9258-3460-4f3b-bfde-bf11e2935a20,skewwhiff.team,available,44,1,10,,,
 7350a8f2-a214-4191-b37e-26e2e0e0ea56,skilful.team,available,74,2,7,,,
 12154031-1406-420b-9739-62f6ab72bdb0,skill.team,resell,120,24,5,"DNSPod, Inc.",08/06/2019 12:13,08/06/2026 12:13
@@ -5742,12 +5741,12 @@ f0d0816b-d25c-46cd-94f2-d259fec248b9,slacking.team,available,58,2,8,,,
 53a6095f-9683-45b0-b2cf-b757c736579c,slanting.team,available,62,2,8,,,
 a51dc092-9aed-462e-97c0-eb2f0189361f,slapup.team,available,58,1,7,,,
 e3f31e44-51a7-4ec4-8f28-bbf535a5ffa6,slave.team,available,66,19,5,,,
-75421a5e-520e-43cf-8699-56629106be5a,sleeping.team,available,86,9,8,,,
+75421a5e-520e-43cf-8699-56629106be5a,sleeping.team,available,86,8,8,,,
 8adca0f1-2bbd-4ca8-8d60-c4ed79673ae0,sliced.team,available,74,7,6,,,
 3ba061b0-613b-45bd-87dd-3c12c1c77c4a,slick.team,resell,66,15,5,Porkbun LLC,30/10/2024 03:44,30/10/2026 03:44
 21d5676b-fdb1-41fc-bf9c-42b58f132a75,slide.team,resell,90,27,5,"Chengdu West Dimension Digital Technology Co., Ltd.",04/02/2018 01:40,04/02/2026 01:40
 ba1dc82c-3773-4fc8-8db2-f8c33a9d2931,sliding.team,available,78,4,7,,,
-1c6fa8ec-cccb-4a2c-b2b7-4ff58fc3cb3b,slight.team,available,64,4,6,,,
+1c6fa8ec-cccb-4a2c-b2b7-4ff58fc3cb3b,slight.team,available,64,3,6,,,
 bc2aa24f-f53d-411e-aad9-996f7ad2f29a,slighting.team,available,56,1,9,,,
 0bf8586f-8443-4166-8bcf-23771cb79ead,slim.team,resell,76,21,4,"DNSPod, Inc.",10/08/2023 15:15,10/08/2026 15:15
 2a27d8e6-c0a2-4b48-be6b-4955788a5897,slip.team,available,86,13,4,,,
@@ -5756,19 +5755,19 @@ bc2aa24f-f53d-411e-aad9-996f7ad2f29a,slighting.team,available,56,1,9,,,
 89014b97-e477-4fa9-ae10-d51b5fd0dc66,sloping.team,available,66,1,7,,,
 5db69f92-99ad-4234-8ef3-d5b8e98617de,sloppy.team,available,62,6,6,,,
 798e56ef-774e-4089-ba69-2d32051771c2,slot.team,resell,90,33,4,"Sav.com, LLC - 34",08/11/2024 15:15,08/11/2026 15:15
-a73ceb29-1749-4e33-9463-17dc53ea47d5,sloth.team,available,80,20,5,,,
+a73ceb29-1749-4e33-9463-17dc53ea47d5,sloth.team,available,80,19,5,,,
 3f1a7a1b-2882-4e56-b3cf-1f477633a115,slowness.team,available,64,2,8,,,
 e4a5990e-71d3-4bfe-a93e-262cb1028072,slushy.team,available,66,8,6,,,
 bb60d1d3-4423-44c7-8488-88c05da375c6,small.team,resell,76,23,5,"Chengdu West Dimension Digital Technology Co., Ltd.",21/08/2023 15:15,21/08/2026 15:15
 8b70ef61-d88c-4e87-8cac-6fcd3c9d146f,smaller.team,available,62,7,7,,,
 3d2e6f03-08e2-445d-b9b2-663aff49c531,smallwords.team,available,,2,11,,,
-4d7f73c1-fcd1-434d-97e7-15eb4d9d7847,smartly.team,available,71,14,7,,,
+4d7f73c1-fcd1-434d-97e7-15eb4d9d7847,smartly.team,available,71,13,7,,,
 ce4ee1a2-2f27-4943-a3ed-9e3a2fc5106b,smartphone.team,available,74,20,10,,,
 01fce7bb-2eac-464e-a1d0-e37f9dd76e92,smell.team,available,90,9,5,,,
 a026bfc9-42c4-4eb3-9523-5d53354e8b97,smelling.team,available,64,1,8,,,
 0547cc72-13c1-4969-822b-a2c268884ab5,smileyface.team,available,78,5,11,,,
 85b0f389-2905-4cf3-99c5-0126190fb3cc,smiling.team,available,98,11,7,,,
-3e1de43a-3c70-4436-9421-44141efeec0a,smoking.team,available,76,9,7,,,
+3e1de43a-3c70-4436-9421-44141efeec0a,smoking.team,available,76,8,7,,,
 21047c4d-ba56-4956-b86d-8b754a23023b,smuggled.team,available,56,1,8,,,
 40240c72-36d1-4630-8e20-2b694281250e,snapping.team,available,66,3,8,,,
 f7c9a5f6-b295-40ba-804d-3dcc7c25cd92,sneak.team,available,104,11,5,,,
@@ -5778,7 +5777,7 @@ ea6b8463-89e9-4cfb-97fd-ce6fb9cfd0a6,sneeze.team,available,86,5,6,,,
 9d11c4d2-512a-4d54-b6cb-e5b37a331a46,sniff.team,available,108,12,5,,,
 040d3221-58dd-497b-b50c-f678d7533369,snippet.team,available,92,14,7,,,
 b87e7447-bcea-4908-8544-5eb3680764cb,snore.team,available,82,6,5,,,
-0b9cafaf-6117-4fcc-bb6e-a28ea0e182d1,snow.team,resell,66,35,4,"DNSPod, Inc.",13/10/2024 15:15,13/10/2026 15:15
+0b9cafaf-6117-4fcc-bb6e-a28ea0e182d1,snow.team,resell,66,34,4,"DNSPod, Inc.",13/10/2024 15:15,13/10/2026 15:15
 10fedcc2-f84e-48d1-8f56-5c01c3f6100a,soaker.team,available,56,3,6,,,
 3e032f33-c4f4-477d-8820-e3ae911205f2,soap.team,resell,88,21,4,"GoDaddy.com, LLC",16/01/2025 20:15,16/01/2026 20:15
 6947951c-daa4-4ea7-b785-49fe5c4d3f02,soasto.team,available,,1,8,,,
@@ -5811,7 +5810,7 @@ b720e65d-7c55-4a8f-9cca-7ae14bafaea5,somebudy.team,available,58,1,8,,,
 053dbe7c-5f4d-4475-9d0c-b9a49175b285,someother.team,available,48,3,10,,,
 fab9dc52-81f8-49a3-95f9-2a348b51b983,somesing.team,available,58,2,8,,,
 3e228daa-7b2f-46b0-b34a-ab37e2eab821,somewhat.team,available,80,6,8,,,
-e092bdcc-cca9-4c2e-8e2a-28efeca9c377,song.team,resell,72,30,4,"DNSPod, Inc.",25/05/2018 21:31,25/05/2026 21:31
+e092bdcc-cca9-4c2e-8e2a-28efeca9c377,song.team,resell,72,29,4,"DNSPod, Inc.",25/05/2018 21:31,25/05/2026 21:31
 fd7332b7-75c2-41b7-b793-a6e50e207dbd,songlike.team,available,50,1,8,,,
 f88d962a-615b-4cce-b2f0-816795f99fb8,Sony.team,available,96,13,4,,,
 7780ebac-c5e0-41c7-8e06-41b895025869,soothing.team,available,68,5,8,,,
@@ -5830,7 +5829,7 @@ d2f6bd48-bfb0-49b2-9ab2-4e17c5812aa1,soulmusic.team,available,,6,10,,,
 e7ef71e5-5d4c-4403-9736-a9d764d07dc7,soundthealarm.team,available,70,2,15,,,
 dbd22153-83a0-479c-87ea-9d0601774621,soupy.team,available,48,5,5,,,
 db58088f-d3f8-4306-84fb-75c486bd429b,souse.team,available,84,3,5,,,
-59ec2bf1-a7c5-4e51-ab91-a8d5eee905b2,south.team,resell,62,18,5,"DNSPod, Inc.",19/04/2020 10:48,19/04/2026 10:48
+59ec2bf1-a7c5-4e51-ab91-a8d5eee905b2,south.team,resell,62,17,5,"DNSPod, Inc.",19/04/2020 10:48,19/04/2026 10:48
 55705aa7-d90e-4040-b176-51ae0d37b691,SouthAfrica.team,available,,4,12,,,
 6dad37ef-2e45-41e1-a45a-debef55a731c,SouthKorea.team,available,,6,11,,,
 81786557-c94e-48d3-b32b-fa4f127f0308,spaceshuttle.team,available,70,4,13,,,
@@ -5874,7 +5873,7 @@ d49c501b-1c58-4771-910e-a1e25f46bfa3,sportsbar.team,available,80,6,10,,,
 41547140-2c7d-4680-864d-ec96dcae7795,sportsday.team,available,76,4,10,,,
 9374f109-a67a-4758-bd96-28cce4e1e89a,sportsdrink.team,available,83,2,12,,,
 45dcdf88-32df-4e40-9b1e-1d21fa2614e9,sportsfan.team,available,72,6,10,,,
-0d72fede-c992-4635-a330-b7461c5ee81f,spot.team,resell,72,36,4,"Xiamen ChinaSource Internet Service Co., Ltd",15/08/2018 07:04,15/08/2026 07:04
+0d72fede-c992-4635-a330-b7461c5ee81f,spot.team,resell,72,35,4,"Xiamen ChinaSource Internet Service Co., Ltd",15/08/2018 07:04,15/08/2026 07:04
 b782ced0-3a85-48ed-9bac-1da4a3a1ce77,Spotify.team,available,78,17,7,,,
 8be7fff5-1b8c-479d-911a-a47e04f7d4f1,spread.team,resell,92,18,6,"Xiamen ChinaSource Internet Service Co., Ltd",26/09/2019 11:11,26/09/2026 11:11
 ee4863cc-57ae-4a0a-9043-7353cfad940f,spreadsheet.team,available,96,12,11,,,
@@ -5906,7 +5905,7 @@ a9e4b40f-fe91-4361-a3a0-c384f35b08f8,starchlike.team,available,46,1,10,,,
 6b17fa2a-919b-488b-a04e-1aaa7bffc56d,starred.team,available,48,5,7,,,
 accdf818-68e5-4cf6-a155-64e595c3d9fe,Stars.team,resell,76,28,5,"Chengdu West Dimension Digital Technology Co., Ltd.",14/12/2017 10:33,14/12/2027 10:33
 d1379877-9c16-4f87-9b3a-b9b07974da3b,start.team,resell,92,36,5,"DNSPod, Inc.",02/05/2023 15:15,02/05/2026 15:15
-5f85663f-6916-468c-81de-5e42957ce185,state.team,available,90,18,5,,,
+5f85663f-6916-468c-81de-5e42957ce185,state.team,available,90,17,5,,,
 312adfee-8a3c-4e75-abc8-4449d17a2713,stately.team,available,72,6,7,,,
 76281b53-de14-415a-9fbe-123e6786e319,stateoftheart.team,available,96,7,16,,,
 db167ab2-6dcc-4a5b-86a6-353f7ff8139f,stating.team,available,72,3,7,,,
@@ -5917,13 +5916,13 @@ e09e8edf-00d2-43cd-852c-5c66405037e9,statistics.team,available,60,32,10,,,
 736d3e77-f7c5-4fc1-b5d8-5c4e7d0d611e,stay.team,available,62,26,4,,,
 2dbdd199-bbb1-4ce6-9518-2010a0705691,StCharles.team,available,66,5,11,,,
 d08891bc-fb92-44bf-8d8e-ed51f0b1632b,StClair.team,available,64,7,9,,,
-bdf5b31f-2324-4493-af80-1ccef1a060bc,steal.team,available,80,12,5,,,
+bdf5b31f-2324-4493-af80-1ccef1a060bc,steal.team,available,80,11,5,,,
 6a8493d5-a700-41ea-967d-d881468be00c,stealaway.team,available,,1,10,,,
 3721e071-44c1-409e-aa55-eefaa9cb554c,steamed.team,available,49,3,7,,,
 f0777552-1ec4-4868-8f3a-a04a48562571,steamengine.team,available,74,5,12,,,
 b5609c48-6c1c-4574-9e9a-b89d643da06d,steeltoeboot.team,available,70,1,14,,,
 fe01782c-dbf8-44a7-9a25-a77d1ebb1990,stemless.team,available,46,1,8,,,
-09a21184-43cf-4620-a796-331898275b90,step.team,resell,70,22,4,"DNSPod, Inc.",23/10/2018 23:21,23/10/2026 23:21
+09a21184-43cf-4620-a796-331898275b90,step.team,resell,70,21,4,"DNSPod, Inc.",23/10/2018 23:21,23/10/2026 23:21
 fe65dc2a-3ad2-43a8-bfd0-eea47cb0a3c8,stepmother.team,available,62,2,10,,,
 70e2bea5-f51f-4230-bdfa-0ec1d487ba0e,stepparent.team,available,64,1,10,,,
 0baf15d6-b946-4bf1-b7dc-9ca4e12cf6f6,steppingstone.team,available,74,10,14,,,
@@ -5947,7 +5946,7 @@ fbc5ed07-36c1-410b-b35a-46f0cae97872,stop.team,resell,94,20,4,"DNSPod, Inc.",06/
 a7aeb4ff-0847-4105-ac3f-04a7750539de,stopped.team,available,66,2,7,,,
 f7711ad7-ecea-4bfc-affc-8c5ea8f1ba02,stopping.team,available,66,2,8,,,
 68a63162-7ae7-4c27-a4a7-3c53a1399153,stops.team,available,74,6,5,,,
-14bbdd79-0367-4862-9ddd-00a40d2ce048,stormy.team,available,44,11,6,,,
+14bbdd79-0367-4862-9ddd-00a40d2ce048,stormy.team,available,44,10,6,,,
 a4976b44-1881-4ecb-8367-07b004103e71,story.team,resell,70,34,5,"DNSPod, Inc.",10/05/2021 13:19,10/05/2026 13:19
 127a1bc6-6dcf-4ccb-9017-70253fda0b99,stove.team,available,88,11,5,,,
 e82ca1c9-add5-4daa-9ded-04229a2ec21c,StPauls.team,available,68,5,8,,,
@@ -5956,12 +5955,11 @@ b0740fca-15df-453b-9c74-299d68c8f0f6,StPetersburg.team,available,68,6,14,,,
 485c3a06-3256-48af-9d45-5beeed7f59a0,strain.team,available,52,9,6,,,
 a041be43-1cbc-4916-82d5-bdea6c149436,strained.team,available,61,2,8,,,
 d654b255-630f-4d50-bb61-a34cb17843de,stranded.team,available,58,7,8,,,
-190057ff-89fb-46fb-907c-22a2baa75a34,strange.team,resell,62,26,7,"DNSPod, Inc.",24/11/2020 21:03,24/11/2026 21:03
+190057ff-89fb-46fb-907c-22a2baa75a34,strange.team,resell,62,25,7,"DNSPod, Inc.",24/11/2020 21:03,24/11/2026 21:03
 0a8bf19f-2112-4858-bcf4-cdd99987bd32,stranger.team,available,96,14,8,,,
 5a1411ce-4639-4394-9961-7975e227fb6d,strapping.team,available,62,2,9,,,
 402244ad-8cbe-44d9-be48-38307e76b6b0,strategy.team,resell,74,42,8,"Global Domains International, Inc. DBA DomainCostClub.com",21/06/2025 15:15,21/06/2026 15:15
 478e3916-c3b4-4a88-ab4a-dc73de0131a5,stratified.team,available,45,4,10,,,
-549fd85f-f99c-4168-a813-28f4e8c805cf,streaming.team,resell,88,24,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/01/2020 23:18,13/01/2026 23:18
 3e000dcb-783f-47a2-b2f6-5f0035709454,streetnumber.team,available,66,1,13,,,
 06519c7f-0fb1-4928-8e64-e80bf4b3164a,strengthen.team,available,78,4,10,,,
 627a00a1-3569-47ce-a6e4-2745bbe90a69,stress.team,available,88,15,6,,,
@@ -5971,10 +5969,11 @@ dee690e0-d831-4938-8d6e-6e0616e02dc8,stricken.team,available,54,3,8,,,
 9406c4e6-298c-41a1-9190-6076179b2f47,stripling.team,available,46,3,9,,,
 5266d763-6ecd-42a7-8c4f-deb3f8cd2d0a,strongly.team,available,64,3,8,,,
 2784d674-8c48-46de-a608-25312f592038,strongpersonality.team,available,76,1,18,,,
+a52695da-dba3-4485-930c-d07c7aa34dd4,structure.team,resell,94,17,9,"Sav.com, LLC - 22",07/12/2025 15:15,07/12/2026 15:15
 832ddbd7-9efa-4077-9139-174b49f4598b,StStephen.team,available,66,2,10,,,
 fbdc28ea-1a0f-48de-bb90-781c07b9cca5,stubborn.team,available,76,6,8,,,
-cb589914-b8d5-41d9-a97a-fe93dd90ed18,stuck.team,available,52,11,5,,,
-d3bc9c45-5ebb-4ca1-beb7-ab5e6e7f0d37,student.team,resell,78,32,7,"DNSPod, Inc.",24/10/2018 05:10,24/10/2026 05:10
+cb589914-b8d5-41d9-a97a-fe93dd90ed18,stuck.team,available,52,10,5,,,
+d3bc9c45-5ebb-4ca1-beb7-ab5e6e7f0d37,student.team,resell,78,31,7,"DNSPod, Inc.",24/10/2018 05:10,24/10/2026 05:10
 8b3d57d5-146b-46fa-bc2c-bf97c53be84f,studentloan.team,available,66,9,12,,,
 9bcd8c3a-3db6-4f87-bd56-6ba23e8506f8,studyabroad.team,available,,13,12,,,
 8341afcd-4390-4e36-aca4-331c20384a18,stuff.team,resell,100,21,5,"DNSPod, Inc.",22/09/2021 17:00,22/09/2026 17:00
@@ -5985,7 +5984,7 @@ d3bc9c45-5ebb-4ca1-beb7-ab5e6e7f0d37,student.team,resell,78,32,7,"DNSPod, Inc.",
 d883c934-ee9b-4dad-b454-edf3c1ba17f4,stupid.team,available,92,23,6,,,
 c9844a9a-76cd-4be8-b3a7-f1c2cc06c03e,StVincent.team,available,66,6,11,,,
 1917ee96-0ec0-471b-80e2-2bdd0ea38492,stygian.team,available,68,5,7,,,
-46c3d5cf-be6f-4c61-9213-b0a2cf6874a0,style.team,available,98,25,5,,,
+46c3d5cf-be6f-4c61-9213-b0a2cf6874a0,style.team,available,98,24,5,,,
 948817c6-75da-4755-abb3-159e3e92b770,styptic.team,available,72,2,7,,,
 64ac8fab-8b0d-47e3-bd9f-68ab18a0c17f,subalpine.team,available,50,2,9,,,
 ca126768-8133-4bb7-979d-d30da279c3fe,subjective.team,available,64,8,10,,,
@@ -5995,12 +5994,12 @@ ded392da-4f7f-491f-9025-a488898d7b4e,subjects.team,available,,3,8,,,
 f4ce992f-46ec-4039-8519-d9b67a6e0f2d,substantial.team,available,84,4,11,,,
 46703cbf-bd1b-452b-9064-07890d54cedd,substitute.team,available,90,4,10,,,
 ab77f6fd-7ba4-49ab-a4ab-eb3ed2032c64,substitution.team,available,,2,12,,,
-330608ff-5c33-4b2a-a64f-48adce90b7fa,success.team,resell,80,31,7,"Wild West Domains, LLC",29/07/2015 16:00,29/07/2026 16:00
-3e38268b-4c54-4c97-9750-d604d18372ce,successful.team,available,76,12,10,,,
+330608ff-5c33-4b2a-a64f-48adce90b7fa,success.team,resell,80,30,7,"Wild West Domains, LLC",29/07/2015 16:00,29/07/2026 16:00
+3e38268b-4c54-4c97-9750-d604d18372ce,successful.team,available,76,11,10,,,
 552ea10b-421d-456e-88d8-dbadd77be867,successfully.team,available,66,3,12,,,
 227ac7e0-e5fc-49db-8777-677f330838f2,successor.team,available,68,5,9,,,
 dc065187-4271-425b-814a-2410049a1339,succinct.team,available,69,7,8,,,
-132d9831-b317-4b2e-9a56-1d3efb65e61c,such.team,available,76,17,4,,,
+132d9831-b317-4b2e-9a56-1d3efb65e61c,such.team,available,76,16,4,,,
 9f6312c7-8fc2-42e9-a2e5-d64b42345c90,suck.team,available,84,11,4,,,
 d06c9994-cb29-486c-856a-7389c385d2a4,suckit.team,available,62,6,7,,,
 d4ef5304-9173-49be-b9b6-0153d71b6ee8,sudden.team,available,90,8,6,,,
@@ -6039,13 +6038,13 @@ a690364b-404a-43cc-9810-0c22c57abcbb,sunglass.team,available,80,8,8,,,
 80b06358-262d-48f2-8f7b-7f4350d050e5,supper.team,available,98,10,6,,,
 5566b4aa-3881-4fed-b6d1-3b37b4e37001,supplier.team,resell,72,15,8,"Xiamen ChinaSource Internet Service Co., Ltd",25/08/2019 13:37,25/08/2026 13:37
 5e42a4f0-4548-467f-b855-b9fdae91aede,supplies.team,premium,,12,8,,,
-66fd42d9-a40f-4d1f-80ff-f2792759ddd8,supporting.team,resell,88,6,10,"Sav.com, LLC",27/01/2025 15:13,27/01/2026 15:13
+66fd42d9-a40f-4d1f-80ff-f2792759ddd8,supporting.team,resell,88,5,10,"Sav.com, LLC",27/01/2025 15:13,27/01/2026 15:13
 e4d969cb-9575-4703-8124-43050151942d,supportive.team,available,70,6,10,,,
 3bd02b03-c8f7-4414-a984-15ea3a48f9d2,suppose.team,available,82,4,7,,,
 005a1f39-9dc4-4440-acdc-ad4960aa5ab5,supposed.team,available,72,2,8,,,
 f2dc42fe-0396-4397-b34f-8373a92e3284,supposedly.team,available,56,1,10,,,
 3a0d794c-8f2f-4727-9a42-bd091b5482d0,supra.team,resell,74,25,5,"Sav.com, LLC",24/07/2025 17:08,24/07/2026 17:08
-9540c79c-2006-4ec1-b547-1198860718b5,supreme.team,resell,72,27,7,"Chengdu West Dimension Digital Technology Co., Ltd.",18/03/2023 15:15,18/03/2027 15:15
+9540c79c-2006-4ec1-b547-1198860718b5,supreme.team,resell,72,26,7,"Chengdu West Dimension Digital Technology Co., Ltd.",18/03/2023 15:15,18/03/2027 15:15
 7513fd2e-7e04-4f47-be13-3a86ed876822,sure.team,resell,110,20,4,"Xiamen ChinaSource Internet Service Co., Ltd",17/10/2020 09:07,17/10/2026 09:07
 de61f67b-4ef8-4631-864f-0ece448283e9,surely.team,available,70,7,6,,,
 9f35be0a-4bde-492b-a570-eae013e6734d,surething.team,available,74,6,10,,,
@@ -6062,18 +6061,18 @@ d4d97af9-1fc6-4326-b4af-8dec1be26b1e,surprising.team,available,88,5,10,,,
 10586f8b-9455-405e-a546-02e884c7d6b6,susceptible.team,available,74,1,11,,,
 67c8057a-3444-4804-adc2-6c25d41460a4,sushi.team,resell,84,24,5,"Chengdu West Dimension Digital Technology Co., Ltd.",11/12/2023 15:15,11/12/2026 15:15
 7b0317ea-8348-43ed-b5e6-bd17cb563518,sushibar.team,available,76,4,9,,,
-9878536d-a720-4b1a-9510-659a10c7dde0,suspect.team,available,98,5,7,,,
+9878536d-a720-4b1a-9510-659a10c7dde0,suspect.team,available,98,6,7,,,
 d874c7f3-bd65-47f4-83b1-8d141aa812dd,suspend.team,available,70,4,7,,,
 5b8c54dc-baa3-467e-87f8-03ba03999bcb,suspense.team,available,88,5,8,,,
 381ee806-fd2b-478b-a6fb-7e048271cab2,suspension.team,available,66,8,10,,,
 567fe157-3999-45e9-8ee3-efa1aa0f1a8d,suv.team,available,82,14,3,,,
-230c74bd-1f7a-49b8-9fad-9c63d9e759e8,swap.team,resell,98,34,4,"Xiamen ChinaSource Internet Service Co., Ltd",13/06/2025 15:15,13/06/2026 15:15
+230c74bd-1f7a-49b8-9fad-9c63d9e759e8,swap.team,resell,98,33,4,"Xiamen ChinaSource Internet Service Co., Ltd",13/06/2025 15:15,13/06/2026 15:15
 104bbaf0-2490-4872-8337-62c3ae719878,swastika.team,available,54,4,8,,,
 700aa1ee-cde4-4e21-b1a6-b40c55f1154b,sweatshirt.team,available,74,4,10,,,
 fec364b0-07a3-49df-8df8-d683a8d9ed32,sweetandsour.team,available,72,3,14,,,
 731ed28f-227e-4412-8d24-9336825a8566,sweetFA.team,available,38,2,8,,,
 63931b8b-c34e-4a03-992b-0ae238e95a84,sweptback.team,available,44,1,9,,,
-45a864a0-719e-427d-826e-d7a53ed8ecca,swerve.team,available,92,11,6,,,
+45a864a0-719e-427d-826e-d7a53ed8ecca,swerve.team,available,92,10,6,,,
 a101b875-a486-4eff-a685-2f40577e2933,swift.team,available,68,20,5,,,
 7f8e96be-8e22-474d-b479-2254975abf7a,swiftly.team,available,68,9,7,,,
 5981fafb-4743-4287-81e4-dcf272c1a6e3,switch.team,available,70,22,6,,,
@@ -6193,11 +6192,11 @@ b5406f3b-d1ff-4192-b846-c8a2c3053af7,theseones.team,available,,1,10,,,
 ee60fdc4-2eaa-4c2d-b60e-232834d1509e,theyre.team,available,62,2,6,,,
 bdd582d8-ca99-4f60-b8a5-d1b07286e510,thick.team,available,120,9,5,,,
 d4980606-30d5-4c23-9dc0-d5a3e8a90198,thief.team,available,64,10,5,,,
-c7568e07-8ece-48b8-8926-7a0518655ffe,thing.team,available,84,23,5,,,
+c7568e07-8ece-48b8-8926-7a0518655ffe,thing.team,available,84,22,5,,,
 eaaf9100-f5a9-4478-a523-133c77b421d7,things.team,resell,80,25,6,"DNSPod, Inc.",29/11/2020 12:06,29/11/2026 12:06
 c994197c-f04a-48fd-886c-2da8b7c476b7,think.team,available,108,23,5,,,
 26a692c3-e519-4a44-a11d-8ed4fe0c445e,thinkabout.team,available,,8,11,,,
-bce95abe-0f1d-4a49-b5ef-4bf36cffd239,thinking.team,resell,80,24,8,"DNSPod, Inc.",30/10/2024 15:15,30/10/2026 15:15
+bce95abe-0f1d-4a49-b5ef-4bf36cffd239,thinking.team,resell,80,23,8,"DNSPod, Inc.",30/10/2024 15:15,30/10/2026 15:15
 ba60b2a5-b22f-448a-a1e1-bdf0a23a19ce,thinkof.team,available,68,7,8,,,
 e6ac5b4c-7106-4db4-8263-5d81cb4b9154,thinkup.team,available,76,7,8,,,
 f6588695-d3ba-410f-bc61-443aad2466d2,thirdway.team,available,70,7,9,,,
@@ -6280,15 +6279,15 @@ cdd330eb-abe5-4d48-b7c4-32232e5a8712,toilet.team,available,86,12,6,,,
 0dcb4813-fc14-4699-b15a-e9827861a385,toiletpaper.team,available,88,5,12,,,
 6b4c93e2-3fb1-404c-bcf7-0530a45c1b43,toiletroll.team,available,68,2,11,,,
 a5eba6c3-32c0-4bf7-badf-2551cea51fcb,toilsome.team,available,50,1,8,,,
-32a0bc3a-f65d-4d04-b4f7-8dfa24ddebed,token.team,resell,114,36,5,"Chengdu West Dimension Digital Technology Co., Ltd.",06/12/2018 18:44,06/12/2026 18:44
+32a0bc3a-f65d-4d04-b4f7-8dfa24ddebed,token.team,resell,114,35,5,"Chengdu West Dimension Digital Technology Co., Ltd.",06/12/2018 18:44,06/12/2026 18:44
 d0ffd3e2-45ee-44ef-891a-3732a88086bc,tolerable.team,available,68,2,9,,,
 98c9c9e5-bb9c-4270-bd61-cb8a4015d9d1,toll.team,available,58,7,4,,,
 a10cdac6-b838-4d06-b727-a5ad1b54015e,tomhanks.team,available,76,3,9,,,
-a6bcb0bd-c229-41dc-85c3-f1289268f86e,tomorrow.team,resell,88,30,8,"DNSPod, Inc.",08/05/2021 13:11,08/05/2026 13:11
+a6bcb0bd-c229-41dc-85c3-f1289268f86e,tomorrow.team,resell,88,29,8,"DNSPod, Inc.",08/05/2021 13:11,08/05/2026 13:11
 b51596bb-fc23-475b-88c5-7a947d23cf22,tone.team,available,62,21,4,,,
 9a81ac14-87c6-4f7c-8679-6fede2cbe5f7,tongue.team,available,66,6,6,,,
 f1dc9e7a-7668-46aa-83aa-2c356879126a,tonic.team,resell,114,20,5,"DNSPod, Inc.",22/06/2021 05:07,22/06/2026 05:07
-372712ef-222d-4b0b-9b64-c761376475f9,tons.team,available,74,7,4,,,
+372712ef-222d-4b0b-9b64-c761376475f9,tons.team,available,74,6,4,,,
 82ebfa62-ad5b-4c07-ac6f-2d8a2d724dfe,too.team,available,70,15,3,,,
 e1f28955-5835-47c7-9a77-c83d2285dcda,tooneself.team,available,62,1,10,,,
 d4fa5f54-22b2-4707-86c8-c52a3d303a03,toorder.team,available,56,1,8,,,
@@ -6322,7 +6321,7 @@ d72b795a-11ed-4c7f-bdb8-1e3ac81998a0,tours.team,available,70,15,5,,,
 eede66a7-3d05-4c8f-85e9-d46b1e8b2679,tower.team,resell,82,24,5,"Xiamen ChinaSource Internet Service Co., Ltd",30/09/2019 19:06,30/09/2026 19:06
 97300461-e22f-446b-bbc8-9b0e0c676cb2,towheaded.team,available,54,1,9,,,
 b10a9c72-a541-4ce3-b42d-5dcab2093668,town.team,resell,56,23,4,IONOS SE,29/07/2015 16:00,29/07/2026 16:00
-3dbd5071-a7e0-4f37-a658-c1783c628052,toxic.team,resell,62,16,5,Dynadot Inc,03/11/2025 10:55,03/11/2026 10:55
+3dbd5071-a7e0-4f37-a658-c1783c628052,toxic.team,resell,62,15,5,Dynadot Inc,03/11/2025 10:55,03/11/2026 10:55
 089ff2d1-eb05-4b11-9f39-89179f1ad324,toy.team,available,76,26,3,,,
 61aa936d-a9e4-443b-b15a-de90f6c8d7a0,toying.team,available,68,2,6,,,
 2dc07de9-30e5-4be1-afab-1efc01a18227,trace.team,available,58,34,5,,,
@@ -6333,7 +6332,7 @@ e591dd5a-cfba-4be7-a4fa-444f02650d44,tradeunion.team,available,,4,11,,,
 1b89d41b-d33e-456e-8f92-890b2758a194,trading.team,resell,92,33,7,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2017 08:10,14/10/2026 08:10
 f8e20873-ead6-455b-be06-88433fd17e01,trafficsign.team,available,66,4,12,,,
 4e7a382e-7b8a-471c-83c9-949ac333c572,tragic.team,available,80,6,6,,,
-23741803-d239-467c-a82a-2647a7c6e8e3,train.team,resell,72,24,5,"DNSPod, Inc.",02/04/2021 00:00,02/04/2026 00:00
+23741803-d239-467c-a82a-2647a7c6e8e3,train.team,resell,72,23,5,"DNSPod, Inc.",02/04/2021 00:00,02/04/2026 00:00
 a953dd9f-3f8d-48dc-8d0e-9c1357cb4cf8,trained.team,available,74,5,7,,,
 9e046855-529a-4c46-857d-dbf88d220891,transfer.team,resell,88,28,8,"Chengdu West Dimension Digital Technology Co., Ltd.",21/02/2024 15:15,21/02/2026 15:15
 26ccd544-cd7f-479b-a64c-5999374daf9c,transferableskill.team,available,76,1,18,,,
@@ -6397,7 +6396,7 @@ a932b4a4-b6f7-432a-9692-9bc6cdc4d964,tvset.team,available,76,2,6,,,
 cd0c4c57-27dd-44aa-a864-935b4223d8ae,twentysix.team,available,78,7,10,,,
 387bc171-89cf-4f3f-8c64-7308096f25eb,twentytwo.team,available,84,9,10,,,
 28f3a934-5d24-4ac8-84e5-34f2cbe36885,twice.team,available,58,13,5,,,
-54c382f2-4465-46df-b6ce-b7ec392ab46e,twin.team,resell,80,25,4,"Chengdu West Dimension Digital Technology Co., Ltd.",02/11/2018 11:07,02/11/2026 11:07
+54c382f2-4465-46df-b6ce-b7ec392ab46e,twin.team,resell,80,23,4,"Chengdu West Dimension Digital Technology Co., Ltd.",02/11/2018 11:07,02/11/2026 11:07
 de4c270b-8b92-46c2-a668-dc2d0bd755e5,twine.team,available,58,15,5,,,
 04bd0dc2-b19a-4239-a75f-28158679370a,twinkly.team,available,54,5,7,,,
 d3d4aef1-3254-4c4c-bb96-19a1bd3ceb20,twitter.team,available,108,24,7,,,
@@ -6462,10 +6461,10 @@ bb7f5a33-27d4-4225-ba1a-2fbb0da8cdb3,UnitedStates.team,available,,5,13,,,
 6dd41a70-67c9-4a52-a483-591cd961b909,unity.team,resell,70,35,5,"Chengdu West Dimension Digital Technology Co., Ltd.",15/10/2023 15:15,15/10/2026 15:15
 52fcba79-5301-4524-ba40-4ef3b0e9aa8e,universal.team,available,96,19,9,,,
 2c88adf6-7bd8-4e5c-97cf-ae7d5dd33cf3,universally.team,available,62,2,11,,,
-86710e0e-d7ee-47f5-9871-d6fbc6eaf0f2,universe.team,resell,74,30,8,"Chengdu West Dimension Digital Technology Co., Ltd.",25/11/2022 15:15,25/11/2026 15:15
+86710e0e-d7ee-47f5-9871-d6fbc6eaf0f2,universe.team,resell,74,29,8,"Chengdu West Dimension Digital Technology Co., Ltd.",25/11/2022 15:15,25/11/2026 15:15
 fbf4a91e-833e-4ef4-9553-b97adc269d69,unjustified.team,available,54,2,11,,,
 cdcc3cbe-8f97-4945-9ff0-290aad5cdc88,unkeyed.team,available,37,1,7,,,
-51ed55c8-1d1e-4000-b189-8a7b9eda53c7,unlike.team,available,108,5,6,,,
+51ed55c8-1d1e-4000-b189-8a7b9eda53c7,unlike.team,available,108,4,6,,,
 50c83833-f897-4f62-8dad-8345f1bff224,unlimited.team,resell,76,24,9,"Global Domains International, Inc. DBA DomainCostClub.com",25/11/2025 15:15,25/11/2026 15:15
 7ddbc65c-afa3-4a32-9a35-1b9a3a26c90c,unlocking.team,available,72,7,9,,,
 d57662ae-c2d3-4e85-b947-c4ba540e5793,unmannered.team,available,33,1,10,,,
@@ -6495,7 +6494,7 @@ bd7ea5c9-dc20-41db-bba4-269ee3d789f4,upcoming.team,available,68,11,8,,,
 78923060-23e4-4cbf-9017-35657d243db2,upset.team,available,90,6,5,,,
 d437f817-1edd-4393-8cb6-42f590e97d09,upsidedowncake.team,available,76,1,16,,,
 4f984a40-db98-448a-b3d8-c09536cfb4cf,upstage.team,available,98,7,7,,,
-61c0a1b0-6c8f-434d-8d4f-5391ee8e1046,upstairs.team,available,88,10,8,,,
+61c0a1b0-6c8f-434d-8d4f-5391ee8e1046,upstairs.team,available,88,9,8,,,
 fd92de91-0806-4c20-8eef-8e63599ebf08,uptodate.team,available,70,7,10,,,
 33ac09e3-cd99-42aa-aaba-d34bd6410b19,uptonow.team,available,,1,9,,,
 3745e013-4339-4935-bdea-9ec9d6ed798a,uptospeed.team,available,66,5,11,,,
@@ -6519,8 +6518,8 @@ d5eecc22-9d2a-429e-99f4-7fed79c8d47a,vacation.team,resell,70,22,8,"DNSPod, Inc."
 a4f237c4-a3a4-4a68-8c98-319182ad336f,vacuumcleaner.team,available,76,5,14,,,
 2536884d-50cd-49cc-97bb-c33ce0e1df97,vague.team,available,100,9,5,,,
 a31c56c4-dbe0-4ec5-91e5-38febbee34a5,vain.team,available,68,8,4,,,
-9bfcbcf9-b0a9-44fe-947f-84aa629b041d,valid.team,available,72,17,5,,,
-eaefe401-af40-4281-8297-5ff09071a755,valuable.team,available,88,11,8,,,
+9bfcbcf9-b0a9-44fe-947f-84aa629b041d,valid.team,available,72,16,5,,,
+eaefe401-af40-4281-8297-5ff09071a755,valuable.team,available,88,10,8,,,
 e4e31347-71e7-4b25-b515-36ac5e976d9a,value.team,resell,107,29,5,"DNSPod, Inc.",07/05/2019 19:16,07/05/2026 19:16
 a6267dd8-9f81-4efa-aa36-e9361ae31b48,valueable.team,available,74,3,9,,,
 fd7826fc-b32c-4ebc-a246-df45d81b1fdd,valued.team,available,74,9,6,,,
@@ -6549,10 +6548,10 @@ a251bb5d-56f5-4c24-9923-d786d06bbce6,vengeful.team,available,51,2,8,,,
 9094aa5f-92ac-4a0f-9332-990d16633c4a,verbal.team,available,104,6,6,,,
 1a04b8e4-87e0-4177-af4b-15d1d402683f,vermifuge.team,available,74,1,9,,,
 ea9cb48f-ecda-45c7-88d0-29edf9c05e75,verse.team,resell,98,30,5,Dynadot Inc,02/07/2021 17:35,02/07/2026 17:35
-0a0598ec-f5b0-473b-934a-09833d957f92,version.team,available,94,13,7,,,
+0a0598ec-f5b0-473b-934a-09833d957f92,version.team,available,94,12,7,,,
 2b0105cf-d35a-41dc-ba5f-bf084949f0c8,verymuch.team,available,70,2,9,,,
 3e70ec23-5a1f-4218-9a8c-377d4e8adf28,verywell.team,available,68,7,9,,,
-3e012b0c-b01b-4800-85b9-d6b64a7c8449,veteran.team,resell,74,20,7,"DNSPod, Inc.",07/10/2023 15:15,07/10/2026 15:15
+3e012b0c-b01b-4800-85b9-d6b64a7c8449,veteran.team,resell,74,19,7,"DNSPod, Inc.",07/10/2023 15:15,07/10/2026 15:15
 5f61aa92-7791-4b31-8ffb-2686ab5b36f1,vexation.team,available,42,3,8,,,
 ef6d5629-b0b2-431e-af1a-63b3b2e3632b,vexatious.team,available,38,3,9,,,
 eaf88782-bfbc-488d-9da0-a0bb4756e94f,vexing.team,available,66,4,6,,,
@@ -6574,7 +6573,6 @@ c89fc7ca-4345-42c0-85ee-eb5b41731acb,vinegarish.team,available,46,1,10,,,
 243626fc-a964-4196-84f5-6ea557befbe7,violated.team,available,52,2,8,,,
 f93f7fcd-2538-41c8-99b9-b41320c35dc0,violation.team,available,58,6,9,,,
 6d2aca94-d8c5-4023-8fab-afe1054f796e,virtual.team,resell,,40,7,Dynadot Inc,25/07/2015 16:00,25/07/2026 16:00
-49b28ac7-bd80-4898-94f4-69cc17a9b2f6,virtually.team,resell,64,9,9,GoDaddy Online Services Cayman Islands Ltd.,07/01/2022 22:26,07/01/2026 22:26
 d34dd51b-04e4-453d-b64c-acfe059bc47e,virulent.team,available,44,3,8,,,
 be74cc6b-48af-4d9b-a319-951642ff08ec,visited.team,available,76,5,7,,,
 767aaea0-3bb3-4a1f-8846-4f17788de800,visiting.team,available,68,6,8,,,
@@ -6593,7 +6591,7 @@ f6c30d84-cc9d-4972-84f9-a4239745ec63,Volkswagen.team,available,92,24,10,,,
 b0b44beb-9c10-4f26-a81e-a58192ce38aa,volleyball.team,available,74,17,10,,,
 a3b7538b-963c-400f-95cc-db5d55965344,voluntarily.team,available,62,2,11,,,
 ba704f6d-d6ff-46bb-833c-3338e6857f57,vomiting.team,available,60,2,8,,,
-5cb331e0-70cc-4a49-81d4-3ba70954f3e4,vote.team,resell,74,34,4,"Sav.com, LLC - 16",06/08/2025 15:16,06/08/2026 15:16
+5cb331e0-70cc-4a49-81d4-3ba70954f3e4,vote.team,resell,74,33,4,"Sav.com, LLC - 16",06/08/2025 15:16,06/08/2026 15:16
 b0a9d079-6029-4bbd-8c49-d83ec85dd7d5,voter.team,available,68,11,5,,,
 25d626e8-3a12-4b1e-885f-05caea16dee2,voting.team,available,88,13,6,,,
 5ab15046-7dee-43f1-a409-982f2cb3f78e,vouchfor.team,available,,3,9,,,
@@ -6606,14 +6604,14 @@ e62d9a71-9c43-4cb4-b367-b9ccf16b83ce,waitingroom.team,available,72,8,12,,,
 b8bd372d-bef6-484c-ab28-887da3d1daf8,waken.team,available,74,7,5,,,
 e5630443-1cca-4ad3-99be-d1f9f26ac8a7,wakening.team,available,75,1,8,,,
 4901b01f-fb8a-4748-972e-70102036bf81,wakeup.team,available,,23,7,,,
-b64a380c-d8c9-4832-8c40-1a212df30e5e,wakingup.team,available,75,4,9,,,
+b64a380c-d8c9-4832-8c40-1a212df30e5e,wakingup.team,available,75,3,9,,,
 ebc8858f-2b2f-435c-9ce3-f2cce4cfcf18,walk.team,resell,80,18,4,"DNSPod, Inc.",21/09/2019 08:37,21/09/2026 08:37
 8ef44279-80cb-4f7f-bcb9-4035c8d06db7,walkabout.team,available,,10,10,,,
 474b1e15-28f9-4ae5-9d25-b155158864ec,walkfree.team,available,,2,9,,,
 727d71ee-9b43-4136-9be7-158f38b4309d,walkietalkie.team,available,76,8,13,,,
 f2ebd0d0-6b6d-4dec-ac9f-70ee642e9020,walkingstick.team,available,70,4,13,,,
-5ce86ebd-2f7e-401c-b411-1e2166b231bd,wall.team,resell,72,25,4,"DNSPod, Inc.",14/06/2019 22:15,14/06/2026 22:15
-d9878b4b-b2c8-46fd-8097-4ccd729e3fbd,wallet.team,resell,74,52,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/03/2018 08:12,27/03/2027 08:12
+5ce86ebd-2f7e-401c-b411-1e2166b231bd,wall.team,resell,72,24,4,"DNSPod, Inc.",14/06/2019 22:15,14/06/2026 22:15
+d9878b4b-b2c8-46fd-8097-4ccd729e3fbd,wallet.team,resell,74,51,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/03/2018 08:12,27/03/2027 08:12
 d9315774-1c15-47a6-be3c-e7f2ee3ddb22,walloping.team,available,70,1,9,,,
 77325816-64e1-4a69-b409-c1325f6beddb,Walmart.team,available,92,40,7,,,
 dcf46451-4487-4103-aad6-b0b710ef6e45,wandering.team,available,72,13,9,,,
@@ -6637,7 +6635,7 @@ bce96159-e5ab-47d0-9f3d-0b1163a5216d,wasted.team,available,50,10,6,,,
 7f96bef2-5246-4d1b-8f53-a339fc612eb1,watch.team,available,94,33,5,,,
 b890fea1-b8c2-43e2-8048-a4baf99fd845,watchful.team,available,64,6,8,,,
 1dc874fd-5bfd-4e5e-96c6-d1b385987dd6,watchover.team,available,75,2,10,,,
-93708f99-24d3-4fac-9f64-6e60edfb5d9a,water.team,resell,108,41,5,"DNSPod, Inc.",20/10/2024 15:15,20/10/2026 15:15
+93708f99-24d3-4fac-9f64-6e60edfb5d9a,water.team,resell,108,40,5,"DNSPod, Inc.",20/10/2024 15:15,20/10/2026 15:15
 036490a5-cebf-4ec5-b7fa-4f342109fcb0,waterflow.team,available,72,6,9,,,
 963aec5b-dee3-4c4b-b8a3-cd7145b9a274,waterfountain.team,available,74,4,14,,,
 725e226b-3498-4210-9e06-601e3cdc4e21,waterless.team,available,44,7,9,,,
@@ -6660,7 +6658,7 @@ d34f2364-46d9-4a04-97ac-ddebd7f2571f,welfarecheck.team,available,66,1,13,,,
 04e24e33-bfee-45cd-af55-5dd7a00a8afd,welltimed.team,available,50,3,10,,,
 700c2690-6bb0-4f1c-9814-b169f805ed43,wellworn.team,available,42,3,9,,,
 deaf1f7f-ac49-4322-86c6-4d6efa369e4e,were.team,available,78,8,4,,,
-bf90c6cb-bdbd-44cc-9152-580743391730,west.team,resell,62,24,4,"DNSPod, Inc.",04/02/2018 14:43,04/02/2026 14:43
+bf90c6cb-bdbd-44cc-9152-580743391730,west.team,resell,62,23,4,"DNSPod, Inc.",04/02/2018 14:43,04/02/2026 14:43
 61be6cda-3051-44a0-aa64-d08ef293cb18,Westminster.team,available,66,10,11,,,
 a8aa9279-e61c-4894-b838-d38d3de5d5a1,wet.team,available,84,20,3,,,
 78b6a687-f077-4011-b623-b06ba3d5fe54,whacky.team,available,62,3,6,,,
@@ -6684,7 +6682,7 @@ d9ab8543-a0c9-4485-9401-f7a7134efe9b,whether.team,available,80,5,7,,,
 3c3d53a6-469f-41a4-831a-68a771e29ffe,which.team,available,66,11,5,,,
 258f430f-a387-429b-8223-d90ec1ea5232,whichever.team,available,60,2,9,,,
 94df18cf-afc9-4aba-a726-bf8f2555cbbe,whilst.team,available,64,2,6,,,
-bb8fb736-996b-43ef-94d7-019604f1c6c4,whip.team,available,70,13,4,,,
+bb8fb736-996b-43ef-94d7-019604f1c6c4,whip.team,available,70,14,4,,,
 deacb321-90ec-447f-8773-2e33009ab4e7,whiskered.team,available,50,1,9,,,
 7d3a378e-6fb2-4673-98fb-d5728376c1a3,whiskery.team,available,66,1,8,,,
 c7d35374-0681-4795-a5bc-acc73b8207ec,whisking.team,available,66,2,8,,,
@@ -6698,6 +6696,7 @@ c500fcb0-67f3-4b5c-ae7b-ff125c754a32,whiz.team,available,100,12,4,,,
 e1aaa82c-5686-423d-98e1-71076997350b,who.team,available,68,7,3,,,
 470f761e-889a-42fc-b28c-202200603c39,whoever.team,available,,5,7,,,
 829af478-11b5-4956-90e2-5e22c000fcf9,whole.team,resell,104,17,5,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2021 13:15,14/10/2026 13:15
+905d36a3-6b9e-4f74-ad9f-1b5c7d850d8a,wholesale.team,resell,120,25,9,"DNSPod, Inc.",16/12/2019 08:16,16/12/2026 08:16
 fa9f92b5-57ec-4e3a-8de6-c46fbf64faed,wholly.team,available,62,6,6,,,
 ef246b92-e6d7-477c-8875-b119c51eb612,whopping.team,available,78,1,8,,,
 ce89b2f0-27d1-43fe-8495-d9b43d9a8bec,whoreson.team,available,52,1,8,,,
@@ -6707,7 +6706,7 @@ da45afe4-65c9-4f82-a87f-0d86d1ee103d,whothehell.team,available,,1,12,,,
 e278dfc0-ce72-44bd-9733-8b50b0da39eb,wicked.team,available,70,22,6,,,
 066bcf06-05ed-49b1-822a-fc23b7f7be8d,widely.team,available,62,5,6,,,
 ec517320-f718-4d3b-a5b1-dc80979d4a21,widen.team,available,68,7,5,,,
-7d4069a6-4287-4aca-9aea-bd68d7948379,wideopen.team,available,,6,9,,,
+7d4069a6-4287-4aca-9aea-bd68d7948379,wideopen.team,available,64,6,9,,,
 dc6e85bb-e7bd-45e0-84bb-ec1db7fe9c00,widespread.team,available,66,3,10,,,
 daced62d-a5ef-43fd-b83e-b1c52eeb27be,widowed.team,available,60,2,7,,,
 56405ea5-7ff1-44e3-ab7c-423ea34018f2,wild.team,resell,66,32,4,"Chengdu West Dimension Digital Technology Co., Ltd.",24/01/2018 08:45,24/01/2026 08:45
@@ -6718,7 +6717,7 @@ e7961d9b-866f-434c-98b6-56cc8927db99,windowseat.team,available,74,5,11,,,
 34e174d4-7255-4db7-a8a5-8851ea6bbab5,windy.team,available,90,12,5,,,
 a7ec41e5-a03e-4317-aecd-b3710629e0e2,wine.team,resell,74,32,4,"DNSPod, Inc.",29/07/2015 16:00,29/07/2026 16:00
 685dab96-4f68-4b3c-98f1-256a3e1a3062,wing.team,resell,62,22,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/02/2019 08:18,21/02/2026 08:18
-60a16216-ec51-4994-b294-98eee2f1a89d,winner.team,resell,78,31,6,"DNSPod, Inc.",15/10/2019 19:21,15/10/2026 19:21
+60a16216-ec51-4994-b294-98eee2f1a89d,winner.team,resell,78,30,6,"DNSPod, Inc.",15/10/2019 19:21,15/10/2026 19:21
 b9e96c1b-3aa9-4e66-92f8-639b24ffd130,winover.team,available,76,3,8,,,
 175ef7e3-85fd-45fd-9bde-3c3fe784c44a,winterblues.team,available,,1,12,,,
 562a089d-6a64-4b0d-b553-27a9614ab167,WinterHaven.team,available,,4,12,,,
@@ -6741,14 +6740,14 @@ c4805fd5-c67a-4f64-b0ff-a99d25a10ffc,withoutfail.team,available,74,2,12,,,
 0026c99d-cda1-4726-82c4-06c889efa58d,withregardsto.team,available,50,1,15,,,
 a3eca254-1297-4fba-8f53-dde2f39452c4,wizard.team,resell,118,38,6,"DNSPod, Inc.",08/04/2019 22:54,08/04/2026 22:54
 de82d36b-8d52-4775-bb1e-e7839328f565,wobbly.team,available,65,6,6,,,
-a4536e9d-1544-4b46-a6ce-2ad3861ef0c7,woman.team,resell,112,17,5,"DNSPod, Inc.",30/10/2020 06:28,30/10/2026 06:28
+a4536e9d-1544-4b46-a6ce-2ad3861ef0c7,woman.team,resell,112,16,5,"DNSPod, Inc.",30/10/2020 06:28,30/10/2026 06:28
 26776697-2811-4498-be27-fa5fcc5c39b7,won.team,available,108,15,3,,,
 ae18a368-fefd-4113-a766-4bc1a1148128,wondered.team,available,66,3,8,,,
 1016276d-aece-411e-ad9d-b96f510af435,wonderfully.team,available,68,3,11,,,
 3ab4cd24-bfec-4d36-9e24-58a64f7114f8,wonky.team,available,66,7,5,,,
 0a2f3cf2-5b12-47a7-9b1d-567c80c858d2,woods.team,available,66,24,5,,,
 c62f5902-6fb5-4984-b230-b4658ea5d91d,woodsy.team,available,66,7,6,,,
-1b070755-ff6a-4858-a960-30447e3711ec,wool.team,available,68,12,4,,,
+1b070755-ff6a-4858-a960-30447e3711ec,wool.team,available,68,13,4,,,
 0ce484fd-8f24-4f1c-80e3-d325d4aced33,woops.team,available,74,6,5,,,
 411ebddc-26f7-4b31-ae74-b1e5b06e1768,word.team,resell,80,34,4,"DNSPod, Inc.",23/04/2018 09:47,23/04/2026 09:47
 c3d446c1-e5ed-467c-90d6-2464b8aab1b4,wordblind.team,available,32,2,10,,,
@@ -6757,7 +6756,7 @@ b3f6540e-3d39-49c9-89de-464dda49c835,wording.team,available,70,5,7,,,
 36013b8d-ed2b-4725-ac3e-6050c038f4c4,WordofAllah.team,available,,1,13,,,
 a93b87cb-bcf1-4305-ba20-c456ec9eba08,wordofmouth.team,available,,19,13,,,
 4e671d39-d26b-4073-a3cb-f9725d081693,wordplay.team,available,,8,9,,,
-bf810f05-8f50-40b3-a40b-d870c03ac02b,work.team,resell,72,34,4,"DNSPod, Inc.",12/10/2020 08:09,12/10/2026 08:09
+bf810f05-8f50-40b3-a40b-d870c03ac02b,work.team,resell,72,35,4,"DNSPod, Inc.",12/10/2020 08:09,12/10/2026 08:09
 12a148bd-70d8-4305-8c3f-7ebd483f7196,workethic.team,available,70,4,10,,,
 42df53df-5502-462e-a9b2-b6045a222bb9,workfare.team,available,,2,8,,,
 4425e377-9488-41c8-bf75-0b333dc02ff9,working.team,resell,80,19,7,"DNSPod, Inc.",17/04/2019 22:32,17/04/2026 22:32
@@ -6779,10 +6778,9 @@ a7983006-ce87-46ac-bfdd-2286a5180562,wounded.team,available,62,3,7,,,
 b5c8cd3b-32d0-471a-b0e8-c6b2c57746f2,wrapped.team,available,62,13,7,,,
 2cad9439-caca-46a1-b333-ae0081d2b993,wrecked.team,available,60,4,7,,,
 66e85763-0ece-486d-8666-b603ee409d59,wrench.team,available,60,11,6,,,
-a550cd67-c2ae-4b2e-a5c4-e7d1cd1b4086,wrist.team,available,92,9,5,,,
+a550cd67-c2ae-4b2e-a5c4-e7d1cd1b4086,wrist.team,available,92,8,5,,,
 ac1d5709-c896-4b9d-bef2-d30392d70f25,write.team,resell,98,26,5,"Sav.com, LLC - 28",08/12/2023 15:15,08/12/2026 15:15
 59c6aa38-989b-4413-9e5e-6bf9e56527f3,writedown.team,available,,2,10,,,
-62a6c83a-831c-4d9a-af26-888988c97f03,writing.team,resell,74,21,7,"Sav.com, LLC - 44",13/01/2025 15:15,13/01/2026 15:15
 5930b522-6519-4758-8ee2-d17a2bf9bbaa,written.team,available,74,8,7,,,
 99196670-2612-4143-aa0d-35c5a68c3636,wrongcrowd.team,available,58,2,11,,,
 6d409e88-a687-4f74-bcbc-93090bd81c62,wrongful.team,available,56,1,8,,,
@@ -6834,13 +6832,13 @@ cfbbf375-c6f5-418a-8aba-8aae8ddf3d58,xxxvi.team,available,56,1,5,,,
 0e0ac34d-822e-4c85-9253-dd1170f957c0,xxxviii.team,available,56,1,7,,,
 11e5a385-3ca2-4fe4-bf63-143fc9cd5954,yall.team,available,60,12,4,,,
 0f7f6571-41cd-4664-bd0e-090b07a7f77e,yard.team,resell,80,22,4,"Sav.com, LLC - 28",04/06/2025 15:15,04/06/2026 15:15
-9f1999d7-da61-446b-9089-5777d3a4d8bb,yeah.team,resell,100,22,4,"Sav.com, LLC - 6",09/02/2025 15:15,09/02/2026 15:15
+9f1999d7-da61-446b-9089-5777d3a4d8bb,yeah.team,resell,100,21,4,"Sav.com, LLC - 6",09/02/2025 15:15,09/02/2026 15:15
 78fd126a-2e77-41a1-948f-dfbda15dc5a8,yearend.team,available,74,4,8,,,
 7a4223fa-6f8f-4e44-b9aa-6c5334d11e7f,yearly.team,available,104,5,6,,,
 26144be8-c902-4772-9e54-abfca0f7d251,yearround.team,available,78,2,10,,,
 ed60cc6a-6100-460f-bde9-4f7c88fd8ab6,years.team,available,88,10,5,,,
 5a1f993c-56dd-417e-879f-cd6066104341,yeasty.team,available,46,2,6,,,
-2a3aacb7-0b34-4ee6-b284-149e6cd1252a,yelled.team,available,66,2,6,,,
+2a3aacb7-0b34-4ee6-b284-149e6cd1252a,yelled.team,available,66,1,6,,,
 f7875b22-e922-468b-b4c3-f170aff57bd5,yellownotice.team,available,64,1,13,,,
 c5718f92-72f5-4fa0-af55-1a56e814d2b6,yet.team,available,112,14,3,,,
 4c4b783a-89e3-4459-9b03-429fbb4ce18f,york.team,available,52,23,4,,,
