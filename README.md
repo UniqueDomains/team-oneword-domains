@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .team one-word domains from Unique
 
 **Public extract:** 7,883 rows · **Live catalog:** 7,876 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/team`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| lovely.team        | available | $7.99     | $48.99        | 72             | 32     | 6      | name.com          |
-| anywhere.team      | resell    | $7.99     | —             | 82             | 27     | 8      | Spaceship, Inc.   |
-| land.team          | premium   | $260      | $260          | 62             | 36     | 4      | namecheap         |
-| dirty.team         | available | $7.99     | $48.99        | 92             | 26     | 5      | name.com          |
-| providence.team    | resell    | $7.99     | —             | 82             | 22     | 10     | Spaceship, Inc.   |
-| cool.team          | premium   | $250      | $250          | 76             | 35     | 4      | name.com          |
-| material.team      | available | $7.99     | $48.99        | 106            | 24     | 8      | name.com          |
-| political.team     | resell    | $46.48    | —             | 80             | 21     | 9      | NameCheap, Inc.   |
-| doctor.team        | premium   | $130      | $260          | 84             | 34     | 6      | namecheap         |
-| remedial.team      | available | $7.99     | $48.99        | 86             | 24     | 8      | name.com          |
-| environmental.team | resell    | $46.48    | —             | 84             | 16     | 13     | NameCheap, Inc.   |
-| construction.team  | premium   | $260      | $260          | 66             | 30     | 12     | namecheap         |
-| accessible.team    | available | $7.99     | $48.99        | 78             | 22     | 10     | name.com          |
-| global.team        | resell    | —         | —             | 108            | 99     | 6      | Dynadot Inc       |
-| cut.team           | premium   | $250      | $250          | 124            | 26     | 3      | name.com          |
-| option.team        | available | $7.99     | $48.99        | 104            | 21     | 6      | name.com          |
-| company.team       | resell    | —         | —             | 98             | 99     | 7      | Edomains LLC      |
-| dutch.team         | premium   | $82.50    | $82.50        | 92             | 25     | 5      | name.com          |
-| define.team        | available | $7.99     | $48.99        | 96             | 21     | 6      | name.com          |
-| brown.team         | resell    | —         | —             | 98             | 98     | 5      | Sav.com, LLC - 35 |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| lovely.team        | available | $7.99     | $48.99        | 72             | 32     | 6      | name.com        |
+| anywhere.team      | resell    | $7.99     | —             | 82             | 27     | 8      | Spaceship, Inc. |
+| land.team          | premium   | $260      | $260          | 62             | 36     | 4      | namecheap       |
+| dirty.team         | available | $7.99     | $48.99        | 92             | 26     | 5      | name.com        |
+| providence.team    | resell    | $7.99     | —             | 82             | 22     | 10     | Spaceship, Inc. |
+| cool.team          | premium   | $250      | $250          | 76             | 35     | 4      | name.com        |
+| material.team      | available | $7.99     | $48.99        | 106            | 24     | 8      | name.com        |
+| political.team     | resell    | $46.48    | —             | 80             | 21     | 9      | NameCheap, Inc. |
+| doctor.team        | premium   | $130      | $260          | 84             | 34     | 6      | namecheap       |
+| remedial.team      | available | $7.99     | $48.99        | 86             | 24     | 8      | name.com        |
+| environmental.team | resell    | $46.48    | —             | 84             | 16     | 13     | NameCheap, Inc. |
+| construction.team  | premium   | $260      | $260          | 66             | 30     | 12     | namecheap       |
+| accessible.team    | available | $7.99     | $48.99        | 78             | 22     | 10     | name.com        |
+| global.team        | resell    | —         | —             | 108            | 99     | 6      | Dynadot Inc     |
+| cut.team           | premium   | $250      | $250          | 124            | 26     | 3      | name.com        |
+| option.team        | available | $7.99     | $48.99        | 104            | 21     | 6      | name.com        |
+| company.team       | resell    | —         | —             | 98             | 99     | 7      | Edomains LLC    |
+| dutch.team         | premium   | $82.50    | $82.50        | 92             | 25     | 5      | name.com        |
+| define.team        | available | $7.99     | $48.99        | 96             | 21     | 6      | name.com        |
+| stern.team         | resell    | —         | —             | 56             | 98     | 5      | DNSPod, Inc.    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TEAM One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TEAM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
