@@ -938,6 +938,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57ce8e0e-11f4-4d06-8c4d-4b72ad4dc685,coffeesenna.team,available,7.99,,80,1,12,name.com,,
 57cf505b-4cc9-4d1e-903a-2b08b3e1864a,wouldof.team,available,7.99,,55,1,8,name.com,,
 57e11c4a-694b-459a-aeb8-74b20e3ba92e,uncared.team,available,7.99,,57,1,7,name.com,,
+57ebfccf-63ca-4d5c-81e8-7f22130ed4f2,said.team,premium,,,70,15,4,,,
 58176fb3-d021-4afc-9eba-7eaa563f12b5,herbsandspices.team,available,7.99,,54,3,16,name.com,,
 582250f9-bff9-4d1b-9df2-0ca5dfa8045d,makeof.team,available,7.99,,76,1,7,name.com,,
 5822f3d4-5bb3-4c87-9a89-c2f58b91fd34,rages.team,available,7.99,,40,4,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5ceae8a4-f20a-4847-acf1-563c6516bc8c,upperlip.team,available,7.99,,52,1,9,name.com,,
 5d0b490f-32d7-4344-9d3d-6cbddc5bce85,havenobusiness.team,available,7.99,,60,1,16,name.com,,
 5d1fb727-86cb-4e8b-8b34-48e1bfbb0db4,starkest.team,available,7.99,,40,2,8,name.com,,
-5d243ac8-236a-4b7d-b208-f8bd0022619f,overdressed.team,available,7.99,,64,3,12,name.com,,
