@@ -129,6 +129,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0c118c14-8d01-4d59-bfe5-57c0917ff8df,smashit.team,available,7.99,,72,8,8,name.com,,
 0c52c878-e972-4500-bcd6-3d6adefdf152,exclaims.team,available,7.99,,50,1,8,name.com,,
 0c6e0907-378f-4403-93d7-07345904e0ed,VHS.team,premium,23.1,46.2,71,20,3,namecheap,,
+0c859b42-4c6d-4b42-90bc-435ad3867878,thisisit.team,available,7.99,,62,14,10,name.com,,
 0c884f8e-1f60-4d26-99c6-f0af84314094,gobankrupt.team,available,7.99,,68,2,11,name.com,,
 0cad3969-4fef-41b5-b867-74bc2b53ce46,barbecuedpork.team,available,7.99,,58,0,14,name.com,,
 0cb6a4c4-c05e-4d92-87af-afa2639751e1,Itellalie.team,available,46.48,,58,1,12,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5cc2004a-ee89-4230-a8f2-ffa8384fe368,threats.team,available,7.99,,44,8,7,name.com,,
 5ceae8a4-f20a-4847-acf1-563c6516bc8c,upperlip.team,available,7.99,,52,1,9,name.com,,
 5d0b490f-32d7-4344-9d3d-6cbddc5bce85,havenobusiness.team,available,7.99,,60,1,16,name.com,,
-5d1fb727-86cb-4e8b-8b34-48e1bfbb0db4,starkest.team,available,7.99,,40,2,8,name.com,,
