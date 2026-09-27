@@ -1,10 +1,10 @@
-# Available .TEAM One-Word Domains (11,837)
+# Available .TEAM One-Word Domains (18,927)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C837%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C927%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .team one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,837 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,927 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,837 domains · **Median ask:** $5.30 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 18,927 domains · **Median ask:** $6.79 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/team`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ague.team       | available | $2.98     | $46.48        | medium         | low    | 4      | namecheap        |
-| knock.team      | resell    | $7.99     | —             | high           | low    | 5      | Spaceship, Inc.  |
-| abo.team        | premium   | $21.45    | $42.90        | high           | low    | 3      | namecheap        |
-| aids.team       | available | $7.99     | —             | high           | low    | 4      | name.com         |
-| salad.team      | resell    | $7.99     | —             | high           | low    | 5      | NameCheap, Inc.  |
-| bae.team        | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
-| alky.team       | available | $2.98     | $46.48        | medium         | low    | 4      | namecheap        |
-| renewal.team    | resell    | $7.99     | —             | high           | low    | 7      | NameCheap, Inc.  |
-| bed.team        | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
-| auld.team       | available | $2.98     | $46.48        | medium         | low    | 4      | namecheap        |
-| enthusiasm.team | resell    | $7.99     | —             | high           | low    | 10     | NameCheap, Inc.  |
-| clv.team        | premium   | $42.90    | $85.80        | high           | low    | 3      | namecheap        |
-| bead.team       | available | $7.99     | —             | high           | low    | 4      | name.com         |
-| add.team        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| clx.team        | premium   | $42.90    | $85.80        | high           | low    | 3      | namecheap        |
-| chin.team       | available | $7.99     | —             | high           | low    | 4      | name.com         |
-| boy.team        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| cxl.team        | premium   | $21.45    | $42.90        | high           | low    | 3      | namecheap        |
-| clam.team       | available | $7.99     | —             | high           | low    | 4      | name.com         |
-| our.team        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| abcs.team     | available | $7.49     | $36.49        | high           | low    | 4      | namesilo                                     |
+| laugh.team    | resell    | $7.99     | —             | high           | low    | 5      | NameCheap, Inc.                              |
+| ala.team      | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                                    |
+| acer.team     | available | $7.49     | $36.49        | high           | low    | 4      | namesilo                                     |
+| illusion.team | resell    | $7.99     | —             | high           | low    | 8      | NameCheap, Inc.                              |
+| amy.team      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| afro.team     | available | $2.98     | $46.48        | high           | low    | 4      | namecheap                                    |
+| laughter.team | resell    | $7.99     | —             | high           | low    | 8      | NameCheap, Inc.                              |
+| arp.team      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| ahuh.team     | available | $7.99     | —             | medium         | low    | 4      | name.com                                     |
+| man.team      | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| bph.team      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                     |
+| alep.team     | available | $2.98     | $46.48        | medium         | low    | 4      | namecheap                                    |
+| arts.team     | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| coy.team      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                     |
+| aras.team     | available | $7.49     | $36.49        | medium         | low    | 4      | namesilo                                     |
+| back.team     | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| din.team      | premium   | $130      | $260          | medium         | low    | 3      | namecheap                                    |
+| awny.team     | available | $2.98     | $46.48        | medium         | low    | 4      | namecheap                                    |
+| band.team     | resell    | —         | —             | high           | low    | 4      | Squarespace Domains II LLC                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,837 live domains                        |
+| 1,000-row public sample | 18,927 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TEAM One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TEAM One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
